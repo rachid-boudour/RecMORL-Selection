@@ -1,0 +1,4693 @@
+<?xml version="1.0" ?>
+<cloud id="4" name="CP_4">
+	<services>
+		<service id="313">
+			<energy>12.783</energy>
+			<cost>0.183</cost>
+			<benifit>0.018078000000000004</benifit>
+			<reliability>14.445</reliability>
+			<availability>17.381</availability>
+			<response_time>32.165</response_time>
+		</service>
+		<service id="371">
+			<energy>25.85</energy>
+			<cost>2.888</cost>
+			<benifit>0.39141200000000004</benifit>
+			<reliability>28.198</reliability>
+			<availability>22.888</availability>
+			<response_time>9.997</response_time>
+		</service>
+		<service id="152">
+			<energy>14.525</energy>
+			<cost>1.028</cost>
+			<benifit>0.07884500000000001</benifit>
+			<reliability>11.962</reliability>
+			<availability>8.655</availability>
+			<response_time>18.141</response_time>
+		</service>
+		<service id="137">
+			<energy>24.155</energy>
+			<cost>11.697</cost>
+			<benifit>0.941325</benifit>
+			<reliability>24.846</reliability>
+			<availability>11.57</availability>
+			<response_time>26.681</response_time>
+		</service>
+		<service id="372">
+			<energy>25.755</energy>
+			<cost>4.404</cost>
+			<benifit>0.9007020000000001</benifit>
+			<reliability>26.866</reliability>
+			<availability>19.61</availability>
+			<response_time>15.385</response_time>
+		</service>
+		<service id="0">
+			<energy>11.603</energy>
+			<cost>13.501</cost>
+			<benifit>2.631748</benifit>
+			<reliability>6.14</reliability>
+			<availability>9.172</availability>
+			<response_time>17.249</response_time>
+		</service>
+		<service id="350">
+			<energy>16.4</energy>
+			<cost>5.61</cost>
+			<benifit>0.24271500000000001</benifit>
+			<reliability>23.803</reliability>
+			<availability>18.064</availability>
+			<response_time>7.752</response_time>
+		</service>
+		<service id="220">
+			<energy>15.922</energy>
+			<cost>2.866</cost>
+			<benifit>0.49870800000000004</benifit>
+			<reliability>16.45</reliability>
+			<availability>18.578</availability>
+			<response_time>16.705</response_time>
+		</service>
+		<service id="85">
+			<energy>13.737</energy>
+			<cost>13.554</cost>
+			<benifit>3.452808</benifit>
+			<reliability>5.069</reliability>
+			<availability>9.198</availability>
+			<response_time>23.721</response_time>
+		</service>
+		<service id="168">
+			<energy>13.14</energy>
+			<cost>4.894</cost>
+			<benifit>0.43771100000000007</benifit>
+			<reliability>9.408</reliability>
+			<availability>15.925</availability>
+			<response_time>9.094</response_time>
+		</service>
+		<service id="201">
+			<energy>8.919</energy>
+			<cost>2.554</cost>
+			<benifit>0.36807200000000007</benifit>
+			<reliability>22.09</reliability>
+			<availability>10.899</availability>
+			<response_time>12.154</response_time>
+		</service>
+		<service id="45">
+			<energy>18.359</energy>
+			<cost>10.92</cost>
+			<benifit>1.263842</benifit>
+			<reliability>6.338</reliability>
+			<availability>11.407</availability>
+			<response_time>24.892</response_time>
+		</service>
+		<service id="341">
+			<energy>29.243</energy>
+			<cost>0.122</cost>
+			<benifit>0.007755000000000001</benifit>
+			<reliability>24.381</reliability>
+			<availability>18.855</availability>
+			<response_time>33.942</response_time>
+		</service>
+		<service id="247">
+			<energy>24.297</energy>
+			<cost>10.05</cost>
+			<benifit>1.758264</benifit>
+			<reliability>22.964</reliability>
+			<availability>11.776</availability>
+			<response_time>32.207</response_time>
+		</service>
+		<service id="93">
+			<energy>7.364</energy>
+			<cost>5.345</cost>
+			<benifit>1.0922560000000001</benifit>
+			<reliability>20.52</reliability>
+			<availability>11.167</availability>
+			<response_time>22.487</response_time>
+		</service>
+		<service id="209">
+			<energy>20.421</energy>
+			<cost>0.716</cost>
+			<benifit>0.01767</benifit>
+			<reliability>24.796</reliability>
+			<availability>10.084</availability>
+			<response_time>36.7</response_time>
+		</service>
+		<service id="206">
+			<energy>12.287</energy>
+			<cost>8.027</cost>
+			<benifit>0.65164</benifit>
+			<reliability>12.198</reliability>
+			<availability>14.242</availability>
+			<response_time>31.083</response_time>
+		</service>
+		<service id="394">
+			<energy>24.157</energy>
+			<cost>1.906</cost>
+			<benifit>0.031376</benifit>
+			<reliability>24.359</reliability>
+			<availability>25.475</availability>
+			<response_time>16.344</response_time>
+		</service>
+		<service id="232">
+			<energy>18.208</energy>
+			<cost>1.58</cost>
+			<benifit>0.22722000000000003</benifit>
+			<reliability>15.183</reliability>
+			<availability>11.17</availability>
+			<response_time>0.499</response_time>
+		</service>
+		<service id="281">
+			<energy>26.034</energy>
+			<cost>7.196</cost>
+			<benifit>1.0468439999999999</benifit>
+			<reliability>25.922</reliability>
+			<availability>14.023</availability>
+			<response_time>20.043</response_time>
+		</service>
+		<service id="304">
+			<energy>22.114</energy>
+			<cost>7.713</cost>
+			<benifit>1.7850300000000001</benifit>
+			<reliability>31.603</reliability>
+			<availability>19.618</availability>
+			<response_time>35.699</response_time>
+		</service>
+		<service id="265">
+			<energy>18.302</energy>
+			<cost>4.677</cost>
+			<benifit>0.11112000000000001</benifit>
+			<reliability>15.17</reliability>
+			<availability>12.711</availability>
+			<response_time>9.579</response_time>
+		</service>
+		<service id="329">
+			<energy>32.73</energy>
+			<cost>3.699</cost>
+			<benifit>0.6652849999999999</benifit>
+			<reliability>22.765</reliability>
+			<availability>14.858</availability>
+			<response_time>38.327</response_time>
+		</service>
+		<service id="336">
+			<energy>24.214</energy>
+			<cost>2.874</cost>
+			<benifit>0.0</benifit>
+			<reliability>27.92</reliability>
+			<availability>14.397</availability>
+			<response_time>14.154</response_time>
+		</service>
+		<service id="302">
+			<energy>27.644</energy>
+			<cost>6.793</cost>
+			<benifit>1.4570400000000001</benifit>
+			<reliability>21.751</reliability>
+			<availability>13.976</availability>
+			<response_time>4.936</response_time>
+		</service>
+		<service id="219">
+			<energy>13.409</energy>
+			<cost>4.007</cost>
+			<benifit>0.977058</benifit>
+			<reliability>17.025</reliability>
+			<availability>16.627</availability>
+			<response_time>30.563</response_time>
+		</service>
+		<service id="330">
+			<energy>30.146</energy>
+			<cost>2.562</cost>
+			<benifit>0.138096</benifit>
+			<reliability>23.421</reliability>
+			<availability>20.131</availability>
+			<response_time>12.057</response_time>
+		</service>
+		<service id="75">
+			<energy>22.699</energy>
+			<cost>15.153</cost>
+			<benifit>1.3021239999999998</benifit>
+			<reliability>21.812</reliability>
+			<availability>6.994</availability>
+			<response_time>14.317</response_time>
+		</service>
+		<service id="340">
+			<energy>14.854</energy>
+			<cost>5.726</cost>
+			<benifit>1.153322</benifit>
+			<reliability>28.672</reliability>
+			<availability>22.141</availability>
+			<response_time>2.183</response_time>
+		</service>
+		<service id="67">
+			<energy>22.291</energy>
+			<cost>16.664</cost>
+			<benifit>3.970395</benifit>
+			<reliability>4.741</reliability>
+			<availability>12.199</availability>
+			<response_time>10.637</response_time>
+		</service>
+		<service id="312">
+			<energy>26.823</energy>
+			<cost>3.23</cost>
+			<benifit>0.54746</benifit>
+			<reliability>30.353</reliability>
+			<availability>17.742</availability>
+			<response_time>17.451</response_time>
+		</service>
+		<service id="373">
+			<energy>20.573</energy>
+			<cost>0.179</cost>
+			<benifit>0.019656</benifit>
+			<reliability>33.035</reliability>
+			<availability>14.966</availability>
+			<response_time>19.049</response_time>
+		</service>
+		<service id="60">
+			<energy>17.678</energy>
+			<cost>9.005</cost>
+			<benifit>1.581368</benifit>
+			<reliability>4.012</reliability>
+			<availability>3.236</availability>
+			<response_time>8.522</response_time>
+		</service>
+		<service id="30">
+			<energy>12.77</energy>
+			<cost>18.239</cost>
+			<benifit>2.9191499999999997</benifit>
+			<reliability>3.558</reliability>
+			<availability>2.019</availability>
+			<response_time>22.701</response_time>
+		</service>
+		<service id="27">
+			<energy>2.177</energy>
+			<cost>12.149</cost>
+			<benifit>0.546832</benifit>
+			<reliability>2.906</reliability>
+			<availability>2.325</availability>
+			<response_time>26.363</response_time>
+		</service>
+		<service id="238">
+			<energy>16.749</energy>
+			<cost>10.148</cost>
+			<benifit>2.7747450000000002</benifit>
+			<reliability>12.975</reliability>
+			<availability>17.307</availability>
+			<response_time>26.979</response_time>
+		</service>
+		<service id="317">
+			<energy>29.126</energy>
+			<cost>4.863</cost>
+			<benifit>0.895102</benifit>
+			<reliability>28.925</reliability>
+			<availability>13.763</availability>
+			<response_time>15.092</response_time>
+		</service>
+		<service id="268">
+			<energy>19.515</energy>
+			<cost>5.267</cost>
+			<benifit>0.970368</benifit>
+			<reliability>24.424</reliability>
+			<availability>12.898</availability>
+			<response_time>11.021</response_time>
+		</service>
+		<service id="261">
+			<energy>12.249</energy>
+			<cost>8.467</cost>
+			<benifit>1.2850559999999998</benifit>
+			<reliability>12.866</reliability>
+			<availability>19.577</availability>
+			<response_time>2.665</response_time>
+		</service>
+		<service id="202">
+			<energy>25.469</energy>
+			<cost>7.751</cost>
+			<benifit>1.537024</benifit>
+			<reliability>27.184</reliability>
+			<availability>10.458</availability>
+			<response_time>32.672</response_time>
+		</service>
+		<service id="324">
+			<energy>17.207</energy>
+			<cost>6.49</cost>
+			<benifit>0.7982009999999999</benifit>
+			<reliability>17.297</reliability>
+			<availability>14.008</availability>
+			<response_time>6.64</response_time>
+		</service>
+		<service id="384">
+			<energy>16.184</energy>
+			<cost>1.407</cost>
+			<benifit>0.277104</benifit>
+			<reliability>32.913</reliability>
+			<availability>18.229</availability>
+			<response_time>22.638</response_time>
+		</service>
+		<service id="147">
+			<energy>18.986</energy>
+			<cost>2.404</cost>
+			<benifit>0.041475</benifit>
+			<reliability>16.986</reliability>
+			<availability>11.062</availability>
+			<response_time>10.228</response_time>
+		</service>
+		<service id="89">
+			<energy>14.841</energy>
+			<cost>3.246</cost>
+			<benifit>0.560015</benifit>
+			<reliability>21.433</reliability>
+			<availability>13.143</availability>
+			<response_time>0.466</response_time>
+		</service>
+		<service id="342">
+			<energy>23.095</energy>
+			<cost>2.64</cost>
+			<benifit>0.42649600000000004</benifit>
+			<reliability>27.075</reliability>
+			<availability>17.323</availability>
+			<response_time>5.328</response_time>
+		</service>
+		<service id="138">
+			<energy>14.996</energy>
+			<cost>10.313</cost>
+			<benifit>0.036137999999999997</benifit>
+			<reliability>7.023</reliability>
+			<availability>9.492</availability>
+			<response_time>35.395</response_time>
+		</service>
+		<service id="292">
+			<energy>12.254</energy>
+			<cost>0.199</cost>
+			<benifit>0.04291999999999999</benifit>
+			<reliability>16.044</reliability>
+			<availability>18.401</availability>
+			<response_time>37.865</response_time>
+		</service>
+		<service id="54">
+			<energy>4.269</energy>
+			<cost>8.552</cost>
+			<benifit>0.8216000000000001</benifit>
+			<reliability>6.788</reliability>
+			<availability>4.998</availability>
+			<response_time>4.514</response_time>
+		</service>
+		<service id="395">
+			<energy>17.667</energy>
+			<cost>1.899</cost>
+			<benifit>0.30949499999999996</benifit>
+			<reliability>16.825</reliability>
+			<availability>21.934</availability>
+			<response_time>3.606</response_time>
+		</service>
+		<service id="82">
+			<energy>8.084</energy>
+			<cost>4.782</cost>
+			<benifit>1.025904</benifit>
+			<reliability>4.069</reliability>
+			<availability>8.084</availability>
+			<response_time>5.239</response_time>
+		</service>
+		<service id="68">
+			<energy>11.223</energy>
+			<cost>2.942</cost>
+			<benifit>0.576445</benifit>
+			<reliability>7.204</reliability>
+			<availability>5.437</availability>
+			<response_time>9.226</response_time>
+		</service>
+		<service id="26">
+			<energy>15.368</energy>
+			<cost>15.946</cost>
+			<benifit>0.257628</benifit>
+			<reliability>14.855</reliability>
+			<availability>10.491</availability>
+			<response_time>3.77</response_time>
+		</service>
+		<service id="-7">
+			<energy>14.439</energy>
+			<cost>2.01</cost>
+			<benifit>0.21650399999999997</benifit>
+			<reliability>5.086</reliability>
+			<availability>4.393</availability>
+			<response_time>20.78</response_time>
+		</service>
+		<service id="126">
+			<energy>19.466</energy>
+			<cost>11.852</cost>
+			<benifit>2.395344</benifit>
+			<reliability>11.255</reliability>
+			<availability>11.125</availability>
+			<response_time>19.893</response_time>
+		</service>
+		<service id="176">
+			<energy>14.581</energy>
+			<cost>1.9</cost>
+			<benifit>0.451269</benifit>
+			<reliability>22.069</reliability>
+			<availability>11.564</availability>
+			<response_time>14.61</response_time>
+		</service>
+		<service id="269">
+			<energy>13.591</energy>
+			<cost>3.728</cost>
+			<benifit>0.0403</benifit>
+			<reliability>29.685</reliability>
+			<availability>14.65</availability>
+			<response_time>12.274</response_time>
+		</service>
+		<service id="160">
+			<energy>8.005</energy>
+			<cost>8.923</cost>
+			<benifit>0.478762</benifit>
+			<reliability>7.772</reliability>
+			<availability>8.39</availability>
+			<response_time>11.008</response_time>
+		</service>
+		<service id="256">
+			<energy>29.528</energy>
+			<cost>1.861</cost>
+			<benifit>0.291522</benifit>
+			<reliability>25.493</reliability>
+			<availability>18.473</availability>
+			<response_time>26.713</response_time>
+		</service>
+		<service id="21">
+			<energy>0.903</energy>
+			<cost>10.408</cost>
+			<benifit>0.9325600000000001</benifit>
+			<reliability>3.971</reliability>
+			<availability>6.267</availability>
+			<response_time>5.003</response_time>
+		</service>
+		<service id="331">
+			<energy>17.171</energy>
+			<cost>5.142</cost>
+			<benifit>0.642896</benifit>
+			<reliability>22.375</reliability>
+			<availability>15.752</availability>
+			<response_time>38.097</response_time>
+		</service>
+		<service id="95">
+			<energy>18.87</energy>
+			<cost>0.362</cost>
+			<benifit>0.08278200000000001</benifit>
+			<reliability>13.413</reliability>
+			<availability>6.936</availability>
+			<response_time>15.708</response_time>
+		</service>
+		<service id="151">
+			<energy>9.94</energy>
+			<cost>13.259</cost>
+			<benifit>2.535139</benifit>
+			<reliability>14.267</reliability>
+			<availability>8.323</availability>
+			<response_time>18.988</response_time>
+		</service>
+		<service id="218">
+			<energy>22.681</energy>
+			<cost>10.977</cost>
+			<benifit>0.91938</benifit>
+			<reliability>26.458</reliability>
+			<availability>10.488</availability>
+			<response_time>7.241</response_time>
+		</service>
+		<service id="-8">
+			<energy>18.294</energy>
+			<cost>6.686</cost>
+			<benifit>0.13372</benifit>
+			<reliability>18.545</reliability>
+			<availability>0.288</availability>
+			<response_time>24.49</response_time>
+		</service>
+		<service id="352">
+			<energy>22.51</energy>
+			<cost>1.706</cost>
+			<benifit>0.007696</benifit>
+			<reliability>22.241</reliability>
+			<availability>20.815</availability>
+			<response_time>9.442</response_time>
+		</service>
+		<service id="288">
+			<energy>24.078</energy>
+			<cost>2.352</cost>
+			<benifit>0.246155</benifit>
+			<reliability>31.357</reliability>
+			<availability>15.854</availability>
+			<response_time>14.909</response_time>
+		</service>
+		<service id="361">
+			<energy>30.869</energy>
+			<cost>5.283</cost>
+			<benifit>0.278424</benifit>
+			<reliability>34.029</reliability>
+			<availability>16.282</availability>
+			<response_time>13.178</response_time>
+		</service>
+		<service id="4">
+			<energy>8.701</energy>
+			<cost>16.117</cost>
+			<benifit>3.789786</benifit>
+			<reliability>9.502</reliability>
+			<availability>9.142</availability>
+			<response_time>2.62</response_time>
+		</service>
+		<service id="61">
+			<energy>14.652</energy>
+			<cost>12.36</cost>
+			<benifit>0.30900500000000003</benifit>
+			<reliability>15.741</reliability>
+			<availability>4.716</availability>
+			<response_time>32.415</response_time>
+		</service>
+		<service id="272">
+			<energy>16.824</energy>
+			<cost>0.944</cost>
+			<benifit>0.050478</benifit>
+			<reliability>19.11</reliability>
+			<availability>18.516</availability>
+			<response_time>25.786</response_time>
+		</service>
+		<service id="187">
+			<energy>21.45</energy>
+			<cost>9.955</cost>
+			<benifit>1.530997</benifit>
+			<reliability>19.58</reliability>
+			<availability>7.866</availability>
+			<response_time>21.667</response_time>
+		</service>
+		<service id="376">
+			<energy>23.399</energy>
+			<cost>2.488</cost>
+			<benifit>0.30387000000000003</benifit>
+			<reliability>27.717</reliability>
+			<availability>19.89</availability>
+			<response_time>6.234</response_time>
+		</service>
+		<service id="153">
+			<energy>17.7</energy>
+			<cost>7.405</cost>
+			<benifit>0.984274</benifit>
+			<reliability>17.001</reliability>
+			<availability>12.142</availability>
+			<response_time>33.544</response_time>
+		</service>
+		<service id="28">
+			<energy>19.877</energy>
+			<cost>7.157</cost>
+			<benifit>0.7419370000000001</benifit>
+			<reliability>20.24</reliability>
+			<availability>7.268</availability>
+			<response_time>29.629</response_time>
+		</service>
+		<service id="242">
+			<energy>26.65</energy>
+			<cost>1.612</cost>
+			<benifit>0.4382</benifit>
+			<reliability>15.881</reliability>
+			<availability>12.438</availability>
+			<response_time>1.111</response_time>
+		</service>
+		<service id="17">
+			<energy>14.429</energy>
+			<cost>7.935</cost>
+			<benifit>1.8684329999999998</benifit>
+			<reliability>7.431</reliability>
+			<availability>10.125</availability>
+			<response_time>2.51</response_time>
+		</service>
+		<service id="19">
+			<energy>15.378</energy>
+			<cost>17.645</cost>
+			<benifit>0.673164</benifit>
+			<reliability>13.997</reliability>
+			<availability>1.838</availability>
+			<response_time>13.752</response_time>
+		</service>
+		<service id="257">
+			<energy>22.983</energy>
+			<cost>2.806</cost>
+			<benifit>0.470169</benifit>
+			<reliability>23.204</reliability>
+			<availability>17.925</availability>
+			<response_time>1.126</response_time>
+		</service>
+		<service id="322">
+			<energy>28.179</energy>
+			<cost>4.458</cost>
+			<benifit>0.758428</benifit>
+			<reliability>32.666</reliability>
+			<availability>18.0</availability>
+			<response_time>0.708</response_time>
+		</service>
+		<service id="92">
+			<energy>18.599</energy>
+			<cost>7.046</cost>
+			<benifit>0.8641119999999999</benifit>
+			<reliability>12.641</reliability>
+			<availability>9.834</availability>
+			<response_time>18.397</response_time>
+		</service>
+		<service id="333">
+			<energy>32.993</energy>
+			<cost>2.565</cost>
+			<benifit>0.25542</benifit>
+			<reliability>13.949</reliability>
+			<availability>20.818</availability>
+			<response_time>24.893</response_time>
+		</service>
+		<service id="-2">
+			<energy>19.311</energy>
+			<cost>2.486</cost>
+			<benifit>0.22176600000000002</benifit>
+			<reliability>8.214</reliability>
+			<availability>0.936</availability>
+			<response_time>26.811</response_time>
+		</service>
+		<service id="210">
+			<energy>19.191</energy>
+			<cost>6.609</cost>
+			<benifit>0.822979</benifit>
+			<reliability>10.195</reliability>
+			<availability>17.501</availability>
+			<response_time>27.373</response_time>
+		</service>
+		<service id="23">
+			<energy>20.897</energy>
+			<cost>12.035</cost>
+			<benifit>0.015164</benifit>
+			<reliability>6.534</reliability>
+			<availability>9.38</availability>
+			<response_time>7.401</response_time>
+		</service>
+		<service id="32">
+			<energy>21.02</energy>
+			<cost>3.653</cost>
+			<benifit>0.291174</benifit>
+			<reliability>14.175</reliability>
+			<availability>3.436</availability>
+			<response_time>24.179</response_time>
+		</service>
+		<service id="378">
+			<energy>25.559</energy>
+			<cost>1.49</cost>
+			<benifit>0.235296</benifit>
+			<reliability>27.764</reliability>
+			<availability>21.203</availability>
+			<response_time>43.937</response_time>
+		</service>
+		<service id="88">
+			<energy>15.519</energy>
+			<cost>15.801</cost>
+			<benifit>3.7245420000000005</benifit>
+			<reliability>5.059</reliability>
+			<availability>7.122</availability>
+			<response_time>27.774</response_time>
+		</service>
+		<service id="56">
+			<energy>7.383</energy>
+			<cost>15.403</cost>
+			<benifit>3.522829</benifit>
+			<reliability>11.459</reliability>
+			<availability>8.115</availability>
+			<response_time>27.455</response_time>
+		</service>
+		<service id="33">
+			<energy>10.719</energy>
+			<cost>12.136</cost>
+			<benifit>1.2424499999999998</benifit>
+			<reliability>19.906</reliability>
+			<availability>6.217</availability>
+			<response_time>15.565</response_time>
+		</service>
+		<service id="174">
+			<energy>20.753</energy>
+			<cost>12.656</cost>
+			<benifit>2.01371</benifit>
+			<reliability>15.999</reliability>
+			<availability>14.741</availability>
+			<response_time>23.333</response_time>
+		</service>
+		<service id="3">
+			<energy>9.046</energy>
+			<cost>3.296</cost>
+			<benifit>0.39258</benifit>
+			<reliability>11.854</reliability>
+			<availability>5.874</availability>
+			<response_time>3.745</response_time>
+		</service>
+		<service id="392">
+			<energy>27.399</energy>
+			<cost>1.479</cost>
+			<benifit>0.085542</benifit>
+			<reliability>29.674</reliability>
+			<availability>25.167</availability>
+			<response_time>7.129</response_time>
+		</service>
+		<service id="262">
+			<energy>11.765</energy>
+			<cost>5.494</cost>
+			<benifit>1.05999</benifit>
+			<reliability>18.506</reliability>
+			<availability>13.919</availability>
+			<response_time>34.244</response_time>
+		</service>
+		<service id="46">
+			<energy>19.6</energy>
+			<cost>12.904</cost>
+			<benifit>2.954145</benifit>
+			<reliability>8.772</reliability>
+			<availability>2.488</availability>
+			<response_time>6.478</response_time>
+		</service>
+		<service id="131">
+			<energy>14.114</energy>
+			<cost>3.987</cost>
+			<benifit>0.28861000000000003</benifit>
+			<reliability>10.289</reliability>
+			<availability>13.267</availability>
+			<response_time>8.268</response_time>
+		</service>
+		<service id="284">
+			<energy>21.547</energy>
+			<cost>6.381</cost>
+			<benifit>0.20450000000000002</benifit>
+			<reliability>23.679</reliability>
+			<availability>14.046</availability>
+			<response_time>20.382</response_time>
+		</service>
+		<service id="118">
+			<energy>22.23</energy>
+			<cost>0.997</cost>
+			<benifit>0.017024</benifit>
+			<reliability>13.074</reliability>
+			<availability>11.845</availability>
+			<response_time>11.997</response_time>
+		</service>
+		<service id="159">
+			<energy>20.16</energy>
+			<cost>4.486</cost>
+			<benifit>0.8287180000000001</benifit>
+			<reliability>17.867</reliability>
+			<availability>7.962</availability>
+			<response_time>25.455</response_time>
+		</service>
+		<service id="53">
+			<energy>4.319</energy>
+			<cost>10.954</cost>
+			<benifit>1.4704059999999999</benifit>
+			<reliability>3.691</reliability>
+			<availability>9.783</availability>
+			<response_time>6.83</response_time>
+		</service>
+		<service id="314">
+			<energy>15.442</energy>
+			<cost>0.819</cost>
+			<benifit>0.010070999999999998</benifit>
+			<reliability>17.133</reliability>
+			<availability>15.305</availability>
+			<response_time>1.221</response_time>
+		</service>
+		<service id="169">
+			<energy>24.336</energy>
+			<cost>10.32</cost>
+			<benifit>0.967043</benifit>
+			<reliability>19.355</reliability>
+			<availability>9.578</availability>
+			<response_time>19.892</response_time>
+		</service>
+		<service id="14">
+			<energy>18.312</energy>
+			<cost>15.648</cost>
+			<benifit>0.32824000000000003</benifit>
+			<reliability>4.148</reliability>
+			<availability>9.976</availability>
+			<response_time>4.095</response_time>
+		</service>
+		<service id="6">
+			<energy>0.483</energy>
+			<cost>13.962</cost>
+			<benifit>3.4654500000000006</benifit>
+			<reliability>4.57</reliability>
+			<availability>3.144</availability>
+			<response_time>7.558</response_time>
+		</service>
+		<service id="52">
+			<energy>3.419</energy>
+			<cost>0.798</cost>
+			<benifit>0.061124</benifit>
+			<reliability>7.692</reliability>
+			<availability>4.304</availability>
+			<response_time>19.352</response_time>
+		</service>
+		<service id="180">
+			<energy>21.099</energy>
+			<cost>12.565</cost>
+			<benifit>0.044781</benifit>
+			<reliability>13.142</reliability>
+			<availability>9.472</availability>
+			<response_time>22.138</response_time>
+		</service>
+		<service id="76">
+			<energy>3.509</energy>
+			<cost>10.884</cost>
+			<benifit>1.0209500000000002</benifit>
+			<reliability>14.191</reliability>
+			<availability>11.218</availability>
+			<response_time>8.297</response_time>
+		</service>
+		<service id="141">
+			<energy>21.778</energy>
+			<cost>2.641</cost>
+			<benifit>0.21854</benifit>
+			<reliability>9.171</reliability>
+			<availability>12.934</availability>
+			<response_time>31.116</response_time>
+		</service>
+		<service id="90">
+			<energy>8.103</energy>
+			<cost>5.099</cost>
+			<benifit>0.8615600000000001</benifit>
+			<reliability>6.114</reliability>
+			<availability>11.947</availability>
+			<response_time>20.688</response_time>
+		</service>
+		<service id="380">
+			<energy>24.87</energy>
+			<cost>4.543</cost>
+			<benifit>0.26712</benifit>
+			<reliability>27.648</reliability>
+			<availability>21.728</availability>
+			<response_time>39.448</response_time>
+		</service>
+		<service id="310">
+			<energy>12.685</energy>
+			<cost>0.556</cost>
+			<benifit>0.055799999999999995</benifit>
+			<reliability>21.414</reliability>
+			<availability>20.723</availability>
+			<response_time>40.651</response_time>
+		</service>
+		<service id="316">
+			<energy>25.664</energy>
+			<cost>4.761</cost>
+			<benifit>0.8220000000000001</benifit>
+			<reliability>26.416</reliability>
+			<availability>17.19</availability>
+			<response_time>13.185</response_time>
+		</service>
+		<service id="355">
+			<energy>16.324</energy>
+			<cost>1.351</cost>
+			<benifit>0.287086</benifit>
+			<reliability>29.771</reliability>
+			<availability>19.43</availability>
+			<response_time>4.916</response_time>
+		</service>
+		<service id="228">
+			<energy>25.875</energy>
+			<cost>10.149</cost>
+			<benifit>1.2267000000000001</benifit>
+			<reliability>27.149</reliability>
+			<availability>14.434</availability>
+			<response_time>16.556</response_time>
+		</service>
+		<service id="291">
+			<energy>21.358</energy>
+			<cost>1.969</cost>
+			<benifit>0.39901400000000004</benifit>
+			<reliability>25.13</reliability>
+			<availability>12.526</availability>
+			<response_time>0.641</response_time>
+		</service>
+		<service id="115">
+			<energy>17.09</energy>
+			<cost>6.747</cost>
+			<benifit>0.319748</benifit>
+			<reliability>18.534</reliability>
+			<availability>4.647</availability>
+			<response_time>26.317</response_time>
+		</service>
+		<service id="188">
+			<energy>25.87</energy>
+			<cost>11.656</cost>
+			<benifit>2.252688</benifit>
+			<reliability>10.565</reliability>
+			<availability>11.581</availability>
+			<response_time>31.645</response_time>
+		</service>
+		<service id="69">
+			<energy>10.052</energy>
+			<cost>16.413</cost>
+			<benifit>1.7360399999999998</benifit>
+			<reliability>5.229</reliability>
+			<availability>5.316</availability>
+			<response_time>31.166</response_time>
+		</service>
+		<service id="10">
+			<energy>18.411</energy>
+			<cost>10.95</cost>
+			<benifit>1.1415009999999999</benifit>
+			<reliability>9.959</reliability>
+			<availability>4.496</availability>
+			<response_time>14.554</response_time>
+		</service>
+		<service id="214">
+			<energy>17.691</energy>
+			<cost>8.481</cost>
+			<benifit>0.341488</benifit>
+			<reliability>26.732</reliability>
+			<availability>14.635</availability>
+			<response_time>26.79</response_time>
+		</service>
+		<service id="165">
+			<energy>20.656</energy>
+			<cost>4.485</cost>
+			<benifit>0.82355</benifit>
+			<reliability>9.234</reliability>
+			<availability>12.25</availability>
+			<response_time>32.318</response_time>
+		</service>
+		<service id="94">
+			<energy>7.142</energy>
+			<cost>0.852</cost>
+			<benifit>0.11949599999999999</benifit>
+			<reliability>9.56</reliability>
+			<availability>8.906</availability>
+			<response_time>11.448</response_time>
+		</service>
+		<service id="73">
+			<energy>15.769</energy>
+			<cost>3.552</cost>
+			<benifit>0.60904</benifit>
+			<reliability>5.468</reliability>
+			<availability>11.168</availability>
+			<response_time>29.188</response_time>
+		</service>
+		<service id="103">
+			<energy>11.533</energy>
+			<cost>0.211</cost>
+			<benifit>0.034048</benifit>
+			<reliability>20.258</reliability>
+			<availability>12.45</availability>
+			<response_time>14.09</response_time>
+		</service>
+		<service id="106">
+			<energy>10.022</energy>
+			<cost>8.042</cost>
+			<benifit>1.1328639999999999</benifit>
+			<reliability>6.909</reliability>
+			<availability>5.32</availability>
+			<response_time>22.482</response_time>
+		</service>
+		<service id="-1">
+			<energy>11.686</energy>
+			<cost>5.902</cost>
+			<benifit>0.5334409999999999</benifit>
+			<reliability>12.513</reliability>
+			<availability>9.187</availability>
+			<response_time>17.099</response_time>
+		</service>
+		<service id="117">
+			<energy>23.15</energy>
+			<cost>13.012</cost>
+			<benifit>1.562217</benifit>
+			<reliability>8.986</reliability>
+			<availability>9.864</availability>
+			<response_time>28.91</response_time>
+		</service>
+		<service id="363">
+			<energy>14.555</energy>
+			<cost>4.396</cost>
+			<benifit>1.1011199999999999</benifit>
+			<reliability>22.207</reliability>
+			<availability>24.315</availability>
+			<response_time>28.911</response_time>
+		</service>
+		<service id="287">
+			<energy>20.467</energy>
+			<cost>2.187</cost>
+			<benifit>0.42765299999999995</benifit>
+			<reliability>26.779</reliability>
+			<availability>12.673</availability>
+			<response_time>19.19</response_time>
+		</service>
+		<service id="124">
+			<energy>17.179</energy>
+			<cost>1.995</cost>
+			<benifit>0.264585</benifit>
+			<reliability>23.728</reliability>
+			<availability>7.668</availability>
+			<response_time>12.229</response_time>
+		</service>
+		<service id="393">
+			<energy>20.04</energy>
+			<cost>2.428</cost>
+			<benifit>0.003572</benifit>
+			<reliability>32.036</reliability>
+			<availability>20.097</availability>
+			<response_time>38.566</response_time>
+		</service>
+		<service id="34">
+			<energy>8.771</energy>
+			<cost>10.498</cost>
+			<benifit>2.546016</benifit>
+			<reliability>16.279</reliability>
+			<availability>4.125</availability>
+			<response_time>7.118</response_time>
+		</service>
+		<service id="101">
+			<energy>20.783</energy>
+			<cost>11.882</cost>
+			<benifit>0.9393</benifit>
+			<reliability>15.515</reliability>
+			<availability>10.402</availability>
+			<response_time>12.919</response_time>
+		</service>
+		<service id="237">
+			<energy>20.559</energy>
+			<cost>2.428</cost>
+			<benifit>0.38033</benifit>
+			<reliability>28.023</reliability>
+			<availability>9.838</availability>
+			<response_time>10.468</response_time>
+		</service>
+		<service id="374">
+			<energy>23.88</energy>
+			<cost>3.199</cost>
+			<benifit>0.112788</benifit>
+			<reliability>30.559</reliability>
+			<availability>20.395</availability>
+			<response_time>19.816</response_time>
+		</service>
+		<service id="360">
+			<energy>16.39</energy>
+			<cost>3.768</cost>
+			<benifit>0.920429</benifit>
+			<reliability>17.361</reliability>
+			<availability>15.296</availability>
+			<response_time>40.823</response_time>
+		</service>
+		<service id="125">
+			<energy>9.329</energy>
+			<cost>12.167</cost>
+			<benifit>2.284671</benifit>
+			<reliability>13.141</reliability>
+			<availability>9.513</availability>
+			<response_time>5.618</response_time>
+		</service>
+		<service id="208">
+			<energy>18.592</energy>
+			<cost>3.904</cost>
+			<benifit>0.25673999999999997</benifit>
+			<reliability>25.494</reliability>
+			<availability>11.0</availability>
+			<response_time>8.111</response_time>
+		</service>
+		<service id="2">
+			<energy>3.636</energy>
+			<cost>5.296</cost>
+			<benifit>0.26200999999999997</benifit>
+			<reliability>3.982</reliability>
+			<availability>0.864</availability>
+			<response_time>1.734</response_time>
+		</service>
+		<service id="246">
+			<energy>13.447</energy>
+			<cost>5.828</cost>
+			<benifit>0.970108</benifit>
+			<reliability>27.627</reliability>
+			<availability>13.17</availability>
+			<response_time>31.097</response_time>
+		</service>
+		<service id="185">
+			<energy>10.956</energy>
+			<cost>12.231</cost>
+			<benifit>2.168928</benifit>
+			<reliability>8.336</reliability>
+			<availability>9.567</availability>
+			<response_time>20.957</response_time>
+		</service>
+		<service id="8">
+			<energy>14.924</energy>
+			<cost>18.263</cost>
+			<benifit>4.07808</benifit>
+			<reliability>11.19</reliability>
+			<availability>0.372</availability>
+			<response_time>8.108</response_time>
+		</service>
+		<service id="71">
+			<energy>12.442</energy>
+			<cost>16.379</cost>
+			<benifit>2.845875</benifit>
+			<reliability>12.13</reliability>
+			<availability>9.498</availability>
+			<response_time>15.172</response_time>
+		</service>
+		<service id="35">
+			<energy>7.176</energy>
+			<cost>14.313</cost>
+			<benifit>2.8969799999999997</benifit>
+			<reliability>19.172</reliability>
+			<availability>5.079</availability>
+			<response_time>1.392</response_time>
+		</service>
+		<service id="309">
+			<energy>19.892</energy>
+			<cost>3.794</cost>
+			<benifit>0.90384</benifit>
+			<reliability>13.196</reliability>
+			<availability>21.999</availability>
+			<response_time>41.511</response_time>
+		</service>
+		<service id="44">
+			<energy>10.25</energy>
+			<cost>7.765</cost>
+			<benifit>0.009566000000000002</benifit>
+			<reliability>15.225</reliability>
+			<availability>8.902</availability>
+			<response_time>20.281</response_time>
+		</service>
+		<service id="87">
+			<energy>11.76</energy>
+			<cost>11.709</cost>
+			<benifit>0.687848</benifit>
+			<reliability>13.376</reliability>
+			<availability>9.185</availability>
+			<response_time>1.228</response_time>
+		</service>
+		<service id="18">
+			<energy>8.071</energy>
+			<cost>11.577</cost>
+			<benifit>0.8403500000000002</benifit>
+			<reliability>17.654</reliability>
+			<availability>4.892</availability>
+			<response_time>13.561</response_time>
+		</service>
+		<service id="123">
+			<energy>9.07</energy>
+			<cost>2.49</cost>
+			<benifit>0.566055</benifit>
+			<reliability>14.795</reliability>
+			<availability>10.724</availability>
+			<response_time>1.625</response_time>
+		</service>
+		<service id="311">
+			<energy>20.621</energy>
+			<cost>4.19</cost>
+			<benifit>0.0</benifit>
+			<reliability>13.793</reliability>
+			<availability>19.872</availability>
+			<response_time>18.215</response_time>
+		</service>
+		<service id="381">
+			<energy>31.892</energy>
+			<cost>4.698</cost>
+			<benifit>0.340641</benifit>
+			<reliability>26.16</reliability>
+			<availability>17.039</availability>
+			<response_time>26.824</response_time>
+		</service>
+		<service id="347">
+			<energy>24.879</energy>
+			<cost>3.503</cost>
+			<benifit>0.698356</benifit>
+			<reliability>14.094</reliability>
+			<availability>14.969</availability>
+			<response_time>14.186</response_time>
+		</service>
+		<service id="97">
+			<energy>20.392</energy>
+			<cost>0.947</cost>
+			<benifit>0.113652</benifit>
+			<reliability>14.495</reliability>
+			<availability>11.076</availability>
+			<response_time>8.524</response_time>
+		</service>
+		<service id="344">
+			<energy>31.923</energy>
+			<cost>2.806</cost>
+			<benifit>0.248492</benifit>
+			<reliability>27.252</reliability>
+			<availability>20.637</availability>
+			<response_time>12.375</response_time>
+		</service>
+		<service id="303">
+			<energy>16.483</energy>
+			<cost>3.099</cost>
+			<benifit>0.35742</benifit>
+			<reliability>17.903</reliability>
+			<availability>17.457</availability>
+			<response_time>24.345</response_time>
+		</service>
+		<service id="175">
+			<energy>15.521</energy>
+			<cost>11.389</cost>
+			<benifit>1.580319</benifit>
+			<reliability>17.95</reliability>
+			<availability>14.998</availability>
+			<response_time>6.16</response_time>
+		</service>
+		<service id="78">
+			<energy>17.686</energy>
+			<cost>16.789</cost>
+			<benifit>0.87143</benifit>
+			<reliability>22.62</reliability>
+			<availability>4.977</availability>
+			<response_time>18.021</response_time>
+		</service>
+		<service id="196">
+			<energy>22.803</energy>
+			<cost>9.213</cost>
+			<benifit>0.9100000000000001</benifit>
+			<reliability>14.704</reliability>
+			<availability>11.735</availability>
+			<response_time>3.267</response_time>
+		</service>
+		<service id="338">
+			<energy>19.021</energy>
+			<cost>5.259</cost>
+			<benifit>0.38084399999999996</benifit>
+			<reliability>30.599</reliability>
+			<availability>19.052</availability>
+			<response_time>11.396</response_time>
+		</service>
+		<service id="241">
+			<energy>24.544</energy>
+			<cost>9.451</cost>
+			<benifit>0.439824</benifit>
+			<reliability>12.613</reliability>
+			<availability>11.64</availability>
+			<response_time>38.72</response_time>
+		</service>
+		<service id="305">
+			<energy>24.145</energy>
+			<cost>1.881</cost>
+			<benifit>0.482478</benifit>
+			<reliability>13.118</reliability>
+			<availability>17.261</availability>
+			<response_time>41.165</response_time>
+		</service>
+		<service id="289">
+			<energy>12.24</energy>
+			<cost>6.22</cost>
+			<benifit>0.12444999999999999</benifit>
+			<reliability>26.66</reliability>
+			<availability>20.964</availability>
+			<response_time>29.816</response_time>
+		</service>
+		<service id="319">
+			<energy>31.927</energy>
+			<cost>4.124</cost>
+			<benifit>0.455202</benifit>
+			<reliability>19.709</reliability>
+			<availability>14.501</availability>
+			<response_time>31.28</response_time>
+		</service>
+		<service id="212">
+			<energy>18.833</energy>
+			<cost>2.139</cost>
+			<benifit>0.32815200000000005</benifit>
+			<reliability>9.653</reliability>
+			<availability>8.627</availability>
+			<response_time>15.547</response_time>
+		</service>
+		<service id="221">
+			<energy>9.519</energy>
+			<cost>4.3</cost>
+			<benifit>1.02882</benifit>
+			<reliability>19.495</reliability>
+			<availability>16.425</availability>
+			<response_time>20.438</response_time>
+		</service>
+		<service id="50">
+			<energy>11.496</energy>
+			<cost>15.401</cost>
+			<benifit>2.5959019999999997</benifit>
+			<reliability>12.961</reliability>
+			<availability>6.13</availability>
+			<response_time>9.841</response_time>
+		</service>
+		<service id="245">
+			<energy>22.088</energy>
+			<cost>2.497</cost>
+			<benifit>0.27072399999999996</benifit>
+			<reliability>13.439</reliability>
+			<availability>17.566</availability>
+			<response_time>15.737</response_time>
+		</service>
+		<service id="260">
+			<energy>18.8</energy>
+			<cost>8.764</cost>
+			<benifit>0.623356</benifit>
+			<reliability>18.239</reliability>
+			<availability>12.12</availability>
+			<response_time>19.376</response_time>
+		</service>
+		<service id="7">
+			<energy>15.489</energy>
+			<cost>14.584</cost>
+			<benifit>3.019995</benifit>
+			<reliability>16.082</reliability>
+			<availability>9.348</availability>
+			<response_time>2.32</response_time>
+		</service>
+		<service id="179">
+			<energy>8.79</energy>
+			<cost>8.236</cost>
+			<benifit>0.9739499999999999</benifit>
+			<reliability>26.945</reliability>
+			<availability>10.655</availability>
+			<response_time>22.013</response_time>
+		</service>
+		<service id="295">
+			<energy>19.215</energy>
+			<cost>1.987</cost>
+			<benifit>0.404924</benifit>
+			<reliability>17.731</reliability>
+			<availability>15.393</availability>
+			<response_time>20.287</response_time>
+		</service>
+		<service id="11">
+			<energy>7.547</energy>
+			<cost>7.255</cost>
+			<benifit>1.769404</benifit>
+			<reliability>11.661</reliability>
+			<availability>6.306</availability>
+			<response_time>1.408</response_time>
+		</service>
+		<service id="299">
+			<energy>14.599</energy>
+			<cost>6.868</cost>
+			<benifit>1.101768</benifit>
+			<reliability>21.319</reliability>
+			<availability>18.222</availability>
+			<response_time>7.963</response_time>
+		</service>
+		<service id="84">
+			<energy>15.357</energy>
+			<cost>8.75</cost>
+			<benifit>0.9319179999999999</benifit>
+			<reliability>22.803</reliability>
+			<availability>12.407</availability>
+			<response_time>2.824</response_time>
+		</service>
+		<service id="114">
+			<energy>21.88</energy>
+			<cost>6.243</cost>
+			<benifit>0.8430080000000001</benifit>
+			<reliability>10.656</reliability>
+			<availability>6.389</availability>
+			<response_time>25.185</response_time>
+		</service>
+		<service id="348">
+			<energy>18.645</energy>
+			<cost>4.454</cost>
+			<benifit>0.774576</benifit>
+			<reliability>31.041</reliability>
+			<availability>14.404</availability>
+			<response_time>33.473</response_time>
+		</service>
+		<service id="38">
+			<energy>12.836</energy>
+			<cost>16.768</cost>
+			<benifit>1.107634</benifit>
+			<reliability>21.132</reliability>
+			<availability>9.919</availability>
+			<response_time>6.756</response_time>
+		</service>
+		<service id="12">
+			<energy>10.011</energy>
+			<cost>5.69</cost>
+			<benifit>1.098526</benifit>
+			<reliability>18.502</reliability>
+			<availability>5.771</availability>
+			<response_time>0.648</response_time>
+		</service>
+		<service id="243">
+			<energy>27.275</energy>
+			<cost>2.733</cost>
+			<benifit>0.739164</benifit>
+			<reliability>11.915</reliability>
+			<availability>11.872</availability>
+			<response_time>39.271</response_time>
+		</service>
+		<service id="278">
+			<energy>11.394</energy>
+			<cost>5.735</cost>
+			<benifit>0.161056</benifit>
+			<reliability>23.214</reliability>
+			<availability>20.783</availability>
+			<response_time>14.017</response_time>
+		</service>
+		<service id="307">
+			<energy>28.21</energy>
+			<cost>4.174</cost>
+			<benifit>0.016191</benifit>
+			<reliability>20.598</reliability>
+			<availability>18.236</availability>
+			<response_time>20.09</response_time>
+		</service>
+		<service id="207">
+			<energy>22.398</energy>
+			<cost>2.963</cost>
+			<benifit>0.177452</benifit>
+			<reliability>10.887</reliability>
+			<availability>9.425</availability>
+			<response_time>30.433</response_time>
+		</service>
+		<service id="358">
+			<energy>26.277</energy>
+			<cost>0.624</cost>
+			<benifit>0.112464</benifit>
+			<reliability>22.945</reliability>
+			<availability>23.411</availability>
+			<response_time>18.074</response_time>
+		</service>
+		<service id="339">
+			<energy>29.989</energy>
+			<cost>2.572</cost>
+			<benifit>0.5568</benifit>
+			<reliability>16.07</reliability>
+			<availability>13.693</availability>
+			<response_time>30.713</response_time>
+		</service>
+		<service id="351">
+			<energy>24.239</energy>
+			<cost>5.826</cost>
+			<benifit>0.5199039999999999</benifit>
+			<reliability>34.002</reliability>
+			<availability>21.86</availability>
+			<response_time>0.859</response_time>
+		</service>
+		<service id="-6">
+			<energy>17.365</energy>
+			<cost>17.625</cost>
+			<benifit>1.848871</benifit>
+			<reliability>2.708</reliability>
+			<availability>4.639</availability>
+			<response_time>5.775</response_time>
+		</service>
+		<service id="49">
+			<energy>3.956</energy>
+			<cost>6.179</cost>
+			<benifit>0.441762</benifit>
+			<reliability>6.532</reliability>
+			<availability>9.038</availability>
+			<response_time>21.928</response_time>
+		</service>
+		<service id="276">
+			<energy>30.366</energy>
+			<cost>6.054</cost>
+			<benifit>0.712215</benifit>
+			<reliability>11.838</reliability>
+			<availability>19.065</availability>
+			<response_time>13.164</response_time>
+		</service>
+		<service id="239">
+			<energy>15.761</energy>
+			<cost>9.833</cost>
+			<benifit>0.25846600000000003</benifit>
+			<reliability>25.456</reliability>
+			<availability>17.02</availability>
+			<response_time>4.169</response_time>
+		</service>
+		<service id="164">
+			<energy>14.303</energy>
+			<cost>9.902</cost>
+			<benifit>1.760787</benifit>
+			<reliability>14.84</reliability>
+			<availability>10.482</availability>
+			<response_time>26.398</response_time>
+		</service>
+		<service id="144">
+			<energy>24.717</energy>
+			<cost>2.079</cost>
+			<benifit>0.559821</benifit>
+			<reliability>12.445</reliability>
+			<availability>6.724</availability>
+			<response_time>33.41</response_time>
+		</service>
+		<service id="108">
+			<energy>19.57</energy>
+			<cost>5.946</cost>
+			<benifit>0.39987799999999996</benifit>
+			<reliability>20.599</reliability>
+			<availability>8.89</availability>
+			<response_time>14.802</response_time>
+		</service>
+		<service id="184">
+			<energy>21.325</energy>
+			<cost>4.982</cost>
+			<benifit>1.0399839999999998</benifit>
+			<reliability>10.994</reliability>
+			<availability>13.731</availability>
+			<response_time>30.473</response_time>
+		</service>
+		<service id="362">
+			<energy>16.57</energy>
+			<cost>1.033</cost>
+			<benifit>0.20296900000000004</benifit>
+			<reliability>25.75</reliability>
+			<availability>21.324</availability>
+			<response_time>7.235</response_time>
+		</service>
+		<service id="368">
+			<energy>28.365</energy>
+			<cost>1.232</cost>
+			<benifit>0.08094799999999999</benifit>
+			<reliability>20.4</reliability>
+			<availability>19.857</availability>
+			<response_time>17.236</response_time>
+		</service>
+		<service id="181">
+			<energy>10.647</energy>
+			<cost>8.16</cost>
+			<benifit>0.5094040000000001</benifit>
+			<reliability>23.3</reliability>
+			<availability>11.281</availability>
+			<response_time>22.329</response_time>
+		</service>
+		<service id="211">
+			<energy>13.748</energy>
+			<cost>9.171</cost>
+			<benifit>1.517814</benifit>
+			<reliability>25.676</reliability>
+			<availability>12.687</availability>
+			<response_time>29.564</response_time>
+		</service>
+		<service id="171">
+			<energy>26.575</energy>
+			<cost>6.302</cost>
+			<benifit>0.805194</benifit>
+			<reliability>11.897</reliability>
+			<availability>13.131</availability>
+			<response_time>36.349</response_time>
+		</service>
+		<service id="254">
+			<energy>10.272</energy>
+			<cost>9.165</cost>
+			<benifit>2.2464</benifit>
+			<reliability>19.366</reliability>
+			<availability>12.856</availability>
+			<response_time>13.302</response_time>
+		</service>
+		<service id="343">
+			<energy>15.926</energy>
+			<cost>1.111</cost>
+			<benifit>0.26266799999999996</benifit>
+			<reliability>15.834</reliability>
+			<availability>18.63</availability>
+			<response_time>9.717</response_time>
+		</service>
+		<service id="229">
+			<energy>18.529</energy>
+			<cost>5.964</cost>
+			<benifit>1.001052</benifit>
+			<reliability>11.679</reliability>
+			<availability>17.854</availability>
+			<response_time>11.453</response_time>
+		</service>
+		<service id="145">
+			<energy>15.697</energy>
+			<cost>8.322</cost>
+			<benifit>1.681465</benifit>
+			<reliability>14.936</reliability>
+			<availability>14.765</availability>
+			<response_time>5.107</response_time>
+		</service>
+		<service id="235">
+			<energy>23.64</energy>
+			<cost>5.542</cost>
+			<benifit>0.0818</benifit>
+			<reliability>12.152</reliability>
+			<availability>16.649</availability>
+			<response_time>32.003</response_time>
+		</service>
+		<service id="-5">
+			<energy>8.739</energy>
+			<cost>9.095</cost>
+			<benifit>0.520208</benifit>
+			<reliability>0.83</reliability>
+			<availability>9.016</availability>
+			<response_time>9.464</response_time>
+		</service>
+		<service id="318">
+			<energy>31.426</energy>
+			<cost>1.318</cost>
+			<benifit>0.061608</benifit>
+			<reliability>27.99</reliability>
+			<availability>13.588</availability>
+			<response_time>22.664</response_time>
+		</service>
+		<service id="270">
+			<energy>19.056</energy>
+			<cost>9.138</cost>
+			<benifit>0.24276000000000003</benifit>
+			<reliability>28.988</reliability>
+			<availability>12.562</availability>
+			<response_time>23.979</response_time>
+		</service>
+		<service id="290">
+			<energy>15.17</energy>
+			<cost>7.267</cost>
+			<benifit>1.00586</benifit>
+			<reliability>14.281</reliability>
+			<availability>13.211</availability>
+			<response_time>36.514</response_time>
+		</service>
+		<service id="328">
+			<energy>16.282</energy>
+			<cost>3.29</cost>
+			<benifit>0.5255839999999999</benifit>
+			<reliability>21.091</reliability>
+			<availability>15.895</availability>
+			<response_time>14.925</response_time>
+		</service>
+		<service id="190">
+			<energy>22.623</energy>
+			<cost>1.819</cost>
+			<benifit>0.027156</benifit>
+			<reliability>18.8</reliability>
+			<availability>12.453</availability>
+			<response_time>36.161</response_time>
+		</service>
+		<service id="140">
+			<energy>5.924</energy>
+			<cost>14.033</cost>
+			<benifit>0.42504000000000003</benifit>
+			<reliability>23.597</reliability>
+			<availability>14.841</availability>
+			<response_time>29.56</response_time>
+		</service>
+		<service id="285">
+			<energy>21.65</energy>
+			<cost>0.776</cost>
+			<benifit>0.208506</benifit>
+			<reliability>27.667</reliability>
+			<availability>12.37</availability>
+			<response_time>18.198</response_time>
+		</service>
+		<service id="158">
+			<energy>16.883</energy>
+			<cost>6.48</cost>
+			<benifit>0.7366400000000001</benifit>
+			<reliability>21.661</reliability>
+			<availability>8.744</availability>
+			<response_time>10.626</response_time>
+		</service>
+		<service id="306">
+			<energy>13.345</energy>
+			<cost>4.215</cost>
+			<benifit>0.40650300000000006</benifit>
+			<reliability>13.395</reliability>
+			<availability>20.389</availability>
+			<response_time>29.503</response_time>
+		</service>
+		<service id="227">
+			<energy>16.67</energy>
+			<cost>1.335</cost>
+			<benifit>0.2271</benifit>
+			<reliability>14.193</reliability>
+			<availability>16.497</availability>
+			<response_time>27.673</response_time>
+		</service>
+		<service id="77">
+			<energy>5.28</energy>
+			<cost>1.794</cost>
+			<benifit>0.32756399999999997</benifit>
+			<reliability>8.697</reliability>
+			<availability>8.286</availability>
+			<response_time>12.663</response_time>
+		</service>
+		<service id="136">
+			<energy>25.058</energy>
+			<cost>10.63</cost>
+			<benifit>1.0119900000000002</benifit>
+			<reliability>15.292</reliability>
+			<availability>10.172</availability>
+			<response_time>34.29</response_time>
+		</service>
+		<service id="258">
+			<energy>14.884</energy>
+			<cost>7.875</cost>
+			<benifit>1.305</benifit>
+			<reliability>15.469</reliability>
+			<availability>19.68</availability>
+			<response_time>18.899</response_time>
+		</service>
+		<service id="64">
+			<energy>6.906</energy>
+			<cost>3.267</cost>
+			<benifit>0.12849</benifit>
+			<reliability>2.577</reliability>
+			<availability>8.69</availability>
+			<response_time>23.607</response_time>
+		</service>
+		<service id="134">
+			<energy>10.267</energy>
+			<cost>5.261</cost>
+			<benifit>0.033985</benifit>
+			<reliability>21.934</reliability>
+			<availability>6.436</availability>
+			<response_time>1.897</response_time>
+		</service>
+		<service id="74">
+			<energy>19.614</energy>
+			<cost>10.523</cost>
+			<benifit>0.745008</benifit>
+			<reliability>4.018</reliability>
+			<availability>6.339</availability>
+			<response_time>6.13</response_time>
+		</service>
+		<service id="389">
+			<energy>34.222</energy>
+			<cost>1.711</cost>
+			<benifit>0.12425399999999999</benifit>
+			<reliability>16.349</reliability>
+			<availability>20.917</availability>
+			<response_time>29.694</response_time>
+		</service>
+		<service id="224">
+			<energy>24.602</energy>
+			<cost>5.893</cost>
+			<benifit>0.42862</benifit>
+			<reliability>27.078</reliability>
+			<availability>13.762</availability>
+			<response_time>1.696</response_time>
+		</service>
+		<service id="31">
+			<energy>3.132</energy>
+			<cost>11.174</cost>
+			<benifit>1.465673</benifit>
+			<reliability>15.672</reliability>
+			<availability>1.558</availability>
+			<response_time>29.464</response_time>
+		</service>
+		<service id="386">
+			<energy>32.323</energy>
+			<cost>1.061</cost>
+			<benifit>0.04816</benifit>
+			<reliability>16.438</reliability>
+			<availability>15.736</availability>
+			<response_time>44.077</response_time>
+		</service>
+		<service id="99">
+			<energy>18.395</energy>
+			<cost>13.376</cost>
+			<benifit>3.1616639999999996</benifit>
+			<reliability>23.561</reliability>
+			<availability>8.017</availability>
+			<response_time>17.24</response_time>
+		</service>
+		<service id="367">
+			<energy>18.863</energy>
+			<cost>2.81</cost>
+			<benifit>0.49670400000000003</benifit>
+			<reliability>17.825</reliability>
+			<availability>21.425</availability>
+			<response_time>34.784</response_time>
+		</service>
+		<service id="251">
+			<energy>16.75</energy>
+			<cost>0.387</cost>
+			<benifit>0.06314</benifit>
+			<reliability>29.803</reliability>
+			<availability>15.943</availability>
+			<response_time>33.316</response_time>
+		</service>
+		<service id="346">
+			<energy>33.735</energy>
+			<cost>4.87</cost>
+			<benifit>0.630135</benifit>
+			<reliability>26.144</reliability>
+			<availability>17.846</availability>
+			<response_time>28.961</response_time>
+		</service>
+		<service id="37">
+			<energy>5.393</energy>
+			<cost>14.859</cost>
+			<benifit>0.8127429999999999</benifit>
+			<reliability>10.919</reliability>
+			<availability>3.184</availability>
+			<response_time>17.456</response_time>
+		</service>
+		<service id="301">
+			<energy>28.167</energy>
+			<cost>2.629</cost>
+			<benifit>0.419458</benifit>
+			<reliability>26.737</reliability>
+			<availability>14.423</availability>
+			<response_time>19.655</response_time>
+		</service>
+		<service id="48">
+			<energy>21.2</energy>
+			<cost>1.537</cost>
+			<benifit>0.39421799999999996</benifit>
+			<reliability>13.447</reliability>
+			<availability>2.906</availability>
+			<response_time>5.976</response_time>
+		</service>
+		<service id="80">
+			<energy>11.17</energy>
+			<cost>8.589</cost>
+			<benifit>0.58565</benifit>
+			<reliability>14.055</reliability>
+			<availability>12.197</availability>
+			<response_time>19.826</response_time>
+		</service>
+		<service id="86">
+			<energy>5.462</energy>
+			<cost>3.55</cost>
+			<benifit>0.075345</benifit>
+			<reliability>12.861</reliability>
+			<availability>5.741</availability>
+			<response_time>11.577</response_time>
+		</service>
+		<service id="334">
+			<energy>27.04</energy>
+			<cost>3.783</cost>
+			<benifit>0.743005</benifit>
+			<reliability>27.6</reliability>
+			<availability>14.191</availability>
+			<response_time>18.445</response_time>
+		</service>
+		<service id="366">
+			<energy>24.599</energy>
+			<cost>1.619</cost>
+			<benifit>0.30385499999999993</benifit>
+			<reliability>22.845</reliability>
+			<availability>17.127</availability>
+			<response_time>28.057</response_time>
+		</service>
+		<service id="173">
+			<energy>13.388</energy>
+			<cost>4.088</cost>
+			<benifit>0.556828</benifit>
+			<reliability>17.396</reliability>
+			<availability>8.43</availability>
+			<response_time>30.429</response_time>
+		</service>
+		<service id="130">
+			<energy>22.505</energy>
+			<cost>7.605</cost>
+			<benifit>0.32864899999999997</benifit>
+			<reliability>16.57</reliability>
+			<availability>9.26</availability>
+			<response_time>30.775</response_time>
+		</service>
+		<service id="240">
+			<energy>19.099</energy>
+			<cost>8.718</cost>
+			<benifit>1.8205479999999998</benifit>
+			<reliability>14.084</reliability>
+			<availability>15.633</availability>
+			<response_time>9.244</response_time>
+		</service>
+		<service id="116">
+			<energy>18.863</energy>
+			<cost>12.019</cost>
+			<benifit>0.23234399999999997</benifit>
+			<reliability>22.041</reliability>
+			<availability>6.253</availability>
+			<response_time>5.435</response_time>
+		</service>
+		<service id="391">
+			<energy>26.314</energy>
+			<cost>2.676</cost>
+			<benifit>0.29703999999999997</benifit>
+			<reliability>23.039</reliability>
+			<availability>15.838</availability>
+			<response_time>42.748</response_time>
+		</service>
+		<service id="166">
+			<energy>20.066</energy>
+			<cost>10.796</cost>
+			<benifit>0.159084</benifit>
+			<reliability>14.172</reliability>
+			<availability>8.967</availability>
+			<response_time>10.607</response_time>
+		</service>
+		<service id="359">
+			<energy>16.991</energy>
+			<cost>3.534</cost>
+			<benifit>0.6276660000000001</benifit>
+			<reliability>19.854</reliability>
+			<availability>16.945</availability>
+			<response_time>30.06</response_time>
+		</service>
+		<service id="13">
+			<energy>18.887</energy>
+			<cost>16.961</cost>
+			<benifit>1.79512</benifit>
+			<reliability>10.137</reliability>
+			<availability>4.146</availability>
+			<response_time>19.067</response_time>
+		</service>
+		<service id="96">
+			<energy>11.38</energy>
+			<cost>2.754</cost>
+			<benifit>0.58734</benifit>
+			<reliability>9.906</reliability>
+			<availability>4.406</availability>
+			<response_time>22.369</response_time>
+		</service>
+		<service id="183">
+			<energy>17.819</energy>
+			<cost>4.624</cost>
+			<benifit>0.13844599999999999</benifit>
+			<reliability>23.928</reliability>
+			<availability>16.525</availability>
+			<response_time>27.904</response_time>
+		</service>
+		<service id="62">
+			<energy>3.04</energy>
+			<cost>10.601</cost>
+			<benifit>0.55508</benifit>
+			<reliability>10.155</reliability>
+			<availability>2.539</availability>
+			<response_time>14.732</response_time>
+		</service>
+		<service id="274">
+			<energy>29.182</energy>
+			<cost>8.069</cost>
+			<benifit>1.4981749999999998</benifit>
+			<reliability>18.27</reliability>
+			<availability>19.929</availability>
+			<response_time>0.954</response_time>
+		</service>
+		<service id="327">
+			<energy>19.13</energy>
+			<cost>3.694</cost>
+			<benifit>0.44981299999999996</benifit>
+			<reliability>27.957</reliability>
+			<availability>22.344</availability>
+			<response_time>16.845</response_time>
+		</service>
+		<service id="142">
+			<energy>15.98</energy>
+			<cost>14.288</cost>
+			<benifit>2.8120950000000002</benifit>
+			<reliability>12.746</reliability>
+			<availability>11.069</availability>
+			<response_time>1.262</response_time>
+		</service>
+		<service id="315">
+			<energy>29.979</energy>
+			<cost>4.337</cost>
+			<benifit>0.582164</benifit>
+			<reliability>12.804</reliability>
+			<availability>19.036</availability>
+			<response_time>18.712</response_time>
+		</service>
+		<service id="263">
+			<energy>28.214</energy>
+			<cost>6.868</cost>
+			<benifit>1.4705890000000001</benifit>
+			<reliability>13.326</reliability>
+			<availability>18.993</availability>
+			<response_time>7.34</response_time>
+		</service>
+		<service id="213">
+			<energy>26.388</energy>
+			<cost>5.602</cost>
+			<benifit>1.1768</benifit>
+			<reliability>25.671</reliability>
+			<availability>15.057</availability>
+			<response_time>30.882</response_time>
+		</service>
+		<service id="203">
+			<energy>18.644</energy>
+			<cost>2.282</cost>
+			<benifit>0.122564</benifit>
+			<reliability>12.978</reliability>
+			<availability>8.936</availability>
+			<response_time>30.226</response_time>
+		</service>
+		<service id="365">
+			<energy>23.336</energy>
+			<cost>1.325</cost>
+			<benifit>0.26634199999999997</benifit>
+			<reliability>29.07</reliability>
+			<availability>16.054</availability>
+			<response_time>40.902</response_time>
+		</service>
+		<service id="128">
+			<energy>22.575</energy>
+			<cost>12.206</cost>
+			<benifit>0.318421</benifit>
+			<reliability>18.663</reliability>
+			<availability>8.9</availability>
+			<response_time>3.851</response_time>
+		</service>
+		<service id="397">
+			<energy>24.17</energy>
+			<cost>1.93</cost>
+			<benifit>0.02409</benifit>
+			<reliability>21.095</reliability>
+			<availability>18.146</availability>
+			<response_time>22.262</response_time>
+		</service>
+		<service id="198">
+			<energy>12.992</energy>
+			<cost>5.738</cost>
+			<benifit>1.2298019999999998</benifit>
+			<reliability>22.644</reliability>
+			<availability>8.224</availability>
+			<response_time>29.077</response_time>
+		</service>
+		<service id="390">
+			<energy>29.473</energy>
+			<cost>2.457</cost>
+			<benifit>0.07932</benifit>
+			<reliability>30.151</reliability>
+			<availability>20.597</availability>
+			<response_time>13.324</response_time>
+		</service>
+		<service id="189">
+			<energy>11.078</energy>
+			<cost>9.103</cost>
+			<benifit>0.06259200000000001</benifit>
+			<reliability>25.19</reliability>
+			<availability>11.421</availability>
+			<response_time>18.398</response_time>
+		</service>
+		<service id="282">
+			<energy>14.073</energy>
+			<cost>3.253</cost>
+			<benifit>0.007338</benifit>
+			<reliability>18.015</reliability>
+			<availability>19.778</availability>
+			<response_time>23.822</response_time>
+		</service>
+		<service id="110">
+			<energy>11.139</energy>
+			<cost>8.336</cost>
+			<benifit>0.57222</benifit>
+			<reliability>5.464</reliability>
+			<availability>9.433</availability>
+			<response_time>26.425</response_time>
+		</service>
+		<service id="353">
+			<energy>29.675</energy>
+			<cost>1.405</cost>
+			<benifit>0.061776</benifit>
+			<reliability>17.056</reliability>
+			<availability>17.946</availability>
+			<response_time>21.573</response_time>
+		</service>
+		<service id="122">
+			<energy>20.902</energy>
+			<cost>1.964</cost>
+			<benifit>0.038752</benifit>
+			<reliability>13.548</reliability>
+			<availability>13.65</availability>
+			<response_time>18.462</response_time>
+		</service>
+		<service id="102">
+			<energy>15.529</energy>
+			<cost>1.538</cost>
+			<benifit>0.12307399999999999</benifit>
+			<reliability>18.611</reliability>
+			<availability>12.834</availability>
+			<response_time>30.409</response_time>
+		</service>
+		<service id="345">
+			<energy>23.874</energy>
+			<cost>0.937</cost>
+			<benifit>0.22419999999999998</benifit>
+			<reliability>31.312</reliability>
+			<availability>20.516</availability>
+			<response_time>24.902</response_time>
+		</service>
+		<service id="146">
+			<energy>14.267</energy>
+			<cost>12.88</cost>
+			<benifit>2.362906</benifit>
+			<reliability>9.91</reliability>
+			<availability>7.451</availability>
+			<response_time>26.475</response_time>
+		</service>
+		<service id="296">
+			<energy>23.509</energy>
+			<cost>7.25</cost>
+			<benifit>0.13267500000000002</benifit>
+			<reliability>31.574</reliability>
+			<availability>12.012</availability>
+			<response_time>23.989</response_time>
+		</service>
+		<service id="323">
+			<energy>25.977</energy>
+			<cost>1.467</cost>
+			<benifit>0.240064</benifit>
+			<reliability>21.067</reliability>
+			<availability>13.587</availability>
+			<response_time>19.144</response_time>
+		</service>
+		<service id="51">
+			<energy>18.875</energy>
+			<cost>6.571</cost>
+			<benifit>0.811014</benifit>
+			<reliability>4.004</reliability>
+			<availability>4.849</availability>
+			<response_time>21.25</response_time>
+		</service>
+		<service id="396">
+			<energy>35.615</energy>
+			<cost>1.269</cost>
+			<benifit>0.074878</benifit>
+			<reliability>31.542</reliability>
+			<availability>19.161</availability>
+			<response_time>6.192</response_time>
+		</service>
+		<service id="259">
+			<energy>23.805</energy>
+			<cost>9.55</cost>
+			<benifit>1.539475</benifit>
+			<reliability>24.651</reliability>
+			<availability>16.399</availability>
+			<response_time>29.408</response_time>
+		</service>
+		<service id="197">
+			<energy>24.163</energy>
+			<cost>2.707</cost>
+			<benifit>0.338022</benifit>
+			<reliability>11.859</reliability>
+			<availability>17.294</availability>
+			<response_time>1.677</response_time>
+		</service>
+		<service id="40">
+			<energy>1.612</energy>
+			<cost>8.469</cost>
+			<benifit>1.6239760000000003</benifit>
+			<reliability>15.397</reliability>
+			<availability>3.887</availability>
+			<response_time>24.901</response_time>
+		</service>
+		<service id="109">
+			<energy>6.903</energy>
+			<cost>14.586</cost>
+			<benifit>1.9841119999999999</benifit>
+			<reliability>6.868</reliability>
+			<availability>5.461</availability>
+			<response_time>33.041</response_time>
+		</service>
+		<service id="199">
+			<energy>16.761</energy>
+			<cost>6.837</cost>
+			<benifit>1.8303680000000002</benifit>
+			<reliability>19.858</reliability>
+			<availability>8.816</availability>
+			<response_time>11.202</response_time>
+		</service>
+		<service id="356">
+			<energy>17.31</energy>
+			<cost>0.376</cost>
+			<benifit>0.0294</benifit>
+			<reliability>27.192</reliability>
+			<availability>15.771</availability>
+			<response_time>33.039</response_time>
+		</service>
+		<service id="20">
+			<energy>18.851</energy>
+			<cost>2.934</cost>
+			<benifit>0.303654</benifit>
+			<reliability>5.98</reliability>
+			<availability>9.616</availability>
+			<response_time>8.121</response_time>
+		</service>
+		<service id="332">
+			<energy>27.194</energy>
+			<cost>1.304</cost>
+			<benifit>0.227838</benifit>
+			<reliability>32.042</reliability>
+			<availability>16.842</availability>
+			<response_time>30.719</response_time>
+		</service>
+		<service id="41">
+			<energy>6.188</energy>
+			<cost>15.459</cost>
+			<benifit>0.9135420000000001</benifit>
+			<reliability>15.998</reliability>
+			<availability>4.667</availability>
+			<response_time>2.132</response_time>
+		</service>
+		<service id="279">
+			<energy>14.304</energy>
+			<cost>8.547</cost>
+			<benifit>1.6656149999999998</benifit>
+			<reliability>28.828</reliability>
+			<availability>18.158</availability>
+			<response_time>4.09</response_time>
+		</service>
+		<service id="370">
+			<energy>30.828</energy>
+			<cost>3.759</cost>
+			<benifit>0.013668</benifit>
+			<reliability>31.978</reliability>
+			<availability>21.337</availability>
+			<response_time>29.554</response_time>
+		</service>
+		<service id="273">
+			<energy>25.853</energy>
+			<cost>0.84</cost>
+			<benifit>0.050431</benifit>
+			<reliability>11.631</reliability>
+			<availability>14.817</availability>
+			<response_time>5.163</response_time>
+		</service>
+		<service id="222">
+			<energy>18.965</energy>
+			<cost>0.844</cost>
+			<benifit>0.038727</benifit>
+			<reliability>13.962</reliability>
+			<availability>10.162</availability>
+			<response_time>34.999</response_time>
+		</service>
+		<service id="382">
+			<energy>31.416</energy>
+			<cost>1.909</cost>
+			<benifit>0.308356</benifit>
+			<reliability>21.004</reliability>
+			<availability>18.628</availability>
+			<response_time>31.706</response_time>
+		</service>
+		<service id="-4">
+			<energy>5.715</energy>
+			<cost>11.783</cost>
+			<benifit>3.0366119999999994</benifit>
+			<reliability>1.372</reliability>
+			<availability>5.735</availability>
+			<response_time>16.478</response_time>
+		</service>
+		<service id="354">
+			<energy>14.799</energy>
+			<cost>1.164</cost>
+			<benifit>0.085158</benifit>
+			<reliability>19.37</reliability>
+			<availability>18.815</availability>
+			<response_time>26.028</response_time>
+		</service>
+		<service id="15">
+			<energy>15.93</energy>
+			<cost>14.733</cost>
+			<benifit>1.597105</benifit>
+			<reliability>8.913</reliability>
+			<availability>3.592</availability>
+			<response_time>11.349</response_time>
+		</service>
+		<service id="65">
+			<energy>9.147</energy>
+			<cost>3.087</cost>
+			<benifit>0.471724</benifit>
+			<reliability>19.903</reliability>
+			<availability>10.49</availability>
+			<response_time>13.626</response_time>
+		</service>
+		<service id="267">
+			<energy>14.585</energy>
+			<cost>2.845</cost>
+			<benifit>0.21609000000000003</benifit>
+			<reliability>29.735</reliability>
+			<availability>12.975</availability>
+			<response_time>5.454</response_time>
+		</service>
+		<service id="244">
+			<energy>22.598</energy>
+			<cost>2.315</cost>
+			<benifit>0.07520600000000001</benifit>
+			<reliability>20.894</reliability>
+			<availability>17.253</availability>
+			<response_time>26.828</response_time>
+		</service>
+		<service id="111">
+			<energy>23.352</energy>
+			<cost>7.269</cost>
+			<benifit>0.888333</benifit>
+			<reliability>12.147</reliability>
+			<availability>11.981</availability>
+			<response_time>5.38</response_time>
+		</service>
+		<service id="156">
+			<energy>22.516</energy>
+			<cost>1.271</cost>
+			<benifit>0.2232</benifit>
+			<reliability>12.214</reliability>
+			<availability>8.479</availability>
+			<response_time>35.473</response_time>
+		</service>
+		<service id="83">
+			<energy>21.262</energy>
+			<cost>4.269</cost>
+			<benifit>0.9016149999999998</benifit>
+			<reliability>6.237</reliability>
+			<availability>5.418</availability>
+			<response_time>28.747</response_time>
+		</service>
+		<service id="150">
+			<energy>20.935</energy>
+			<cost>10.203</cost>
+			<benifit>0.012325</benifit>
+			<reliability>12.448</reliability>
+			<availability>9.202</availability>
+			<response_time>21.6</response_time>
+		</service>
+		<service id="105">
+			<energy>20.352</energy>
+			<cost>13.151</cost>
+			<benifit>1.344129</benifit>
+			<reliability>11.711</reliability>
+			<availability>13.533</availability>
+			<response_time>21.783</response_time>
+		</service>
+		<service id="182">
+			<energy>10.672</energy>
+			<cost>3.378</cost>
+			<benifit>0.911236</benifit>
+			<reliability>23.524</reliability>
+			<availability>14.923</availability>
+			<response_time>1.516</response_time>
+		</service>
+		<service id="225">
+			<energy>27.265</energy>
+			<cost>1.667</cost>
+			<benifit>0.041208</benifit>
+			<reliability>22.65</reliability>
+			<availability>17.856</availability>
+			<response_time>18.3</response_time>
+		</service>
+		<service id="387">
+			<energy>17.657</energy>
+			<cost>3.969</cost>
+			<benifit>0.35357400000000005</benifit>
+			<reliability>20.95</reliability>
+			<availability>19.861</availability>
+			<response_time>0.878</response_time>
+		</service>
+		<service id="364">
+			<energy>18.554</energy>
+			<cost>1.281</cost>
+			<benifit>0.064362</benifit>
+			<reliability>32.413</reliability>
+			<availability>21.564</availability>
+			<response_time>9.737</response_time>
+		</service>
+		<service id="215">
+			<energy>17.401</energy>
+			<cost>4.139</cost>
+			<benifit>0.6674359999999999</benifit>
+			<reliability>16.395</reliability>
+			<availability>13.813</availability>
+			<response_time>31.233</response_time>
+		</service>
+		<service id="194">
+			<energy>18.304</energy>
+			<cost>6.869</cost>
+			<benifit>1.38256</benifit>
+			<reliability>22.888</reliability>
+			<availability>16.964</availability>
+			<response_time>2.078</response_time>
+		</service>
+		<service id="57">
+			<energy>10.276</energy>
+			<cost>5.426</cost>
+			<benifit>0.19089</benifit>
+			<reliability>6.317</reliability>
+			<availability>4.37</availability>
+			<response_time>0.973</response_time>
+		</service>
+		<service id="36">
+			<energy>17.478</energy>
+			<cost>11.835</cost>
+			<benifit>1.818201</benifit>
+			<reliability>15.883</reliability>
+			<availability>9.87</availability>
+			<response_time>6.377</response_time>
+		</service>
+		<service id="5">
+			<energy>8.141</energy>
+			<cost>2.106</cost>
+			<benifit>0.149556</benifit>
+			<reliability>4.786</reliability>
+			<availability>4.46</availability>
+			<response_time>25.785</response_time>
+		</service>
+		<service id="132">
+			<energy>12.345</energy>
+			<cost>12.812</cost>
+			<benifit>3.1043879999999997</benifit>
+			<reliability>13.412</reliability>
+			<availability>8.71</availability>
+			<response_time>8.28</response_time>
+		</service>
+		<service id="193">
+			<energy>13.384</energy>
+			<cost>3.167</cost>
+			<benifit>0.275975</benifit>
+			<reliability>27.148</reliability>
+			<availability>10.338</availability>
+			<response_time>19.71</response_time>
+		</service>
+		<service id="236">
+			<energy>9.89</energy>
+			<cost>0.303</cost>
+			<benifit>0.06171</benifit>
+			<reliability>21.649</reliability>
+			<availability>9.981</availability>
+			<response_time>38.693</response_time>
+		</service>
+		<service id="113">
+			<energy>24.506</energy>
+			<cost>3.808</cost>
+			<benifit>0.9123820000000001</benifit>
+			<reliability>7.166</reliability>
+			<availability>13.477</availability>
+			<response_time>13.216</response_time>
+		</service>
+		<service id="217">
+			<energy>26.681</energy>
+			<cost>1.02</cost>
+			<benifit>0.027360000000000002</benifit>
+			<reliability>10.008</reliability>
+			<availability>17.115</availability>
+			<response_time>28.138</response_time>
+		</service>
+		<service id="24">
+			<energy>7.717</energy>
+			<cost>1.078</cost>
+			<benifit>0.18178</benifit>
+			<reliability>3.993</reliability>
+			<availability>1.145</availability>
+			<response_time>26.645</response_time>
+		</service>
+		<service id="271">
+			<energy>27.123</energy>
+			<cost>3.868</cost>
+			<benifit>0.8537750000000001</benifit>
+			<reliability>23.636</reliability>
+			<availability>18.419</availability>
+			<response_time>21.696</response_time>
+		</service>
+		<service id="177">
+			<energy>8.393</energy>
+			<cost>6.362</cost>
+			<benifit>0.9611000000000002</benifit>
+			<reliability>19.35</reliability>
+			<availability>11.285</availability>
+			<response_time>0.263</response_time>
+		</service>
+		<service id="121">
+			<energy>18.292</energy>
+			<cost>12.136</cost>
+			<benifit>2.266118</benifit>
+			<reliability>11.061</reliability>
+			<availability>8.143</availability>
+			<response_time>13.478</response_time>
+		</service>
+		<service id="98">
+			<energy>18.44</energy>
+			<cost>9.143</cost>
+			<benifit>0.507949</benifit>
+			<reliability>9.746</reliability>
+			<availability>8.535</availability>
+			<response_time>15.296</response_time>
+		</service>
+		<service id="91">
+			<energy>20.306</energy>
+			<cost>11.081</cost>
+			<benifit>2.1766599999999996</benifit>
+			<reliability>6.165</reliability>
+			<availability>12.985</availability>
+			<response_time>8.507</response_time>
+		</service>
+		<service id="357">
+			<energy>14.705</energy>
+			<cost>5.062</cost>
+			<benifit>0.9819359999999999</benifit>
+			<reliability>23.907</reliability>
+			<availability>17.937</availability>
+			<response_time>14.148</response_time>
+		</service>
+		<service id="1">
+			<energy>1.636</energy>
+			<cost>18.067</cost>
+			<benifit>0.185859</benifit>
+			<reliability>19.343</reliability>
+			<availability>9.884</availability>
+			<response_time>3.258</response_time>
+		</service>
+		<service id="-10">
+			<energy>8.812</energy>
+			<cost>9.451</cost>
+			<benifit>0.6209399999999999</benifit>
+			<reliability>14.911</reliability>
+			<availability>3.304</availability>
+			<response_time>9.311</response_time>
+		</service>
+		<service id="178">
+			<energy>18.68</energy>
+			<cost>1.454</cost>
+			<benifit>0.36873000000000006</benifit>
+			<reliability>17.67</reliability>
+			<availability>16.516</availability>
+			<response_time>13.928</response_time>
+		</service>
+		<service id="252">
+			<energy>24.331</energy>
+			<cost>6.561</cost>
+			<benifit>1.34402</benifit>
+			<reliability>19.369</reliability>
+			<availability>10.432</availability>
+			<response_time>1.47</response_time>
+		</service>
+		<service id="298">
+			<energy>19.402</energy>
+			<cost>7.918</cost>
+			<benifit>1.2690700000000001</benifit>
+			<reliability>31.506</reliability>
+			<availability>15.823</availability>
+			<response_time>33.925</response_time>
+		</service>
+		<service id="22">
+			<energy>18.21</energy>
+			<cost>14.576</cost>
+			<benifit>3.006009</benifit>
+			<reliability>10.916</reliability>
+			<availability>5.328</availability>
+			<response_time>29.39</response_time>
+		</service>
+		<service id="249">
+			<energy>11.062</energy>
+			<cost>0.64</cost>
+			<benifit>0.106386</benifit>
+			<reliability>14.085</reliability>
+			<availability>19.423</availability>
+			<response_time>11.05</response_time>
+		</service>
+		<service id="29">
+			<energy>6.598</energy>
+			<cost>13.062</cost>
+			<benifit>2.28956</benifit>
+			<reliability>15.621</reliability>
+			<availability>5.316</availability>
+			<response_time>14.553</response_time>
+		</service>
+		<service id="129">
+			<energy>21.44</energy>
+			<cost>14.099</cost>
+			<benifit>3.1074680000000003</benifit>
+			<reliability>6.008</reliability>
+			<availability>14.308</availability>
+			<response_time>31.999</response_time>
+		</service>
+		<service id="120">
+			<energy>10.179</energy>
+			<cost>9.05</cost>
+			<benifit>1.2272399999999999</benifit>
+			<reliability>13.549</reliability>
+			<availability>5.629</availability>
+			<response_time>4.619</response_time>
+		</service>
+		<service id="308">
+			<energy>21.96</energy>
+			<cost>7.072</cost>
+			<benifit>1.56088</benifit>
+			<reliability>22.985</reliability>
+			<availability>16.91</availability>
+			<response_time>19.903</response_time>
+		</service>
+		<service id="388">
+			<energy>24.738</energy>
+			<cost>2.215</cost>
+			<benifit>0.31255000000000005</benifit>
+			<reliability>31.819</reliability>
+			<availability>23.93</availability>
+			<response_time>37.054</response_time>
+		</service>
+		<service id="326">
+			<energy>29.513</energy>
+			<cost>0.153</cost>
+			<benifit>0.015884</benifit>
+			<reliability>16.127</reliability>
+			<availability>22.418</availability>
+			<response_time>33.134</response_time>
+		</service>
+		<service id="186">
+			<energy>20.004</energy>
+			<cost>0.258</cost>
+			<benifit>0.053098000000000006</benifit>
+			<reliability>8.669</reliability>
+			<availability>14.577</availability>
+			<response_time>31.63</response_time>
+		</service>
+		<service id="275">
+			<energy>19.52</energy>
+			<cost>7.086</cost>
+			<benifit>0.860552</benifit>
+			<reliability>19.716</reliability>
+			<availability>12.912</availability>
+			<response_time>27.792</response_time>
+		</service>
+		<service id="163">
+			<energy>9.536</energy>
+			<cost>4.119</cost>
+			<benifit>0.7592760000000001</benifit>
+			<reliability>21.574</reliability>
+			<availability>8.556</availability>
+			<response_time>31.548</response_time>
+		</service>
+		<service id="58">
+			<energy>5.994</energy>
+			<cost>5.212</cost>
+			<benifit>0.055862999999999996</benifit>
+			<reliability>10.222</reliability>
+			<availability>11.16</availability>
+			<response_time>21.291</response_time>
+		</service>
+		<service id="139">
+			<energy>25.344</energy>
+			<cost>8.971</cost>
+			<benifit>0.44460500000000003</benifit>
+			<reliability>11.696</reliability>
+			<availability>6.426</availability>
+			<response_time>34.0</response_time>
+		</service>
+		<service id="63">
+			<energy>16.781</energy>
+			<cost>14.121</cost>
+			<benifit>0.776112</benifit>
+			<reliability>14.814</reliability>
+			<availability>11.509</availability>
+			<response_time>15.494</response_time>
+		</service>
+		<service id="216">
+			<energy>9.763</energy>
+			<cost>7.11</cost>
+			<benifit>1.474704</benifit>
+			<reliability>19.39</reliability>
+			<availability>15.773</availability>
+			<response_time>17.678</response_time>
+		</service>
+		<service id="233">
+			<energy>19.628</energy>
+			<cost>8.211</cost>
+			<benifit>1.5404200000000001</benifit>
+			<reliability>23.085</reliability>
+			<availability>17.236</availability>
+			<response_time>6.056</response_time>
+		</service>
+		<service id="143">
+			<energy>10.01</energy>
+			<cost>8.244</cost>
+			<benifit>1.194988</benifit>
+			<reliability>22.407</reliability>
+			<availability>14.612</availability>
+			<response_time>20.967</response_time>
+		</service>
+		<service id="223">
+			<energy>11.643</energy>
+			<cost>4.659</cost>
+			<benifit>0.323442</benifit>
+			<reliability>23.328</reliability>
+			<availability>16.371</availability>
+			<response_time>34.865</response_time>
+		</service>
+		<service id="337">
+			<energy>13.851</energy>
+			<cost>1.918</cost>
+			<benifit>0.0023510000000000002</benifit>
+			<reliability>28.936</reliability>
+			<availability>19.268</availability>
+			<response_time>38.854</response_time>
+		</service>
+		<service id="335">
+			<energy>29.602</energy>
+			<cost>5.195</cost>
+			<benifit>0.814338</benifit>
+			<reliability>17.798</reliability>
+			<availability>21.608</availability>
+			<response_time>12.769</response_time>
+		</service>
+		<service id="162">
+			<energy>21.964</energy>
+			<cost>10.526</cost>
+			<benifit>0.590218</benifit>
+			<reliability>12.694</reliability>
+			<availability>16.088</availability>
+			<response_time>1.479</response_time>
+		</service>
+		<service id="-3">
+			<energy>0.437</energy>
+			<cost>7.415</cost>
+			<benifit>1.5239600000000002</benifit>
+			<reliability>15.315</reliability>
+			<availability>2.88</availability>
+			<response_time>29.473</response_time>
+		</service>
+		<service id="377">
+			<energy>23.224</energy>
+			<cost>1.676</cost>
+			<benifit>0.350416</benifit>
+			<reliability>18.605</reliability>
+			<availability>21.796</availability>
+			<response_time>25.899</response_time>
+		</service>
+		<service id="383">
+			<energy>18.531</energy>
+			<cost>1.523</cost>
+			<benifit>0.37664</benifit>
+			<reliability>15.604</reliability>
+			<availability>15.392</availability>
+			<response_time>39.656</response_time>
+		</service>
+		<service id="127">
+			<energy>13.659</energy>
+			<cost>4.512</cost>
+			<benifit>0.066053</benifit>
+			<reliability>18.24</reliability>
+			<availability>11.331</availability>
+			<response_time>0.788</response_time>
+		</service>
+		<service id="248">
+			<energy>28.525</energy>
+			<cost>1.082</cost>
+			<benifit>0.018407999999999997</benifit>
+			<reliability>11.249</reliability>
+			<availability>10.875</availability>
+			<response_time>12.381</response_time>
+		</service>
+		<service id="349">
+			<energy>32.337</energy>
+			<cost>3.603</cost>
+			<benifit>0.591066</benifit>
+			<reliability>33.747</reliability>
+			<availability>19.415</availability>
+			<response_time>42.848</response_time>
+		</service>
+		<service id="100">
+			<energy>13.427</energy>
+			<cost>13.167</cost>
+			<benifit>2.4902480000000002</benifit>
+			<reliability>10.278</reliability>
+			<availability>7.082</availability>
+			<response_time>23.06</response_time>
+		</service>
+		<service id="321">
+			<energy>19.556</energy>
+			<cost>5.253</cost>
+			<benifit>0.799588</benifit>
+			<reliability>18.961</reliability>
+			<availability>13.855</availability>
+			<response_time>11.603</response_time>
+		</service>
+		<service id="39">
+			<energy>12.287</energy>
+			<cost>10.815</cost>
+			<benifit>2.827989</benifit>
+			<reliability>14.883</reliability>
+			<availability>7.64</availability>
+			<response_time>3.889</response_time>
+		</service>
+		<service id="369">
+			<energy>21.296</energy>
+			<cost>2.996</cost>
+			<benifit>0.62656</benifit>
+			<reliability>25.393</reliability>
+			<availability>24.214</availability>
+			<response_time>33.434</response_time>
+		</service>
+		<service id="167">
+			<energy>21.59</energy>
+			<cost>3.487</cost>
+			<benifit>0.777358</benifit>
+			<reliability>8.129</reliability>
+			<availability>7.835</availability>
+			<response_time>18.972</response_time>
+		</service>
+		<service id="379">
+			<energy>26.715</energy>
+			<cost>3.025</cost>
+			<benifit>0.6414399999999999</benifit>
+			<reliability>18.158</reliability>
+			<availability>23.234</availability>
+			<response_time>16.177</response_time>
+		</service>
+		<service id="250">
+			<energy>25.619</energy>
+			<cost>9.695</cost>
+			<benifit>1.522928</benifit>
+			<reliability>19.471</reliability>
+			<availability>11.047</availability>
+			<response_time>1.255</response_time>
+		</service>
+		<service id="277">
+			<energy>16.668</energy>
+			<cost>8.166</cost>
+			<benifit>1.7968370000000002</benifit>
+			<reliability>13.519</reliability>
+			<availability>18.039</availability>
+			<response_time>16.563</response_time>
+		</service>
+		<service id="191">
+			<energy>16.012</energy>
+			<cost>8.052</cost>
+			<benifit>0.848484</benifit>
+			<reliability>9.091</reliability>
+			<availability>11.695</availability>
+			<response_time>0.864</response_time>
+		</service>
+		<service id="280">
+			<energy>18.541</energy>
+			<cost>6.215</cost>
+			<benifit>0.04425</benifit>
+			<reliability>24.514</reliability>
+			<availability>13.541</availability>
+			<response_time>32.15</response_time>
+		</service>
+		<service id="226">
+			<energy>16.229</energy>
+			<cost>10.605</cost>
+			<benifit>0.8117759999999999</benifit>
+			<reliability>24.433</reliability>
+			<availability>11.833</availability>
+			<response_time>16.823</response_time>
+		</service>
+		<service id="204">
+			<energy>19.104</energy>
+			<cost>6.179</cost>
+			<benifit>0.210917</benifit>
+			<reliability>20.873</reliability>
+			<availability>15.026</availability>
+			<response_time>12.994</response_time>
+		</service>
+		<service id="-9">
+			<energy>5.998</energy>
+			<cost>0.822</cost>
+			<benifit>0.05713</benifit>
+			<reliability>18.047</reliability>
+			<availability>2.149</availability>
+			<response_time>14.592</response_time>
+		</service>
+		<service id="25">
+			<energy>5.103</energy>
+			<cost>12.376</cost>
+			<benifit>0.057920000000000006</benifit>
+			<reliability>9.613</reliability>
+			<availability>9.753</availability>
+			<response_time>21.395</response_time>
+		</service>
+		<service id="375">
+			<energy>24.12</energy>
+			<cost>4.742</cost>
+			<benifit>0.007099</benifit>
+			<reliability>25.409</reliability>
+			<availability>21.715</availability>
+			<response_time>39.323</response_time>
+		</service>
+		<service id="72">
+			<energy>3.161</energy>
+			<cost>15.368</cost>
+			<benifit>2.82893</benifit>
+			<reliability>15.235</reliability>
+			<availability>4.431</availability>
+			<response_time>10.009</response_time>
+		</service>
+		<service id="294">
+			<energy>22.037</energy>
+			<cost>0.329</cost>
+			<benifit>0.043086000000000006</benifit>
+			<reliability>16.158</reliability>
+			<availability>15.336</availability>
+			<response_time>6.684</response_time>
+		</service>
+		<service id="148">
+			<energy>12.206</energy>
+			<cost>8.695</cost>
+			<benifit>0.38691899999999996</benifit>
+			<reliability>8.854</reliability>
+			<availability>11.669</availability>
+			<response_time>28.447</response_time>
+		</service>
+		<service id="253">
+			<energy>25.476</energy>
+			<cost>3.344</cost>
+			<benifit>0.23463099999999998</benifit>
+			<reliability>23.333</reliability>
+			<availability>18.704</availability>
+			<response_time>4.35</response_time>
+		</service>
+		<service id="200">
+			<energy>16.566</energy>
+			<cost>6.228</cost>
+			<benifit>0.45468</benifit>
+			<reliability>21.437</reliability>
+			<availability>17.807</availability>
+			<response_time>10.52</response_time>
+		</service>
+		<service id="300">
+			<energy>12.408</energy>
+			<cost>1.716</cost>
+			<benifit>0.026376</benifit>
+			<reliability>14.702</reliability>
+			<availability>18.292</availability>
+			<response_time>8.273</response_time>
+		</service>
+		<service id="266">
+			<energy>13.006</energy>
+			<cost>0.333</cost>
+			<benifit>0.037850999999999996</benifit>
+			<reliability>19.331</reliability>
+			<availability>16.018</availability>
+			<response_time>40.632</response_time>
+		</service>
+		<service id="135">
+			<energy>17.681</energy>
+			<cost>3.358</cost>
+			<benifit>0.13603200000000001</benifit>
+			<reliability>15.434</reliability>
+			<availability>6.17</availability>
+			<response_time>31.756</response_time>
+		</service>
+		<service id="264">
+			<energy>28.891</energy>
+			<cost>5.867</cost>
+			<benifit>0.9125350000000001</benifit>
+			<reliability>10.787</reliability>
+			<availability>11.757</availability>
+			<response_time>11.679</response_time>
+		</service>
+		<service id="172">
+			<energy>17.364</energy>
+			<cost>2.684</cost>
+			<benifit>0.01597</benifit>
+			<reliability>11.481</reliability>
+			<availability>13.956</availability>
+			<response_time>31.273</response_time>
+		</service>
+		<service id="293">
+			<energy>13.2</energy>
+			<cost>1.95</cost>
+			<benifit>0.391065</benifit>
+			<reliability>19.582</reliability>
+			<availability>13.454</availability>
+			<response_time>25.654</response_time>
+		</service>
+		<service id="79">
+			<energy>8.528</energy>
+			<cost>1.729</cost>
+			<benifit>0.153884</benifit>
+			<reliability>17.085</reliability>
+			<availability>3.409</availability>
+			<response_time>25.202</response_time>
+		</service>
+		<service id="149">
+			<energy>7.017</energy>
+			<cost>7.995</cost>
+			<benifit>2.144623</benifit>
+			<reliability>25.007</reliability>
+			<availability>14.193</availability>
+			<response_time>9.2</response_time>
+		</service>
+		<service id="81">
+			<energy>5.456</energy>
+			<cost>11.284</cost>
+			<benifit>1.4985</benifit>
+			<reliability>9.317</reliability>
+			<availability>11.124</availability>
+			<response_time>7.261</response_time>
+		</service>
+		<service id="157">
+			<energy>9.727</energy>
+			<cost>5.687</cost>
+			<benifit>0.93684</benifit>
+			<reliability>17.172</reliability>
+			<availability>10.346</availability>
+			<response_time>3.907</response_time>
+		</service>
+		<service id="385">
+			<energy>30.771</energy>
+			<cost>0.566</cost>
+			<benifit>0.070785</benifit>
+			<reliability>21.032</reliability>
+			<availability>24.339</availability>
+			<response_time>31.577</response_time>
+		</service>
+		<service id="133">
+			<energy>24.602</energy>
+			<cost>4.078</cost>
+			<benifit>0.6698859999999999</benifit>
+			<reliability>20.78</reliability>
+			<availability>6.659</availability>
+			<response_time>20.751</response_time>
+		</service>
+		<service id="42">
+			<energy>18.741</energy>
+			<cost>12.13</cost>
+			<benifit>2.308652</benifit>
+			<reliability>21.464</reliability>
+			<availability>6.24</availability>
+			<response_time>19.562</response_time>
+		</service>
+		<service id="9">
+			<energy>0.39</energy>
+			<cost>13.969</cost>
+			<benifit>1.8685110000000003</benifit>
+			<reliability>0.436</reliability>
+			<availability>10.112</availability>
+			<response_time>2.184</response_time>
+		</service>
+		<service id="230">
+			<energy>11.429</energy>
+			<cost>1.309</cost>
+			<benifit>0.001822</benifit>
+			<reliability>17.003</reliability>
+			<availability>10.691</availability>
+			<response_time>11.911</response_time>
+		</service>
+		<service id="55">
+			<energy>16.872</energy>
+			<cost>12.8</cost>
+			<benifit>0.299618</benifit>
+			<reliability>10.653</reliability>
+			<availability>11.386</availability>
+			<response_time>20.858</response_time>
+		</service>
+		<service id="192">
+			<energy>21.722</energy>
+			<cost>10.968</cost>
+			<benifit>0.39678</benifit>
+			<reliability>11.032</reliability>
+			<availability>7.957</availability>
+			<response_time>12.38</response_time>
+		</service>
+		<service id="70">
+			<energy>18.353</energy>
+			<cost>1.681</cost>
+			<benifit>0.10593799999999999</benifit>
+			<reliability>14.527</reliability>
+			<availability>3.277</availability>
+			<response_time>31.042</response_time>
+		</service>
+		<service id="104">
+			<energy>21.492</energy>
+			<cost>8.32</cost>
+			<benifit>0.9144379999999999</benifit>
+			<reliability>20.452</reliability>
+			<availability>11.699</availability>
+			<response_time>32.613</response_time>
+		</service>
+		<service id="43">
+			<energy>8.22</energy>
+			<cost>3.622</cost>
+			<benifit>0.3492</benifit>
+			<reliability>6.178</reliability>
+			<availability>11.583</availability>
+			<response_time>4.242</response_time>
+		</service>
+		<service id="16">
+			<energy>2.695</energy>
+			<cost>6.873</cost>
+			<benifit>1.2734539999999999</benifit>
+			<reliability>0.715</reliability>
+			<availability>6.615</availability>
+			<response_time>7.675</response_time>
+		</service>
+	</services>
+	<composition_plans>
+		<composition id="1">
+			<service id="339"/>
+			<service id="180"/>
+			<service id="248"/>
+			<service id="147"/>
+			<service id="304"/>
+			<service id="11"/>
+			<service id="285"/>
+			<service id="374"/>
+			<service id="302"/>
+			<service id="316"/>
+			<service id="237"/>
+			<service id="380"/>
+			<service id="225"/>
+			<service id="72"/>
+			<service id="45"/>
+			<service id="276"/>
+			<service id="309"/>
+			<service id="389"/>
+			<service id="80"/>
+			<service id="140"/>
+			<service id="183"/>
+			<service id="125"/>
+			<service id="181"/>
+			<service id="333"/>
+			<service id="258"/>
+			<service id="228"/>
+			<service id="278"/>
+			<service id="312"/>
+			<service id="301"/>
+			<service id="197"/>
+			<service id="98"/>
+			<service id="149"/>
+			<service id="206"/>
+			<service id="262"/>
+			<service id="108"/>
+			<service id="256"/>
+			<service id="99"/>
+			<service id="160"/>
+			<service id="64"/>
+		</composition>
+		<composition id="2">
+			<service id="244"/>
+			<service id="168"/>
+			<service id="279"/>
+			<service id="9"/>
+			<service id="310"/>
+			<service id="288"/>
+			<service id="193"/>
+			<service id="29"/>
+			<service id="361"/>
+			<service id="34"/>
+			<service id="266"/>
+			<service id="267"/>
+			<service id="394"/>
+			<service id="111"/>
+			<service id="285"/>
+			<service id="8"/>
+			<service id="307"/>
+			<service id="207"/>
+			<service id="121"/>
+			<service id="327"/>
+			<service id="219"/>
+			<service id="27"/>
+			<service id="136"/>
+			<service id="242"/>
+			<service id="124"/>
+			<service id="110"/>
+			<service id="50"/>
+			<service id="177"/>
+			<service id="182"/>
+			<service id="56"/>
+			<service id="291"/>
+			<service id="76"/>
+			<service id="241"/>
+			<service id="388"/>
+			<service id="224"/>
+			<service id="62"/>
+			<service id="281"/>
+			<service id="-7"/>
+		</composition>
+		<composition id="3">
+			<service id="64"/>
+			<service id="186"/>
+			<service id="397"/>
+			<service id="314"/>
+			<service id="62"/>
+			<service id="343"/>
+			<service id="341"/>
+			<service id="326"/>
+			<service id="263"/>
+			<service id="104"/>
+			<service id="285"/>
+			<service id="17"/>
+			<service id="270"/>
+			<service id="376"/>
+			<service id="105"/>
+			<service id="159"/>
+			<service id="342"/>
+			<service id="31"/>
+			<service id="26"/>
+			<service id="-4"/>
+			<service id="71"/>
+			<service id="24"/>
+			<service id="190"/>
+			<service id="214"/>
+			<service id="163"/>
+			<service id="319"/>
+			<service id="269"/>
+			<service id="157"/>
+			<service id="305"/>
+			<service id="336"/>
+			<service id="194"/>
+			<service id="211"/>
+			<service id="253"/>
+			<service id="109"/>
+			<service id="174"/>
+			<service id="379"/>
+			<service id="365"/>
+			<service id="34"/>
+			<service id="206"/>
+		</composition>
+		<composition id="4">
+			<service id="212"/>
+			<service id="337"/>
+			<service id="84"/>
+			<service id="62"/>
+			<service id="390"/>
+			<service id="368"/>
+			<service id="14"/>
+			<service id="364"/>
+			<service id="17"/>
+			<service id="165"/>
+			<service id="265"/>
+			<service id="13"/>
+			<service id="268"/>
+			<service id="127"/>
+			<service id="392"/>
+			<service id="149"/>
+			<service id="136"/>
+			<service id="20"/>
+			<service id="103"/>
+			<service id="282"/>
+			<service id="344"/>
+			<service id="334"/>
+			<service id="173"/>
+			<service id="259"/>
+			<service id="99"/>
+			<service id="48"/>
+			<service id="386"/>
+			<service id="151"/>
+			<service id="179"/>
+			<service id="29"/>
+			<service id="213"/>
+			<service id="81"/>
+			<service id="70"/>
+			<service id="190"/>
+			<service id="183"/>
+			<service id="277"/>
+			<service id="96"/>
+			<service id="298"/>
+			<service id="106"/>
+		</composition>
+		<composition id="5">
+			<service id="67"/>
+			<service id="380"/>
+			<service id="366"/>
+			<service id="269"/>
+			<service id="131"/>
+			<service id="240"/>
+			<service id="189"/>
+			<service id="-4"/>
+			<service id="50"/>
+			<service id="264"/>
+			<service id="163"/>
+			<service id="153"/>
+			<service id="126"/>
+			<service id="392"/>
+			<service id="101"/>
+			<service id="306"/>
+			<service id="274"/>
+			<service id="293"/>
+			<service id="218"/>
+			<service id="-6"/>
+			<service id="57"/>
+			<service id="83"/>
+			<service id="37"/>
+			<service id="318"/>
+			<service id="332"/>
+			<service id="190"/>
+			<service id="38"/>
+			<service id="113"/>
+			<service id="182"/>
+			<service id="373"/>
+			<service id="72"/>
+			<service id="359"/>
+			<service id="358"/>
+			<service id="394"/>
+			<service id="372"/>
+			<service id="361"/>
+			<service id="324"/>
+			<service id="312"/>
+		</composition>
+		<composition id="6">
+			<service id="109"/>
+			<service id="299"/>
+			<service id="117"/>
+			<service id="23"/>
+			<service id="33"/>
+			<service id="141"/>
+			<service id="220"/>
+			<service id="77"/>
+			<service id="124"/>
+			<service id="97"/>
+			<service id="246"/>
+			<service id="315"/>
+			<service id="148"/>
+			<service id="275"/>
+			<service id="265"/>
+			<service id="302"/>
+			<service id="213"/>
+			<service id="248"/>
+			<service id="348"/>
+			<service id="106"/>
+			<service id="104"/>
+			<service id="182"/>
+			<service id="149"/>
+			<service id="383"/>
+			<service id="278"/>
+			<service id="373"/>
+			<service id="214"/>
+			<service id="317"/>
+			<service id="300"/>
+			<service id="287"/>
+			<service id="390"/>
+			<service id="340"/>
+			<service id="295"/>
+			<service id="95"/>
+			<service id="79"/>
+			<service id="356"/>
+			<service id="101"/>
+			<service id="13"/>
+			<service id="146"/>
+		</composition>
+		<composition id="7">
+			<service id="268"/>
+			<service id="226"/>
+			<service id="298"/>
+			<service id="345"/>
+			<service id="62"/>
+			<service id="200"/>
+			<service id="65"/>
+			<service id="194"/>
+			<service id="-4"/>
+			<service id="69"/>
+			<service id="2"/>
+			<service id="108"/>
+			<service id="294"/>
+			<service id="382"/>
+			<service id="201"/>
+			<service id="16"/>
+			<service id="75"/>
+			<service id="203"/>
+			<service id="100"/>
+			<service id="70"/>
+			<service id="279"/>
+			<service id="37"/>
+			<service id="221"/>
+			<service id="188"/>
+			<service id="142"/>
+			<service id="248"/>
+			<service id="388"/>
+			<service id="213"/>
+			<service id="323"/>
+			<service id="239"/>
+			<service id="101"/>
+			<service id="148"/>
+			<service id="68"/>
+			<service id="89"/>
+			<service id="76"/>
+			<service id="87"/>
+			<service id="197"/>
+			<service id="363"/>
+		</composition>
+		<composition id="8">
+			<service id="169"/>
+			<service id="214"/>
+			<service id="124"/>
+			<service id="212"/>
+			<service id="31"/>
+			<service id="359"/>
+			<service id="171"/>
+			<service id="165"/>
+			<service id="287"/>
+			<service id="261"/>
+			<service id="133"/>
+			<service id="79"/>
+			<service id="247"/>
+			<service id="313"/>
+			<service id="101"/>
+			<service id="280"/>
+			<service id="131"/>
+			<service id="307"/>
+			<service id="146"/>
+			<service id="349"/>
+			<service id="163"/>
+			<service id="354"/>
+			<service id="301"/>
+			<service id="290"/>
+			<service id="72"/>
+			<service id="386"/>
+			<service id="222"/>
+			<service id="335"/>
+			<service id="125"/>
+			<service id="213"/>
+			<service id="35"/>
+			<service id="67"/>
+			<service id="60"/>
+			<service id="299"/>
+			<service id="241"/>
+			<service id="300"/>
+			<service id="226"/>
+			<service id="248"/>
+		</composition>
+		<composition id="9">
+			<service id="189"/>
+			<service id="237"/>
+			<service id="391"/>
+			<service id="7"/>
+			<service id="88"/>
+			<service id="230"/>
+			<service id="289"/>
+			<service id="150"/>
+			<service id="104"/>
+			<service id="243"/>
+			<service id="182"/>
+			<service id="110"/>
+			<service id="159"/>
+			<service id="72"/>
+			<service id="378"/>
+			<service id="302"/>
+			<service id="292"/>
+			<service id="285"/>
+			<service id="17"/>
+			<service id="246"/>
+			<service id="380"/>
+			<service id="242"/>
+			<service id="188"/>
+			<service id="146"/>
+			<service id="204"/>
+			<service id="109"/>
+			<service id="333"/>
+			<service id="245"/>
+			<service id="217"/>
+			<service id="42"/>
+			<service id="166"/>
+			<service id="339"/>
+			<service id="167"/>
+			<service id="21"/>
+			<service id="212"/>
+			<service id="254"/>
+			<service id="321"/>
+			<service id="124"/>
+		</composition>
+		<composition id="10">
+			<service id="139"/>
+			<service id="125"/>
+			<service id="84"/>
+			<service id="284"/>
+			<service id="181"/>
+			<service id="242"/>
+			<service id="143"/>
+			<service id="7"/>
+			<service id="179"/>
+			<service id="80"/>
+			<service id="140"/>
+			<service id="365"/>
+			<service id="-3"/>
+			<service id="141"/>
+			<service id="88"/>
+			<service id="383"/>
+			<service id="197"/>
+			<service id="35"/>
+			<service id="29"/>
+			<service id="360"/>
+			<service id="31"/>
+			<service id="25"/>
+			<service id="163"/>
+			<service id="-1"/>
+			<service id="386"/>
+			<service id="173"/>
+			<service id="93"/>
+			<service id="137"/>
+			<service id="153"/>
+			<service id="254"/>
+			<service id="86"/>
+			<service id="352"/>
+			<service id="221"/>
+			<service id="52"/>
+			<service id="314"/>
+			<service id="340"/>
+			<service id="146"/>
+			<service id="87"/>
+		</composition>
+		<composition id="11">
+			<service id="101"/>
+			<service id="260"/>
+			<service id="256"/>
+			<service id="387"/>
+			<service id="309"/>
+			<service id="46"/>
+			<service id="243"/>
+			<service id="350"/>
+			<service id="242"/>
+			<service id="284"/>
+			<service id="282"/>
+			<service id="382"/>
+			<service id="314"/>
+			<service id="141"/>
+			<service id="84"/>
+			<service id="274"/>
+			<service id="-1"/>
+			<service id="150"/>
+			<service id="388"/>
+			<service id="357"/>
+			<service id="354"/>
+			<service id="-10"/>
+			<service id="232"/>
+			<service id="197"/>
+			<service id="94"/>
+			<service id="152"/>
+			<service id="-8"/>
+			<service id="266"/>
+			<service id="247"/>
+			<service id="225"/>
+			<service id="81"/>
+			<service id="229"/>
+			<service id="241"/>
+			<service id="342"/>
+			<service id="-2"/>
+			<service id="175"/>
+			<service id="275"/>
+			<service id="369"/>
+			<service id="109"/>
+		</composition>
+		<composition id="12">
+			<service id="384"/>
+			<service id="82"/>
+			<service id="89"/>
+			<service id="162"/>
+			<service id="220"/>
+			<service id="129"/>
+			<service id="381"/>
+			<service id="354"/>
+			<service id="143"/>
+			<service id="39"/>
+			<service id="58"/>
+			<service id="110"/>
+			<service id="389"/>
+			<service id="138"/>
+			<service id="264"/>
+			<service id="226"/>
+			<service id="22"/>
+			<service id="28"/>
+			<service id="41"/>
+			<service id="64"/>
+			<service id="299"/>
+			<service id="176"/>
+			<service id="304"/>
+			<service id="103"/>
+			<service id="272"/>
+			<service id="312"/>
+			<service id="268"/>
+			<service id="146"/>
+			<service id="181"/>
+			<service id="196"/>
+			<service id="173"/>
+			<service id="300"/>
+			<service id="67"/>
+			<service id="333"/>
+			<service id="217"/>
+			<service id="21"/>
+			<service id="307"/>
+			<service id="98"/>
+			<service id="140"/>
+		</composition>
+		<composition id="13">
+			<service id="199"/>
+			<service id="166"/>
+			<service id="76"/>
+			<service id="218"/>
+			<service id="207"/>
+			<service id="341"/>
+			<service id="27"/>
+			<service id="141"/>
+			<service id="387"/>
+			<service id="57"/>
+			<service id="191"/>
+			<service id="215"/>
+			<service id="309"/>
+			<service id="396"/>
+			<service id="344"/>
+			<service id="196"/>
+			<service id="160"/>
+			<service id="235"/>
+			<service id="339"/>
+			<service id="349"/>
+			<service id="60"/>
+			<service id="50"/>
+			<service id="5"/>
+			<service id="298"/>
+			<service id="149"/>
+			<service id="16"/>
+			<service id="118"/>
+			<service id="296"/>
+			<service id="6"/>
+			<service id="23"/>
+			<service id="237"/>
+			<service id="300"/>
+			<service id="189"/>
+			<service id="90"/>
+			<service id="323"/>
+			<service id="376"/>
+			<service id="105"/>
+			<service id="359"/>
+			<service id="260"/>
+		</composition>
+		<composition id="14">
+			<service id="140"/>
+			<service id="274"/>
+			<service id="388"/>
+			<service id="338"/>
+			<service id="242"/>
+			<service id="48"/>
+			<service id="89"/>
+			<service id="114"/>
+			<service id="295"/>
+			<service id="92"/>
+			<service id="163"/>
+			<service id="221"/>
+			<service id="392"/>
+			<service id="271"/>
+			<service id="147"/>
+			<service id="310"/>
+			<service id="390"/>
+			<service id="299"/>
+			<service id="12"/>
+			<service id="179"/>
+			<service id="-1"/>
+			<service id="243"/>
+			<service id="100"/>
+			<service id="291"/>
+			<service id="393"/>
+			<service id="157"/>
+			<service id="198"/>
+			<service id="184"/>
+			<service id="0"/>
+			<service id="213"/>
+			<service id="209"/>
+			<service id="366"/>
+			<service id="141"/>
+			<service id="246"/>
+			<service id="356"/>
+			<service id="343"/>
+			<service id="318"/>
+			<service id="210"/>
+			<service id="365"/>
+		</composition>
+		<composition id="15">
+			<service id="285"/>
+			<service id="243"/>
+			<service id="227"/>
+			<service id="13"/>
+			<service id="189"/>
+			<service id="202"/>
+			<service id="235"/>
+			<service id="241"/>
+			<service id="99"/>
+			<service id="68"/>
+			<service id="327"/>
+			<service id="343"/>
+			<service id="95"/>
+			<service id="247"/>
+			<service id="230"/>
+			<service id="36"/>
+			<service id="272"/>
+			<service id="296"/>
+			<service id="221"/>
+			<service id="288"/>
+			<service id="28"/>
+			<service id="259"/>
+			<service id="70"/>
+			<service id="74"/>
+			<service id="85"/>
+			<service id="165"/>
+			<service id="163"/>
+			<service id="280"/>
+			<service id="228"/>
+			<service id="267"/>
+			<service id="141"/>
+			<service id="97"/>
+			<service id="192"/>
+			<service id="223"/>
+			<service id="287"/>
+			<service id="46"/>
+			<service id="308"/>
+			<service id="214"/>
+			<service id="369"/>
+		</composition>
+		<composition id="16">
+			<service id="243"/>
+			<service id="396"/>
+			<service id="-4"/>
+			<service id="36"/>
+			<service id="212"/>
+			<service id="151"/>
+			<service id="171"/>
+			<service id="172"/>
+			<service id="16"/>
+			<service id="387"/>
+			<service id="108"/>
+			<service id="1"/>
+			<service id="141"/>
+			<service id="123"/>
+			<service id="-10"/>
+			<service id="214"/>
+			<service id="357"/>
+			<service id="8"/>
+			<service id="181"/>
+			<service id="397"/>
+			<service id="183"/>
+			<service id="138"/>
+			<service id="104"/>
+			<service id="146"/>
+			<service id="21"/>
+			<service id="150"/>
+			<service id="363"/>
+			<service id="279"/>
+			<service id="256"/>
+			<service id="88"/>
+			<service id="37"/>
+			<service id="-3"/>
+			<service id="122"/>
+			<service id="247"/>
+			<service id="102"/>
+			<service id="94"/>
+			<service id="39"/>
+			<service id="338"/>
+			<service id="236"/>
+		</composition>
+		<composition id="17">
+			<service id="301"/>
+			<service id="74"/>
+			<service id="375"/>
+			<service id="246"/>
+			<service id="322"/>
+			<service id="267"/>
+			<service id="278"/>
+			<service id="227"/>
+			<service id="235"/>
+			<service id="55"/>
+			<service id="206"/>
+			<service id="158"/>
+			<service id="102"/>
+			<service id="110"/>
+			<service id="253"/>
+			<service id="394"/>
+			<service id="-3"/>
+			<service id="186"/>
+			<service id="56"/>
+			<service id="372"/>
+			<service id="72"/>
+			<service id="349"/>
+			<service id="199"/>
+			<service id="309"/>
+			<service id="360"/>
+			<service id="390"/>
+			<service id="173"/>
+			<service id="288"/>
+			<service id="46"/>
+			<service id="361"/>
+			<service id="389"/>
+			<service id="373"/>
+			<service id="123"/>
+			<service id="326"/>
+			<service id="121"/>
+			<service id="168"/>
+			<service id="177"/>
+			<service id="178"/>
+		</composition>
+		<composition id="18">
+			<service id="156"/>
+			<service id="180"/>
+			<service id="382"/>
+			<service id="182"/>
+			<service id="11"/>
+			<service id="68"/>
+			<service id="20"/>
+			<service id="222"/>
+			<service id="244"/>
+			<service id="351"/>
+			<service id="124"/>
+			<service id="116"/>
+			<service id="383"/>
+			<service id="86"/>
+			<service id="78"/>
+			<service id="211"/>
+			<service id="221"/>
+			<service id="377"/>
+			<service id="-6"/>
+			<service id="367"/>
+			<service id="158"/>
+			<service id="35"/>
+			<service id="62"/>
+			<service id="46"/>
+			<service id="14"/>
+			<service id="397"/>
+			<service id="50"/>
+			<service id="347"/>
+			<service id="307"/>
+			<service id="38"/>
+			<service id="251"/>
+			<service id="177"/>
+			<service id="90"/>
+			<service id="123"/>
+			<service id="295"/>
+			<service id="181"/>
+			<service id="232"/>
+			<service id="5"/>
+			<service id="288"/>
+		</composition>
+		<composition id="19">
+			<service id="238"/>
+			<service id="309"/>
+			<service id="55"/>
+			<service id="99"/>
+			<service id="18"/>
+			<service id="326"/>
+			<service id="395"/>
+			<service id="-9"/>
+			<service id="277"/>
+			<service id="356"/>
+			<service id="58"/>
+			<service id="88"/>
+			<service id="345"/>
+			<service id="311"/>
+			<service id="76"/>
+			<service id="213"/>
+			<service id="83"/>
+			<service id="169"/>
+			<service id="377"/>
+			<service id="179"/>
+			<service id="189"/>
+			<service id="372"/>
+			<service id="204"/>
+			<service id="103"/>
+			<service id="63"/>
+			<service id="355"/>
+			<service id="165"/>
+			<service id="285"/>
+			<service id="185"/>
+			<service id="314"/>
+			<service id="392"/>
+			<service id="208"/>
+			<service id="242"/>
+			<service id="5"/>
+			<service id="343"/>
+			<service id="259"/>
+			<service id="11"/>
+			<service id="168"/>
+		</composition>
+		<composition id="20">
+			<service id="178"/>
+			<service id="280"/>
+			<service id="391"/>
+			<service id="88"/>
+			<service id="393"/>
+			<service id="387"/>
+			<service id="143"/>
+			<service id="199"/>
+			<service id="84"/>
+			<service id="10"/>
+			<service id="241"/>
+			<service id="190"/>
+			<service id="373"/>
+			<service id="319"/>
+			<service id="388"/>
+			<service id="222"/>
+			<service id="215"/>
+			<service id="113"/>
+			<service id="35"/>
+			<service id="32"/>
+			<service id="65"/>
+			<service id="48"/>
+			<service id="73"/>
+			<service id="138"/>
+			<service id="217"/>
+			<service id="269"/>
+			<service id="225"/>
+			<service id="123"/>
+			<service id="327"/>
+			<service id="-9"/>
+			<service id="122"/>
+			<service id="390"/>
+			<service id="118"/>
+			<service id="264"/>
+			<service id="235"/>
+			<service id="104"/>
+			<service id="17"/>
+			<service id="26"/>
+			<service id="198"/>
+		</composition>
+		<composition id="21">
+			<service id="127"/>
+			<service id="269"/>
+			<service id="217"/>
+			<service id="206"/>
+			<service id="130"/>
+			<service id="197"/>
+			<service id="157"/>
+			<service id="209"/>
+			<service id="373"/>
+			<service id="20"/>
+			<service id="165"/>
+			<service id="0"/>
+			<service id="133"/>
+			<service id="316"/>
+			<service id="192"/>
+			<service id="289"/>
+			<service id="363"/>
+			<service id="144"/>
+			<service id="313"/>
+			<service id="380"/>
+			<service id="72"/>
+			<service id="132"/>
+			<service id="381"/>
+			<service id="158"/>
+			<service id="243"/>
+			<service id="312"/>
+			<service id="258"/>
+			<service id="70"/>
+			<service id="276"/>
+			<service id="196"/>
+			<service id="3"/>
+			<service id="343"/>
+			<service id="317"/>
+			<service id="357"/>
+			<service id="354"/>
+			<service id="275"/>
+			<service id="393"/>
+			<service id="75"/>
+			<service id="-8"/>
+		</composition>
+		<composition id="22">
+			<service id="148"/>
+			<service id="117"/>
+			<service id="331"/>
+			<service id="56"/>
+			<service id="57"/>
+			<service id="222"/>
+			<service id="135"/>
+			<service id="345"/>
+			<service id="381"/>
+			<service id="207"/>
+			<service id="384"/>
+			<service id="94"/>
+			<service id="396"/>
+			<service id="289"/>
+			<service id="228"/>
+			<service id="41"/>
+			<service id="40"/>
+			<service id="138"/>
+			<service id="18"/>
+			<service id="99"/>
+			<service id="314"/>
+			<service id="275"/>
+			<service id="-8"/>
+			<service id="83"/>
+			<service id="111"/>
+			<service id="264"/>
+			<service id="129"/>
+			<service id="52"/>
+			<service id="126"/>
+			<service id="183"/>
+			<service id="391"/>
+			<service id="147"/>
+			<service id="252"/>
+			<service id="361"/>
+			<service id="291"/>
+			<service id="318"/>
+			<service id="175"/>
+			<service id="382"/>
+		</composition>
+		<composition id="23">
+			<service id="277"/>
+			<service id="397"/>
+			<service id="324"/>
+			<service id="97"/>
+			<service id="293"/>
+			<service id="-6"/>
+			<service id="389"/>
+			<service id="36"/>
+			<service id="239"/>
+			<service id="346"/>
+			<service id="248"/>
+			<service id="278"/>
+			<service id="253"/>
+			<service id="182"/>
+			<service id="337"/>
+			<service id="206"/>
+			<service id="29"/>
+			<service id="60"/>
+			<service id="386"/>
+			<service id="82"/>
+			<service id="153"/>
+			<service id="193"/>
+			<service id="279"/>
+			<service id="0"/>
+			<service id="110"/>
+			<service id="308"/>
+			<service id="99"/>
+			<service id="381"/>
+			<service id="-4"/>
+			<service id="374"/>
+			<service id="188"/>
+			<service id="291"/>
+			<service id="109"/>
+			<service id="296"/>
+			<service id="15"/>
+			<service id="168"/>
+			<service id="219"/>
+			<service id="363"/>
+		</composition>
+		<composition id="24">
+			<service id="372"/>
+			<service id="77"/>
+			<service id="315"/>
+			<service id="118"/>
+			<service id="294"/>
+			<service id="164"/>
+			<service id="34"/>
+			<service id="228"/>
+			<service id="64"/>
+			<service id="321"/>
+			<service id="8"/>
+			<service id="376"/>
+			<service id="-6"/>
+			<service id="368"/>
+			<service id="322"/>
+			<service id="220"/>
+			<service id="115"/>
+			<service id="268"/>
+			<service id="178"/>
+			<service id="102"/>
+			<service id="355"/>
+			<service id="247"/>
+			<service id="152"/>
+			<service id="93"/>
+			<service id="181"/>
+			<service id="62"/>
+			<service id="-2"/>
+			<service id="19"/>
+			<service id="49"/>
+			<service id="133"/>
+			<service id="219"/>
+			<service id="235"/>
+			<service id="196"/>
+			<service id="265"/>
+			<service id="103"/>
+			<service id="201"/>
+			<service id="337"/>
+			<service id="253"/>
+			<service id="24"/>
+		</composition>
+		<composition id="25">
+			<service id="258"/>
+			<service id="179"/>
+			<service id="256"/>
+			<service id="186"/>
+			<service id="319"/>
+			<service id="379"/>
+			<service id="9"/>
+			<service id="265"/>
+			<service id="168"/>
+			<service id="317"/>
+			<service id="21"/>
+			<service id="220"/>
+			<service id="10"/>
+			<service id="275"/>
+			<service id="321"/>
+			<service id="309"/>
+			<service id="74"/>
+			<service id="211"/>
+			<service id="122"/>
+			<service id="158"/>
+			<service id="13"/>
+			<service id="200"/>
+			<service id="347"/>
+			<service id="51"/>
+			<service id="61"/>
+			<service id="351"/>
+			<service id="182"/>
+			<service id="99"/>
+			<service id="43"/>
+			<service id="250"/>
+			<service id="53"/>
+			<service id="209"/>
+			<service id="194"/>
+			<service id="296"/>
+			<service id="-5"/>
+			<service id="345"/>
+			<service id="110"/>
+			<service id="192"/>
+		</composition>
+		<composition id="26">
+			<service id="228"/>
+			<service id="306"/>
+			<service id="75"/>
+			<service id="263"/>
+			<service id="236"/>
+			<service id="40"/>
+			<service id="342"/>
+			<service id="60"/>
+			<service id="152"/>
+			<service id="65"/>
+			<service id="324"/>
+			<service id="118"/>
+			<service id="26"/>
+			<service id="252"/>
+			<service id="3"/>
+			<service id="384"/>
+			<service id="215"/>
+			<service id="193"/>
+			<service id="271"/>
+			<service id="6"/>
+			<service id="227"/>
+			<service id="165"/>
+			<service id="220"/>
+			<service id="164"/>
+			<service id="4"/>
+			<service id="11"/>
+			<service id="17"/>
+			<service id="264"/>
+			<service id="361"/>
+			<service id="-2"/>
+			<service id="158"/>
+			<service id="354"/>
+			<service id="239"/>
+			<service id="53"/>
+			<service id="115"/>
+			<service id="388"/>
+			<service id="211"/>
+			<service id="284"/>
+			<service id="212"/>
+		</composition>
+		<composition id="27">
+			<service id="319"/>
+			<service id="-9"/>
+			<service id="324"/>
+			<service id="360"/>
+			<service id="250"/>
+			<service id="149"/>
+			<service id="160"/>
+			<service id="235"/>
+			<service id="273"/>
+			<service id="306"/>
+			<service id="-4"/>
+			<service id="88"/>
+			<service id="39"/>
+			<service id="374"/>
+			<service id="143"/>
+			<service id="333"/>
+			<service id="95"/>
+			<service id="364"/>
+			<service id="79"/>
+			<service id="51"/>
+			<service id="-6"/>
+			<service id="368"/>
+			<service id="382"/>
+			<service id="153"/>
+			<service id="311"/>
+			<service id="33"/>
+			<service id="266"/>
+			<service id="298"/>
+			<service id="338"/>
+			<service id="379"/>
+			<service id="84"/>
+			<service id="147"/>
+			<service id="13"/>
+			<service id="212"/>
+			<service id="269"/>
+			<service id="191"/>
+			<service id="113"/>
+			<service id="385"/>
+			<service id="132"/>
+		</composition>
+		<composition id="28">
+			<service id="115"/>
+			<service id="233"/>
+			<service id="242"/>
+			<service id="165"/>
+			<service id="304"/>
+			<service id="-1"/>
+			<service id="311"/>
+			<service id="180"/>
+			<service id="146"/>
+			<service id="303"/>
+			<service id="92"/>
+			<service id="78"/>
+			<service id="274"/>
+			<service id="310"/>
+			<service id="127"/>
+			<service id="98"/>
+			<service id="239"/>
+			<service id="224"/>
+			<service id="369"/>
+			<service id="94"/>
+			<service id="228"/>
+			<service id="137"/>
+			<service id="52"/>
+			<service id="176"/>
+			<service id="219"/>
+			<service id="298"/>
+			<service id="208"/>
+			<service id="190"/>
+			<service id="209"/>
+			<service id="288"/>
+			<service id="16"/>
+			<service id="138"/>
+			<service id="75"/>
+			<service id="139"/>
+			<service id="61"/>
+			<service id="159"/>
+			<service id="101"/>
+			<service id="397"/>
+			<service id="364"/>
+		</composition>
+		<composition id="29">
+			<service id="351"/>
+			<service id="17"/>
+			<service id="86"/>
+			<service id="315"/>
+			<service id="309"/>
+			<service id="190"/>
+			<service id="-3"/>
+			<service id="244"/>
+			<service id="32"/>
+			<service id="175"/>
+			<service id="68"/>
+			<service id="121"/>
+			<service id="23"/>
+			<service id="392"/>
+			<service id="317"/>
+			<service id="11"/>
+			<service id="206"/>
+			<service id="291"/>
+			<service id="375"/>
+			<service id="305"/>
+			<service id="74"/>
+			<service id="51"/>
+			<service id="290"/>
+			<service id="16"/>
+			<service id="-8"/>
+			<service id="301"/>
+			<service id="227"/>
+			<service id="241"/>
+			<service id="395"/>
+			<service id="273"/>
+			<service id="110"/>
+			<service id="348"/>
+			<service id="1"/>
+			<service id="236"/>
+			<service id="181"/>
+			<service id="365"/>
+			<service id="129"/>
+			<service id="361"/>
+			<service id="67"/>
+		</composition>
+		<composition id="30">
+			<service id="218"/>
+			<service id="307"/>
+			<service id="38"/>
+			<service id="105"/>
+			<service id="22"/>
+			<service id="311"/>
+			<service id="26"/>
+			<service id="291"/>
+			<service id="199"/>
+			<service id="348"/>
+			<service id="285"/>
+			<service id="180"/>
+			<service id="396"/>
+			<service id="287"/>
+			<service id="222"/>
+			<service id="239"/>
+			<service id="383"/>
+			<service id="257"/>
+			<service id="132"/>
+			<service id="54"/>
+			<service id="201"/>
+			<service id="64"/>
+			<service id="171"/>
+			<service id="224"/>
+			<service id="182"/>
+			<service id="310"/>
+			<service id="78"/>
+			<service id="364"/>
+			<service id="30"/>
+			<service id="156"/>
+			<service id="4"/>
+			<service id="236"/>
+			<service id="269"/>
+			<service id="393"/>
+			<service id="174"/>
+			<service id="200"/>
+			<service id="-2"/>
+			<service id="42"/>
+			<service id="147"/>
+		</composition>
+		<composition id="31">
+			<service id="232"/>
+			<service id="389"/>
+			<service id="152"/>
+			<service id="180"/>
+			<service id="82"/>
+			<service id="-7"/>
+			<service id="188"/>
+			<service id="237"/>
+			<service id="162"/>
+			<service id="129"/>
+			<service id="116"/>
+			<service id="393"/>
+			<service id="111"/>
+			<service id="56"/>
+			<service id="130"/>
+			<service id="280"/>
+			<service id="362"/>
+			<service id="251"/>
+			<service id="168"/>
+			<service id="200"/>
+			<service id="109"/>
+			<service id="281"/>
+			<service id="245"/>
+			<service id="350"/>
+			<service id="295"/>
+			<service id="329"/>
+			<service id="42"/>
+			<service id="49"/>
+			<service id="372"/>
+			<service id="100"/>
+			<service id="314"/>
+			<service id="57"/>
+			<service id="328"/>
+			<service id="125"/>
+			<service id="6"/>
+			<service id="120"/>
+			<service id="176"/>
+			<service id="81"/>
+		</composition>
+		<composition id="32">
+			<service id="72"/>
+			<service id="130"/>
+			<service id="340"/>
+			<service id="186"/>
+			<service id="207"/>
+			<service id="389"/>
+			<service id="144"/>
+			<service id="289"/>
+			<service id="-5"/>
+			<service id="-10"/>
+			<service id="294"/>
+			<service id="90"/>
+			<service id="336"/>
+			<service id="133"/>
+			<service id="282"/>
+			<service id="17"/>
+			<service id="269"/>
+			<service id="138"/>
+			<service id="61"/>
+			<service id="326"/>
+			<service id="369"/>
+			<service id="123"/>
+			<service id="208"/>
+			<service id="354"/>
+			<service id="105"/>
+			<service id="182"/>
+			<service id="358"/>
+			<service id="236"/>
+			<service id="125"/>
+			<service id="143"/>
+			<service id="346"/>
+			<service id="14"/>
+			<service id="342"/>
+			<service id="192"/>
+			<service id="32"/>
+			<service id="203"/>
+			<service id="94"/>
+			<service id="44"/>
+			<service id="75"/>
+		</composition>
+		<composition id="33">
+			<service id="60"/>
+			<service id="256"/>
+			<service id="68"/>
+			<service id="83"/>
+			<service id="371"/>
+			<service id="245"/>
+			<service id="287"/>
+			<service id="106"/>
+			<service id="275"/>
+			<service id="338"/>
+			<service id="13"/>
+			<service id="53"/>
+			<service id="358"/>
+			<service id="1"/>
+			<service id="272"/>
+			<service id="5"/>
+			<service id="147"/>
+			<service id="45"/>
+			<service id="294"/>
+			<service id="206"/>
+			<service id="12"/>
+			<service id="393"/>
+			<service id="28"/>
+			<service id="288"/>
+			<service id="9"/>
+			<service id="305"/>
+			<service id="239"/>
+			<service id="-4"/>
+			<service id="340"/>
+			<service id="183"/>
+			<service id="238"/>
+			<service id="64"/>
+			<service id="169"/>
+			<service id="332"/>
+			<service id="261"/>
+			<service id="384"/>
+			<service id="373"/>
+			<service id="27"/>
+		</composition>
+		<composition id="34">
+			<service id="238"/>
+			<service id="237"/>
+			<service id="313"/>
+			<service id="382"/>
+			<service id="267"/>
+			<service id="349"/>
+			<service id="8"/>
+			<service id="151"/>
+			<service id="185"/>
+			<service id="291"/>
+			<service id="122"/>
+			<service id="276"/>
+			<service id="302"/>
+			<service id="377"/>
+			<service id="329"/>
+			<service id="232"/>
+			<service id="94"/>
+			<service id="226"/>
+			<service id="281"/>
+			<service id="103"/>
+			<service id="380"/>
+			<service id="200"/>
+			<service id="395"/>
+			<service id="19"/>
+			<service id="233"/>
+			<service id="44"/>
+			<service id="346"/>
+			<service id="69"/>
+			<service id="319"/>
+			<service id="236"/>
+			<service id="137"/>
+			<service id="250"/>
+			<service id="58"/>
+			<service id="55"/>
+			<service id="53"/>
+			<service id="124"/>
+			<service id="216"/>
+			<service id="178"/>
+		</composition>
+		<composition id="35">
+			<service id="386"/>
+			<service id="356"/>
+			<service id="178"/>
+			<service id="275"/>
+			<service id="379"/>
+			<service id="23"/>
+			<service id="217"/>
+			<service id="177"/>
+			<service id="207"/>
+			<service id="55"/>
+			<service id="344"/>
+			<service id="-3"/>
+			<service id="308"/>
+			<service id="174"/>
+			<service id="140"/>
+			<service id="117"/>
+			<service id="-8"/>
+			<service id="204"/>
+			<service id="284"/>
+			<service id="21"/>
+			<service id="54"/>
+			<service id="127"/>
+			<service id="25"/>
+			<service id="199"/>
+			<service id="394"/>
+			<service id="239"/>
+			<service id="358"/>
+			<service id="301"/>
+			<service id="96"/>
+			<service id="323"/>
+			<service id="346"/>
+			<service id="142"/>
+			<service id="109"/>
+			<service id="80"/>
+			<service id="10"/>
+			<service id="105"/>
+			<service id="268"/>
+			<service id="50"/>
+		</composition>
+		<composition id="36">
+			<service id="141"/>
+			<service id="6"/>
+			<service id="77"/>
+			<service id="120"/>
+			<service id="158"/>
+			<service id="151"/>
+			<service id="364"/>
+			<service id="289"/>
+			<service id="267"/>
+			<service id="34"/>
+			<service id="285"/>
+			<service id="187"/>
+			<service id="393"/>
+			<service id="394"/>
+			<service id="149"/>
+			<service id="259"/>
+			<service id="122"/>
+			<service id="183"/>
+			<service id="384"/>
+			<service id="202"/>
+			<service id="321"/>
+			<service id="301"/>
+			<service id="357"/>
+			<service id="191"/>
+			<service id="380"/>
+			<service id="150"/>
+			<service id="294"/>
+			<service id="-4"/>
+			<service id="43"/>
+			<service id="143"/>
+			<service id="114"/>
+			<service id="271"/>
+			<service id="282"/>
+			<service id="4"/>
+			<service id="295"/>
+			<service id="131"/>
+			<service id="290"/>
+			<service id="54"/>
+			<service id="162"/>
+		</composition>
+		<composition id="37">
+			<service id="252"/>
+			<service id="322"/>
+			<service id="383"/>
+			<service id="284"/>
+			<service id="194"/>
+			<service id="226"/>
+			<service id="347"/>
+			<service id="338"/>
+			<service id="22"/>
+			<service id="97"/>
+			<service id="116"/>
+			<service id="368"/>
+			<service id="109"/>
+			<service id="319"/>
+			<service id="246"/>
+			<service id="370"/>
+			<service id="337"/>
+			<service id="190"/>
+			<service id="7"/>
+			<service id="371"/>
+			<service id="32"/>
+			<service id="268"/>
+			<service id="345"/>
+			<service id="65"/>
+			<service id="133"/>
+			<service id="184"/>
+			<service id="79"/>
+			<service id="331"/>
+			<service id="144"/>
+			<service id="182"/>
+			<service id="52"/>
+			<service id="73"/>
+			<service id="102"/>
+			<service id="148"/>
+			<service id="299"/>
+			<service id="366"/>
+			<service id="84"/>
+			<service id="70"/>
+		</composition>
+		<composition id="38">
+			<service id="275"/>
+			<service id="249"/>
+			<service id="115"/>
+			<service id="88"/>
+			<service id="260"/>
+			<service id="2"/>
+			<service id="164"/>
+			<service id="331"/>
+			<service id="376"/>
+			<service id="209"/>
+			<service id="147"/>
+			<service id="368"/>
+			<service id="227"/>
+			<service id="128"/>
+			<service id="256"/>
+			<service id="351"/>
+			<service id="385"/>
+			<service id="129"/>
+			<service id="162"/>
+			<service id="246"/>
+			<service id="268"/>
+			<service id="353"/>
+			<service id="213"/>
+			<service id="336"/>
+			<service id="329"/>
+			<service id="117"/>
+			<service id="273"/>
+			<service id="45"/>
+			<service id="358"/>
+			<service id="183"/>
+			<service id="237"/>
+			<service id="98"/>
+			<service id="35"/>
+			<service id="291"/>
+			<service id="188"/>
+			<service id="352"/>
+			<service id="151"/>
+			<service id="337"/>
+			<service id="158"/>
+		</composition>
+		<composition id="39">
+			<service id="338"/>
+			<service id="385"/>
+			<service id="100"/>
+			<service id="392"/>
+			<service id="62"/>
+			<service id="299"/>
+			<service id="222"/>
+			<service id="12"/>
+			<service id="169"/>
+			<service id="7"/>
+			<service id="351"/>
+			<service id="55"/>
+			<service id="153"/>
+			<service id="281"/>
+			<service id="179"/>
+			<service id="49"/>
+			<service id="298"/>
+			<service id="121"/>
+			<service id="196"/>
+			<service id="238"/>
+			<service id="305"/>
+			<service id="329"/>
+			<service id="202"/>
+			<service id="184"/>
+			<service id="167"/>
+			<service id="203"/>
+			<service id="97"/>
+			<service id="376"/>
+			<service id="288"/>
+			<service id="335"/>
+			<service id="41"/>
+			<service id="356"/>
+			<service id="126"/>
+			<service id="-9"/>
+			<service id="-3"/>
+			<service id="60"/>
+			<service id="260"/>
+			<service id="54"/>
+		</composition>
+	</composition_plans>
+</cloud>

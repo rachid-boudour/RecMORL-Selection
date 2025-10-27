@@ -1,0 +1,606 @@
+<cloud id="9" name="CP_9">
+	<services>
+		<service id="38">
+			<energy>0.18095210517171478</energy>
+			<cost>0.9444096728307254</cost>
+			<benifit>0.05252129704221689</benifit>
+			<reliability>0.6732185290579986</reliability>
+			<availability>0.9757730053792141</availability>
+			<response_time>0.9991638418079096</response_time>
+		</service>
+		<service id="6">
+			<energy>0.7660280728376327</energy>
+			<cost>0.8099277715836929</cost>
+			<benifit>0.0032718183819625208</benifit>
+			<reliability>0.6403590798578641</reliability>
+			<availability>0.8993827682421578</availability>
+			<response_time>0.9195033051213937</response_time>
+		</service>
+		<service id="4">
+			<energy>0.6652100840336135</energy>
+			<cost>0.045043779557053854</cost>
+			<benifit>1.0</benifit>
+			<reliability>0.10719754977029097</reliability>
+			<availability>0.47362734505451337</availability>
+			<response_time>0.4023753422912819</response_time>
+		</service>
+		<service id="13">
+			<energy>0.3089978231073127</energy>
+			<cost>0.9053919229601354</cost>
+			<benifit>0.03670514948710438</benifit>
+			<reliability>0.3068776476451533</reliability>
+			<availability>0.5974880784471759</availability>
+			<response_time>1.0</response_time>
+		</service>
+		<service id="31">
+			<energy>0.06594564442653938</energy>
+			<cost>0.9224226275876204</cost>
+			<benifit>0.11338057373487222</benifit>
+			<reliability>0.8203399397892623</reliability>
+			<availability>0.8353797180536608</availability>
+			<response_time>0.34771768316072116</response_time>
+		</service>
+		<service id="42">
+			<energy>0.09498987994565666</energy>
+			<cost>1.0</cost>
+			<benifit>0.0025287871290685434</benifit>
+			<reliability>0.8107680354522173</reliability>
+			<availability>1.0</availability>
+			<response_time>0.75799805033676</response_time>
+		</service>
+		<service id="15">
+			<energy>0.33725075410349825</energy>
+			<cost>0.7274352455108851</cost>
+			<benifit>0.0547151720248167</benifit>
+			<reliability>0.5185285471143432</reliability>
+			<availability>0.5532717329813313</availability>
+			<response_time>0.851824337838224</response_time>
+		</service>
+		<service id="8">
+			<energy>0.47062943184802586</energy>
+			<cost>0.6122167925366504</cost>
+			<benifit>0.49848668775610805</benifit>
+			<reliability>0.39040435049557054</reliability>
+			<availability>0.7078062326442456</availability>
+			<response_time>0.09509427054731834</response_time>
+		</service>
+		<service id="32">
+			<energy>0.12990465713237975</energy>
+			<cost>0.8653508911775022</cost>
+			<benifit>0.057322164150748735</benifit>
+			<reliability>0.46742130562877965</reliability>
+			<availability>0.7994283201407212</availability>
+			<response_time>0.6022545841598529</response_time>
+		</service>
+		<service id="7">
+			<energy>0.07830770647270058</energy>
+			<cost>0.9861086688939688</cost>
+			<benifit>0.02037750438396642</benifit>
+			<reliability>0.14623571147024045</reliability>
+			<availability>0.6912757005636263</availability>
+			<response_time>0.4663848183349757</response_time>
+		</service>
+		<service id="20">
+			<energy>0.9397684348825751</energy>
+			<cost>0.5053767308038122</cost>
+			<benifit>0.6223461062646727</benifit>
+			<reliability>0.19901044529961517</reliability>
+			<availability>0.06090691059177869</availability>
+			<response_time>0.4305319177675122</response_time>
+		</service>
+		<service id="36">
+			<energy>0.27347967962029085</energy>
+			<cost>0.9753274444106</cost>
+			<benifit>0.006248120849189362</benifit>
+			<reliability>0.43396226415094347</reliability>
+			<availability>1.0</availability>
+			<response_time>0.9646760077993923</response_time>
+		</service>
+		<service id="21">
+			<energy>0.7472581499130172</energy>
+			<cost>0.4080521901211557</cost>
+			<benifit>0.8282793335063923</benifit>
+			<reliability>0.006452067834855269</reliability>
+			<availability>0.0716486471346143</availability>
+			<response_time>0.7808737530099759</response_time>
+		</service>
+		<service id="8">
+			<energy>0.32062505471417313</energy>
+			<cost>0.0796534873389605</cost>
+			<benifit>0.9511552448442853</benifit>
+			<reliability>0.13218138759757916</reliability>
+			<availability>0.10806849737735266</availability>
+			<response_time>0.7659100616267009</response_time>
+		</service>
+		<service id="13">
+			<energy>0.6155365637345804</energy>
+			<cost>0.9334143061640567</cost>
+			<benifit>0.05278581068054752</benifit>
+			<reliability>0.10353849987540494</reliability>
+			<availability>0.27832628114715563</availability>
+			<response_time>0.6363603302178419</response_time>
+		</service>
+		<service id="39">
+			<energy>0.4832205139972464</energy>
+			<cost>0.9130459236761439</cost>
+			<benifit>0.06597113005872544</benifit>
+			<reliability>0.5572100984167737</reliability>
+			<availability>0.9881608155882594</availability>
+			<response_time>0.11240740740740751</response_time>
+		</service>
+		<service id="5">
+			<energy>0.7540065273515515</energy>
+			<cost>0.2293903279818773</cost>
+			<benifit>1.0</benifit>
+			<reliability>0.9095</reliability>
+			<availability>0.26287806153577964</availability>
+			<response_time>0.2962325229010262</response_time>
+		</service>
+		<service id="10">
+			<energy>0.25190118152524155</energy>
+			<cost>0.9550698493937996</cost>
+			<benifit>0.01678174780242498</benifit>
+			<reliability>0.5492342285011242</reliability>
+			<availability>0.7999564016858015</availability>
+			<response_time>0.08249279538904886</response_time>
+		</service>
+		<service id="40">
+			<energy>0.32373696196125845</energy>
+			<cost>0.9675049765890038</cost>
+			<benifit>0.0523877664863816</benifit>
+			<reliability>0.7295403587443946</reliability>
+			<availability>0.6976011630724498</availability>
+			<response_time>0.24903345902343565</response_time>
+		</service>
+		<service id="19">
+			<energy>0.33737504276103225</energy>
+			<cost>0.9716135272889617</cost>
+			<benifit>0.017128783022369178</benifit>
+			<reliability>0.7247636084845388</reliability>
+			<availability>0.877437813850286</availability>
+			<response_time>1.0</response_time>
+		</service>
+		<service id="22">
+			<energy>0.2491487942714733</energy>
+			<cost>0.7990174349881797</cost>
+			<benifit>0.06353706351768994</benifit>
+			<reliability>0.823103186646434</reliability>
+			<availability>0.7054933333333333</availability>
+			<response_time>0.9765103436907607</response_time>
+		</service>
+		<service id="9">
+			<energy>0.4048271060570898</energy>
+			<cost>0.7962803141451626</cost>
+			<benifit>0.07275269967518623</benifit>
+			<reliability>0.948713285441484</reliability>
+			<availability>0.9129665255867643</availability>
+			<response_time>0.7653181076672104</response_time>
+		</service>
+		<service id="46">
+			<energy>0.11188454095893363</energy>
+			<cost>0.9904103479036575</cost>
+			<benifit>0.01277615790977981</benifit>
+			<reliability>0.7845210686941158</reliability>
+			<availability>0.9905766923131221</availability>
+			<response_time>0.09877823362337135</response_time>
+		</service>
+		<service id="17">
+			<energy>0.08487388668512852</energy>
+			<cost>0.9722164799272336</cost>
+			<benifit>0.02649948632074769</benifit>
+			<reliability>0.6473336555501853</reliability>
+			<availability>0.8987769651527256</availability>
+			<response_time>0.385491707153627</response_time>
+		</service>
+		<service id="22">
+			<energy>0.7357576608515568</energy>
+			<cost>0.7286495271867612</cost>
+			<benifit>0.02067770653627935</benifit>
+			<reliability>0.0620257966616085</reliability>
+			<availability>0.016106666666666665</availability>
+			<response_time>0.9763455039973625</response_time>
+		</service>
+		<service id="16">
+			<energy>1.0</energy>
+			<cost>0.05396017609758064</cost>
+			<benifit>0.9708243881494202</benifit>
+			<reliability>0.483620886220263</reliability>
+			<availability>0.06311992786293959</availability>
+			<response_time>0.5191972076788831</response_time>
+		</service>
+		<service id="17">
+			<energy>0.6033605269066686</energy>
+			<cost>0.9903253814032331</cost>
+			<benifit>0.00018767113412565997</benifit>
+			<reliability>0.2461333977767037</reliability>
+			<availability>0.15106631430151804</availability>
+			<response_time>0.9801474283799632</response_time>
+		</service>
+		<service id="44">
+			<energy>0.17699630287327883</energy>
+			<cost>0.975421511146444</cost>
+			<benifit>0.009494636380393875</benifit>
+			<reliability>0.9164385904892235</reliability>
+			<availability>0.9017314351673721</availability>
+			<response_time>0.2571366024518389</response_time>
+		</service>
+		<service id="12">
+			<energy>0.9759689295250424</energy>
+			<cost>0.8642438070404173</cost>
+			<benifit>0.11434659588326343</benifit>
+			<reliability>0.23320623073178645</reliability>
+			<availability>0.2594019838721187</availability>
+			<response_time>0.6029934390377256</response_time>
+		</service>
+		<service id="30">
+			<energy>0.35082221323628504</energy>
+			<cost>0.887293407905486</cost>
+			<benifit>0.043775669508826706</benifit>
+			<reliability>0.45877243405505524</reliability>
+			<availability>0.9517996108949417</availability>
+			<response_time>0.7135783945986497</response_time>
+		</service>
+		<service id="10">
+			<energy>0.5084425349087003</energy>
+			<cost>0.1276167302932415</cost>
+			<benifit>0.42650295066589544</benifit>
+			<reliability>0.04569173984981545</reliability>
+			<availability>0.12534515332073826</availability>
+			<response_time>0.718719980787704</response_time>
+		</service>
+		<service id="19">
+			<energy>0.7127598920521494</energy>
+			<cost>0.4371070352319655</cost>
+			<benifit>0.7854205607476636</benifit>
+			<reliability>0.15030484465700414</reliability>
+			<availability>0.04630386546770991</availability>
+			<response_time>0.764151215432971</response_time>
+		</service>
+		<service id="2">
+			<energy>0.7943792431977263</energy>
+			<cost>0.4004892716986902</cost>
+			<benifit>0.003845712445806191</benifit>
+			<reliability>0.8868676800398705</reliability>
+			<availability>0.7350289456201955</availability>
+			<response_time>0.063529179291266</response_time>
+		</service>
+		<service id="29">
+			<energy>0.022785800436809334</energy>
+			<cost>0.8247478789819114</cost>
+			<benifit>0.1571142387715647</benifit>
+			<reliability>0.5560626658898168</reliability>
+			<availability>0.9502404647397742</availability>
+			<response_time>0.17647363648140946</response_time>
+		</service>
+		<service id="25">
+			<energy>0.24970622796709763</energy>
+			<cost>0.8070380802575264</cost>
+			<benifit>0.12022246021456891</benifit>
+			<reliability>0.38354515050167226</reliability>
+			<availability>0.9280901188210483</availability>
+			<response_time>0.024182433279037796</response_time>
+		</service>
+		<service id="1">
+			<energy>0.7244040017028524</energy>
+			<cost>0.4428497942386831</cost>
+			<benifit>0.5809249963448511</benifit>
+			<reliability>0.9722166297563922</reliability>
+			<availability>0.09385347682119206</availability>
+			<response_time>0.985907145209088</response_time>
+		</service>
+		<service id="0">
+			<energy>0.7389006890120706</energy>
+			<cost>1.0</cost>
+			<benifit>0.01943462194934348</benifit>
+			<reliability>0.19016376767368529</reliability>
+			<availability>0.41553520682033473</availability>
+			<response_time>0.7568869588818021</response_time>
+		</service>
+		<service id="2">
+			<energy>0.19046365980737856</energy>
+			<cost>0.8723816319249783</cost>
+			<benifit>0.02923782515356204</benifit>
+			<reliability>0.5417393471218539</reliability>
+			<availability>0.6347157635000473</availability>
+			<response_time>0.9859702279014623</response_time>
+		</service>
+		<service id="9">
+			<energy>0.8905546530517522</energy>
+			<cost>0.8650211443859498</cost>
+			<benifit>0.07650782576338984</benifit>
+			<reliability>0.2378830590160953</reliability>
+			<availability>0.01385148133897653</availability>
+			<response_time>0.3969983686786297</response_time>
+		</service>
+		<service id="28">
+			<energy>0.60841108480713</energy>
+			<cost>0.9169195627345407</cost>
+			<benifit>0.059325808185517935</benifit>
+			<reliability>0.5920571505958829</reliability>
+			<availability>0.8799810246679318</availability>
+			<response_time>0.6083832335329341</response_time>
+		</service>
+		<service id="23">
+			<energy>0.2150896637180325</energy>
+			<cost>1.0</cost>
+			<benifit>0.025968808210672416</benifit>
+			<reliability>0.9745828074603842</reliability>
+			<availability>0.8347974232018314</availability>
+			<response_time>0.9849390260389909</response_time>
+		</service>
+		<service id="18">
+			<energy>0.1674058062833078</energy>
+			<cost>0.8371007560561642</cost>
+			<benifit>0.19816714220123308</benifit>
+			<reliability>0.6162682522347612</reliability>
+			<availability>0.6585322723253758</availability>
+			<response_time>0.36533372537488973</response_time>
+		</service>
+		<service id="37">
+			<energy>0.4933589138134593</energy>
+			<cost>0.942667543492557</cost>
+			<benifit>0.06876400329705946</benifit>
+			<reliability>0.7288298287188408</reliability>
+			<availability>0.9226085890573286</availability>
+			<response_time>0.4528828766966513</response_time>
+		</service>
+		<service id="14">
+			<energy>0.5085714285714286</energy>
+			<cost>0.6508755988765902</cost>
+			<benifit>0.38681328626598455</benifit>
+			<reliability>0.6913088570835927</reliability>
+			<availability>0.5612041851209962</availability>
+			<response_time>0.45858597253165634</response_time>
+		</service>
+		<service id="14">
+			<energy>0.5498136645962732</energy>
+			<cost>0.8244672063439616</cost>
+			<benifit>0.20420655395076784</benifit>
+			<reliability>0.2370877411325451</reliability>
+			<availability>0.13351306245587008</availability>
+			<response_time>0.7878112749936547</response_time>
+		</service>
+		<service id="6">
+			<energy>0.9402977996965098</energy>
+			<cost>0.019487129768772093</cost>
+			<benifit>0.7463460118885737</benifit>
+			<reliability>0.008415934168692725</reliability>
+			<availability>0.5632873932527268</availability>
+			<response_time>0.6153085809600297</response_time>
+		</service>
+		<service id="45">
+			<energy>0.08740230494105172</energy>
+			<cost>0.9635099662503245</cost>
+			<benifit>0.020094992306107857</benifit>
+			<reliability>1.0</reliability>
+			<availability>0.8256799259944496</availability>
+			<response_time>0.34251637829665715</response_time>
+		</service>
+		<service id="33">
+			<energy>0.1228415631626778</energy>
+			<cost>0.9116360768568971</cost>
+			<benifit>0.07585688205945368</benifit>
+			<reliability>0.5401858268682347</reliability>
+			<availability>0.5829990943200931</availability>
+			<response_time>1.0</response_time>
+		</service>
+		<service id="15">
+			<energy>0.9262349668977945</energy>
+			<cost>0.40056411886222787</cost>
+			<benifit>0.059571549431955514</benifit>
+			<reliability>0.4253829490948476</reliability>
+			<availability>0.21233264190081086</availability>
+			<response_time>0.5473584959570273</response_time>
+		</service>
+		<service id="27">
+			<energy>0.33432659877533644</energy>
+			<cost>0.8235189594512954</cost>
+			<benifit>0.008640320954945699</benifit>
+			<reliability>0.6496292070735881</reliability>
+			<availability>0.5470405918816236</availability>
+			<response_time>0.8499482835049008</response_time>
+		</service>
+		<service id="11">
+			<energy>0.8574437332232088</energy>
+			<cost>1.0</cost>
+			<benifit>0.019770118259940978</benifit>
+			<reliability>0.9824678577391885</reliability>
+			<availability>0.382410034343736</availability>
+			<response_time>0.9912663755458515</response_time>
+		</service>
+		<service id="7">
+			<energy>0.8913543872571587</energy>
+			<cost>0.1255934587656058</cost>
+			<benifit>0.2596136586443533</benifit>
+			<reliability>0.24748718959400867</reliability>
+			<availability>0.46836548384536003</availability>
+			<response_time>0.4392383737563177</response_time>
+		</service>
+		<service id="20">
+			<energy>0.20385120709476112</energy>
+			<cost>0.854378708865312</cost>
+			<benifit>0.2366088783842542</benifit>
+			<reliability>0.29895547003848266</reliability>
+			<availability>0.9642478665848626</availability>
+			<response_time>0.02282734959613153</response_time>
+		</service>
+		<service id="16">
+			<energy>0.23120781940889001</energy>
+			<cost>0.5158932105496992</cost>
+			<benifit>0.093215972520395</benifit>
+			<reliability>0.7521851485901041</reliability>
+			<availability>0.628172098415561</availability>
+			<response_time>0.6295389292349266</response_time>
+		</service>
+		<service id="18">
+			<energy>0.7531770581001006</energy>
+			<cost>0.059674432957877</cost>
+			<benifit>1.0</benifit>
+			<reliability>0.13873720826760508</reliability>
+			<availability>0.056704980842911874</availability>
+			<response_time>0.39117906498088795</response_time>
+		</service>
+		<service id="12">
+			<energy>0.4608787118698924</energy>
+			<cost>0.9577900912646675</cost>
+			<benifit>0.016131122052345168</benifit>
+			<reliability>0.25941100113581045</reliability>
+			<availability>0.6910012131592093</availability>
+			<response_time>0.23780071077091303</response_time>
+		</service>
+		<service id="26">
+			<energy>0.6244162775183455</energy>
+			<cost>0.7909878916658235</cost>
+			<benifit>0.06610750592077702</benifit>
+			<reliability>0.6976710013959297</reliability>
+			<availability>0.9963086009597637</availability>
+			<response_time>0.005157607471019787</response_time>
+		</service>
+		<service id="24">
+			<energy>0.576608640496159</energy>
+			<cost>0.5455649493203792</cost>
+			<benifit>0.19848199710854272</benifit>
+			<reliability>0.8504510638297872</reliability>
+			<availability>0.8237930856819002</availability>
+			<response_time>0.11984147276911272</response_time>
+		</service>
+		<service id="11">
+			<energy>0.55606029320669</energy>
+			<cost>0.37840823721772954</cost>
+			<benifit>0.8789804198865263</benifit>
+			<reliability>0.4502421105359826</reliability>
+			<availability>0.10691354337763177</availability>
+			<response_time>0.3320071162865922</response_time>
+		</service>
+		<service id="1">
+			<energy>0.8708492975734355</energy>
+			<cost>0.5073559670781894</cost>
+			<benifit>0.5714334238628795</benifit>
+			<reliability>0.37839742299174556</reliability>
+			<availability>0.6723923841059604</availability>
+			<response_time>0.07224234441883437</response_time>
+		</service>
+		<service id="3">
+			<energy>0.3136597573067661</energy>
+			<cost>0.9437099161322151</cost>
+			<benifit>0.019115202659506458</benifit>
+			<reliability>0.47423418265101636</reliability>
+			<availability>0.6005895357406043</availability>
+			<response_time>0.3212515074366876</response_time>
+		</service>
+		<service id="4">
+			<energy>0.05800720288115235</energy>
+			<cost>0.6929812239546753</cost>
+			<benifit>0.0017279234135125876</benifit>
+			<reliability>0.7207759060745278</reliability>
+			<availability>0.7131912385816718</availability>
+			<response_time>0.19821053301916824</response_time>
+		</service>
+		<service id="3">
+			<energy>0.17323764105953998</energy>
+			<cost>0.5317710902812038</cost>
+			<benifit>0.4065787851389118</benifit>
+			<reliability>0.48788052295066325</reliability>
+			<availability>0.682756079587325</availability>
+			<response_time>0.11473268122738844</response_time>
+		</service>
+		<service id="34">
+			<energy>0.5785293129257936</energy>
+			<cost>0.9818795790997076</cost>
+			<benifit>0.021910134605383685</benifit>
+			<reliability>0.6376315145583558</reliability>
+			<availability>0.9491613574307631</availability>
+			<response_time>0.3174775034887638</response_time>
+		</service>
+		<service id="43">
+			<energy>0.009365734711407891</energy>
+			<cost>0.9808524910055492</cost>
+			<benifit>0.04203381791996947</benifit>
+			<reliability>0.7252577319587629</reliability>
+			<availability>0.9078971771949997</availability>
+			<response_time>0.9260673225855712</response_time>
+		</service>
+		<service id="21">
+			<energy>0.11209439528023601</energy>
+			<cost>1.0</cost>
+			<benifit>0.0005025472126679214</benifit>
+			<reliability>0.7570073687550682</reliability>
+			<availability>0.8139600022407708</availability>
+			<response_time>0.6762721282845121</response_time>
+		</service>
+		<service id="23">
+			<energy>0.7366192820018587</energy>
+			<cost>0.5442000533678955</cost>
+			<benifit>0.41083350474143643</benifit>
+			<reliability>0.1890688542981349</reliability>
+			<availability>0.44401852739179043</availability>
+			<response_time>0.9336722277803315</response_time>
+		</service>
+		<service id="35">
+			<energy>0.1555370226961339</energy>
+			<cost>0.924437924737299</cost>
+			<benifit>0.03511103531446809</benifit>
+			<reliability>0.9134155098133079</reliability>
+			<availability>0.6159861357680277</availability>
+			<response_time>0.20995999448199743</response_time>
+		</service>
+		<service id="5">
+			<energy>0.34448828486531247</energy>
+			<cost>0.9496208017334777</cost>
+			<benifit>0.018959180616841598</benifit>
+			<reliability>0.7522272727272727</reliability>
+			<availability>0.27900287631831255</availability>
+			<response_time>0.6186720848543288</response_time>
+		</service>
+		<service id="41">
+			<energy>0.2259157793656621</energy>
+			<cost>0.9936313533374158</cost>
+			<benifit>0.004716597247781085</benifit>
+			<reliability>0.6443471918307805</reliability>
+			<availability>0.720194259782652</availability>
+			<response_time>0.9989744484933121</response_time>
+		</service>
+	</services>
+	<composition_plans>
+		<composition id="1">
+			<service id="10" />
+			<service id="7" />
+			<service id="16" />
+			<service id="18" />
+			<service id="13" />
+			<service id="19" />
+		</composition>
+		<composition id="2">
+			<service id="13" />
+			<service id="7" />
+			<service id="4" />
+			<service id="36" />
+			<service id="6" />
+			<service id="14" />
+		</composition>
+		<composition id="3">
+			<service id="31" />
+			<service id="10" />
+			<service id="21" />
+			<service id="26" />
+			<service id="3" />
+			<service id="22" />
+		</composition>
+		<composition id="4">
+			<service id="41" />
+			<service id="9" />
+			<service id="22" />
+			<service id="21" />
+			<service id="39" />
+			<service id="15" />
+		</composition>
+		<composition id="5">
+			<service id="3" />
+			<service id="32" />
+			<service id="12" />
+			<service id="38" />
+			<service id="20" />
+			<service id="19" />
+		</composition>
+	</composition_plans>
+</cloud>
