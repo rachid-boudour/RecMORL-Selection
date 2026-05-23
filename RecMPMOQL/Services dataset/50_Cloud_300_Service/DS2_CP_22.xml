@@ -1,0 +1,3723 @@
+<?xml version="1.0" ?>
+<cloud id="22" name="CP_22">
+	<services>
+		<service id="236">
+			<energy>26.678</energy>
+			<cost>2.461</cost>
+			<benefit>0.82</benefit>
+			<reliability>0.882</reliability>
+			<response_time>17.124</response_time>
+			<security>0.663</security>
+			<trust>0.452</trust>
+			<bandwidth>141.795</bandwidth>
+			<mobility>0.973</mobility>
+			<battery>0.558</battery>
+		</service>
+		<service id="26">
+			<energy>6.438</energy>
+			<cost>0.93</cost>
+			<benefit>0.093</benefit>
+			<reliability>0.709</reliability>
+			<response_time>151.874</response_time>
+			<security>0.752</security>
+			<trust>0.579</trust>
+			<bandwidth>36.175</bandwidth>
+			<mobility>0.277</mobility>
+			<battery>0.656</battery>
+		</service>
+		<service id="49">
+			<energy>7.086</energy>
+			<cost>1.065</cost>
+			<benefit>0.179</benefit>
+			<reliability>0.965</reliability>
+			<response_time>141.126</response_time>
+			<security>0.639</security>
+			<trust>0.718</trust>
+			<bandwidth>19.205</bandwidth>
+			<mobility>0.918</mobility>
+			<battery>0.697</battery>
+		</service>
+		<service id="1">
+			<energy>1.375</energy>
+			<cost>0.71</cost>
+			<benefit>0.003</benefit>
+			<reliability>0.561</reliability>
+			<response_time>167.389</response_time>
+			<security>0.97</security>
+			<trust>0.814</trust>
+			<bandwidth>6.014</bandwidth>
+			<mobility>0.28</mobility>
+			<battery>0.657</battery>
+		</service>
+		<service id="60">
+			<energy>8.512</energy>
+			<cost>0.637</cost>
+			<benefit>0.125</benefit>
+			<reliability>0.507</reliability>
+			<response_time>216.581</response_time>
+			<security>0.9</security>
+			<trust>0.274</trust>
+			<bandwidth>58.691</bandwidth>
+			<mobility>0.339</mobility>
+			<battery>0.928</battery>
+		</service>
+		<service id="161">
+			<energy>11.796</energy>
+			<cost>1.888</cost>
+			<benefit>0.406</benefit>
+			<reliability>0.831</reliability>
+			<response_time>170.78</response_time>
+			<security>0.709</security>
+			<trust>0.331</trust>
+			<bandwidth>77.564</bandwidth>
+			<mobility>0.887</mobility>
+			<battery>0.972</battery>
+		</service>
+		<service id="34">
+			<energy>6.013</energy>
+			<cost>2.09</cost>
+			<benefit>0.066</benefit>
+			<reliability>0.635</reliability>
+			<response_time>83.206</response_time>
+			<security>0.781</security>
+			<trust>0.641</trust>
+			<bandwidth>25.7</bandwidth>
+			<mobility>0.932</mobility>
+			<battery>0.789</battery>
+		</service>
+		<service id="255">
+			<energy>26.446</energy>
+			<cost>6.331</cost>
+			<benefit>1.067</benefit>
+			<reliability>0.977</reliability>
+			<response_time>193.27</response_time>
+			<security>0.623</security>
+			<trust>0.762</trust>
+			<bandwidth>62.819</bandwidth>
+			<mobility>0.028</mobility>
+			<battery>0.219</battery>
+		</service>
+		<service id="270">
+			<energy>31.24</energy>
+			<cost>1.293</cost>
+			<benefit>1.26</benefit>
+			<reliability>0.969</reliability>
+			<response_time>297.236</response_time>
+			<security>0.577</security>
+			<trust>0.475</trust>
+			<bandwidth>55.796</bandwidth>
+			<mobility>0.238</mobility>
+			<battery>0.843</battery>
+		</service>
+		<service id="90">
+			<energy>13.808</energy>
+			<cost>1.208</cost>
+			<benefit>0.197</benefit>
+			<reliability>0.936</reliability>
+			<response_time>192.838</response_time>
+			<security>0.604</security>
+			<trust>0.464</trust>
+			<bandwidth>51.61</bandwidth>
+			<mobility>0.612</mobility>
+			<battery>0.632</battery>
+		</service>
+		<service id="148">
+			<energy>18.575</energy>
+			<cost>1.093</cost>
+			<benefit>0.388</benefit>
+			<reliability>0.837</reliability>
+			<response_time>175.039</response_time>
+			<security>0.517</security>
+			<trust>0.709</trust>
+			<bandwidth>55.688</bandwidth>
+			<mobility>0.745</mobility>
+			<battery>0.498</battery>
+		</service>
+		<service id="117">
+			<energy>10.274</energy>
+			<cost>1.971</cost>
+			<benefit>0.568</benefit>
+			<reliability>0.883</reliability>
+			<response_time>126.079</response_time>
+			<security>0.903</security>
+			<trust>0.329</trust>
+			<bandwidth>79.842</bandwidth>
+			<mobility>0.336</mobility>
+			<battery>0.578</battery>
+		</service>
+		<service id="216">
+			<energy>18.488</energy>
+			<cost>5.434</cost>
+			<benefit>0.771</benefit>
+			<reliability>0.795</reliability>
+			<response_time>267.664</response_time>
+			<security>0.756</security>
+			<trust>0.779</trust>
+			<bandwidth>91.119</bandwidth>
+			<mobility>0.759</mobility>
+			<battery>0.645</battery>
+		</service>
+		<service id="289">
+			<energy>21.678</energy>
+			<cost>0.274</cost>
+			<benefit>0.49</benefit>
+			<reliability>0.862</reliability>
+			<response_time>139.972</response_time>
+			<security>0.595</security>
+			<trust>0.881</trust>
+			<bandwidth>242.262</bandwidth>
+			<mobility>0.691</mobility>
+			<battery>0.432</battery>
+		</service>
+		<service id="186">
+			<energy>19.48</energy>
+			<cost>2.549</cost>
+			<benefit>0.349</benefit>
+			<reliability>0.584</reliability>
+			<response_time>309.584</response_time>
+			<security>0.787</security>
+			<trust>0.788</trust>
+			<bandwidth>40.182</bandwidth>
+			<mobility>0.173</mobility>
+			<battery>0.942</battery>
+		</service>
+		<service id="136">
+			<energy>11.185</energy>
+			<cost>3.464</cost>
+			<benefit>0.66</benefit>
+			<reliability>0.501</reliability>
+			<response_time>217.041</response_time>
+			<security>0.543</security>
+			<trust>0.261</trust>
+			<bandwidth>78.797</bandwidth>
+			<mobility>0.946</mobility>
+			<battery>0.853</battery>
+		</service>
+		<service id="31">
+			<energy>4.159</energy>
+			<cost>0.475</cost>
+			<benefit>0.112</benefit>
+			<reliability>0.988</reliability>
+			<response_time>215.21</response_time>
+			<security>0.585</security>
+			<trust>0.586</trust>
+			<bandwidth>7.655</bandwidth>
+			<mobility>0.105</mobility>
+			<battery>0.805</battery>
+		</service>
+		<service id="290">
+			<energy>30.824</energy>
+			<cost>5.692</cost>
+			<benefit>1.398</benefit>
+			<reliability>0.791</reliability>
+			<response_time>265.428</response_time>
+			<security>0.577</security>
+			<trust>0.512</trust>
+			<bandwidth>113.69</bandwidth>
+			<mobility>0.636</mobility>
+			<battery>0.608</battery>
+		</service>
+		<service id="159">
+			<energy>11.888</energy>
+			<cost>5.729</cost>
+			<benefit>0.413</benefit>
+			<reliability>0.533</reliability>
+			<response_time>224.299</response_time>
+			<security>0.683</security>
+			<trust>0.377</trust>
+			<bandwidth>115.07</bandwidth>
+			<mobility>0.333</mobility>
+			<battery>0.288</battery>
+		</service>
+		<service id="80">
+			<energy>9.746</energy>
+			<cost>2.965</cost>
+			<benefit>0.343</benefit>
+			<reliability>0.563</reliability>
+			<response_time>103.373</response_time>
+			<security>0.844</security>
+			<trust>0.521</trust>
+			<bandwidth>59.295</bandwidth>
+			<mobility>0.814</mobility>
+			<battery>0.434</battery>
+		</service>
+		<service id="129">
+			<energy>14.847</energy>
+			<cost>3.006</cost>
+			<benefit>0.288</benefit>
+			<reliability>0.362</reliability>
+			<response_time>265.471</response_time>
+			<security>0.861</security>
+			<trust>0.637</trust>
+			<bandwidth>58.843</bandwidth>
+			<mobility>0.241</mobility>
+			<battery>0.808</battery>
+		</service>
+		<service id="183">
+			<energy>13.32</energy>
+			<cost>1.218</cost>
+			<benefit>0.731</benefit>
+			<reliability>0.889</reliability>
+			<response_time>148.764</response_time>
+			<security>0.991</security>
+			<trust>0.506</trust>
+			<bandwidth>74.218</bandwidth>
+			<mobility>0.194</mobility>
+			<battery>0.712</battery>
+		</service>
+		<service id="237">
+			<energy>19.313</energy>
+			<cost>4.506</cost>
+			<benefit>0.952</benefit>
+			<reliability>0.909</reliability>
+			<response_time>304.21</response_time>
+			<security>0.71</security>
+			<trust>0.748</trust>
+			<bandwidth>115.596</bandwidth>
+			<mobility>0.498</mobility>
+			<battery>0.851</battery>
+		</service>
+		<service id="288">
+			<energy>25.088</energy>
+			<cost>7.843</cost>
+			<benefit>0.939</benefit>
+			<reliability>0.823</reliability>
+			<response_time>44.231</response_time>
+			<security>0.911</security>
+			<trust>0.489</trust>
+			<bandwidth>177.254</bandwidth>
+			<mobility>0.262</mobility>
+			<battery>0.605</battery>
+		</service>
+		<service id="105">
+			<energy>15.396</energy>
+			<cost>1.924</cost>
+			<benefit>0.355</benefit>
+			<reliability>0.613</reliability>
+			<response_time>256.728</response_time>
+			<security>0.521</security>
+			<trust>0.476</trust>
+			<bandwidth>56.013</bandwidth>
+			<mobility>0.524</mobility>
+			<battery>0.395</battery>
+		</service>
+		<service id="253">
+			<energy>28.913</energy>
+			<cost>1.083</cost>
+			<benefit>0.568</benefit>
+			<reliability>0.705</reliability>
+			<response_time>18.063</response_time>
+			<security>0.933</security>
+			<trust>0.557</trust>
+			<bandwidth>87.578</bandwidth>
+			<mobility>0.582</mobility>
+			<battery>0.885</battery>
+		</service>
+		<service id="109">
+			<energy>10.217</energy>
+			<cost>1.744</cost>
+			<benefit>0.319</benefit>
+			<reliability>0.846</reliability>
+			<response_time>147.771</response_time>
+			<security>0.591</security>
+			<trust>0.604</trust>
+			<bandwidth>35.171</bandwidth>
+			<mobility>0.305</mobility>
+			<battery>0.175</battery>
+		</service>
+		<service id="206">
+			<energy>19.404</energy>
+			<cost>1.954</cost>
+			<benefit>0.872</benefit>
+			<reliability>0.639</reliability>
+			<response_time>265.812</response_time>
+			<security>0.788</security>
+			<trust>0.81</trust>
+			<bandwidth>187.063</bandwidth>
+			<mobility>0.932</mobility>
+			<battery>0.697</battery>
+		</service>
+		<service id="4">
+			<energy>4.45</energy>
+			<cost>0.718</cost>
+			<benefit>0.013</benefit>
+			<reliability>0.055</reliability>
+			<response_time>23.015</response_time>
+			<security>0.859</security>
+			<trust>0.342</trust>
+			<bandwidth>44.977</bandwidth>
+			<mobility>0.759</mobility>
+			<battery>0.777</battery>
+		</service>
+		<service id="221">
+			<energy>22.598</energy>
+			<cost>0.353</cost>
+			<benefit>0.996</benefit>
+			<reliability>0.969</reliability>
+			<response_time>142.928</response_time>
+			<security>0.822</security>
+			<trust>0.865</trust>
+			<bandwidth>163.703</bandwidth>
+			<mobility>0.637</mobility>
+			<battery>0.481</battery>
+		</service>
+		<service id="249">
+			<energy>19.57</energy>
+			<cost>6.349</cost>
+			<benefit>0.942</benefit>
+			<reliability>0.986</reliability>
+			<response_time>309.964</response_time>
+			<security>0.558</security>
+			<trust>0.669</trust>
+			<bandwidth>44.412</bandwidth>
+			<mobility>0.804</mobility>
+			<battery>0.872</battery>
+		</service>
+		<service id="70">
+			<energy>7.601</energy>
+			<cost>2.39</cost>
+			<benefit>0.336</benefit>
+			<reliability>0.727</reliability>
+			<response_time>143.157</response_time>
+			<security>0.821</security>
+			<trust>0.289</trust>
+			<bandwidth>47.923</bandwidth>
+			<mobility>0.536</mobility>
+			<battery>0.357</battery>
+		</service>
+		<service id="23">
+			<energy>5.542</energy>
+			<cost>0.856</cost>
+			<benefit>0.088</benefit>
+			<reliability>0.801</reliability>
+			<response_time>46.732</response_time>
+			<security>0.56</security>
+			<trust>0.19</trust>
+			<bandwidth>35.952</bandwidth>
+			<mobility>0.698</mobility>
+			<battery>0.549</battery>
+		</service>
+		<service id="214">
+			<energy>18.462</energy>
+			<cost>5.472</cost>
+			<benefit>0.95</benefit>
+			<reliability>0.801</reliability>
+			<response_time>51.314</response_time>
+			<security>0.867</security>
+			<trust>0.54</trust>
+			<bandwidth>40.529</bandwidth>
+			<mobility>0.304</mobility>
+			<battery>0.501</battery>
+		</service>
+		<service id="243">
+			<energy>25.117</energy>
+			<cost>4.497</cost>
+			<benefit>1.175</benefit>
+			<reliability>0.939</reliability>
+			<response_time>222.316</response_time>
+			<security>0.949</security>
+			<trust>0.469</trust>
+			<bandwidth>75.309</bandwidth>
+			<mobility>0.36</mobility>
+			<battery>0.598</battery>
+		</service>
+		<service id="204">
+			<energy>14.988</energy>
+			<cost>3.927</cost>
+			<benefit>0.419</benefit>
+			<reliability>0.999</reliability>
+			<response_time>317.758</response_time>
+			<security>0.954</security>
+			<trust>0.92</trust>
+			<bandwidth>139.546</bandwidth>
+			<mobility>0.56</mobility>
+			<battery>0.279</battery>
+		</service>
+		<service id="193">
+			<energy>23.637</energy>
+			<cost>4.009</cost>
+			<benefit>0.7</benefit>
+			<reliability>0.586</reliability>
+			<response_time>105.762</response_time>
+			<security>0.991</security>
+			<trust>0.558</trust>
+			<bandwidth>103.235</bandwidth>
+			<mobility>0.76</mobility>
+			<battery>0.643</battery>
+		</service>
+		<service id="266">
+			<energy>28.107</energy>
+			<cost>8.348</cost>
+			<benefit>1.22</benefit>
+			<reliability>0.897</reliability>
+			<response_time>310.153</response_time>
+			<security>0.743</security>
+			<trust>0.551</trust>
+			<bandwidth>159.497</bandwidth>
+			<mobility>0.526</mobility>
+			<battery>0.292</battery>
+		</service>
+		<service id="140">
+			<energy>16.806</energy>
+			<cost>4.027</cost>
+			<benefit>0.683</benefit>
+			<reliability>0.767</reliability>
+			<response_time>168.319</response_time>
+			<security>0.632</security>
+			<trust>0.993</trust>
+			<bandwidth>124.3</bandwidth>
+			<mobility>0.328</mobility>
+			<battery>0.707</battery>
+		</service>
+		<service id="260">
+			<energy>28.53</energy>
+			<cost>6.784</cost>
+			<benefit>0.891</benefit>
+			<reliability>0.956</reliability>
+			<response_time>104.459</response_time>
+			<security>0.529</security>
+			<trust>0.743</trust>
+			<bandwidth>44.544</bandwidth>
+			<mobility>0.101</mobility>
+			<battery>0.282</battery>
+		</service>
+		<service id="88">
+			<energy>7.13</energy>
+			<cost>3.766</cost>
+			<benefit>0.257</benefit>
+			<reliability>0.395</reliability>
+			<response_time>134.069</response_time>
+			<security>0.746</security>
+			<trust>0.299</trust>
+			<bandwidth>104.604</bandwidth>
+			<mobility>0.248</mobility>
+			<battery>0.932</battery>
+		</service>
+		<service id="16">
+			<energy>2.79</energy>
+			<cost>1.512</cost>
+			<benefit>0.045</benefit>
+			<reliability>0.891</reliability>
+			<response_time>130.159</response_time>
+			<security>0.54</security>
+			<trust>0.183</trust>
+			<bandwidth>4.15</bandwidth>
+			<mobility>0.074</mobility>
+			<battery>0.772</battery>
+		</service>
+		<service id="76">
+			<energy>9.949</energy>
+			<cost>2.58</cost>
+			<benefit>0.317</benefit>
+			<reliability>0.531</reliability>
+			<response_time>42.586</response_time>
+			<security>0.577</security>
+			<trust>0.239</trust>
+			<bandwidth>49.388</bandwidth>
+			<mobility>0.719</mobility>
+			<battery>0.728</battery>
+		</service>
+		<service id="212">
+			<energy>18.606</energy>
+			<cost>5.584</cost>
+			<benefit>0.501</benefit>
+			<reliability>0.734</reliability>
+			<response_time>122.865</response_time>
+			<security>0.894</security>
+			<trust>0.674</trust>
+			<bandwidth>89.172</bandwidth>
+			<mobility>0.138</mobility>
+			<battery>0.671</battery>
+		</service>
+		<service id="40">
+			<energy>6.056</energy>
+			<cost>0.591</cost>
+			<benefit>0.116</benefit>
+			<reliability>0.716</reliability>
+			<response_time>121.271</response_time>
+			<security>0.802</security>
+			<trust>0.837</trust>
+			<bandwidth>20.57</bandwidth>
+			<mobility>0.564</mobility>
+			<battery>0.388</battery>
+		</service>
+		<service id="185">
+			<energy>16.993</energy>
+			<cost>4.588</cost>
+			<benefit>0.433</benefit>
+			<reliability>0.728</reliability>
+			<response_time>246.89</response_time>
+			<security>0.617</security>
+			<trust>0.356</trust>
+			<bandwidth>133.353</bandwidth>
+			<mobility>0.395</mobility>
+			<battery>0.707</battery>
+		</service>
+		<service id="155">
+			<energy>11.798</energy>
+			<cost>3.946</cost>
+			<benefit>0.767</benefit>
+			<reliability>0.701</reliability>
+			<response_time>29.84</response_time>
+			<security>0.901</security>
+			<trust>0.468</trust>
+			<bandwidth>41.902</bandwidth>
+			<mobility>0.597</mobility>
+			<battery>0.886</battery>
+		</service>
+		<service id="232">
+			<energy>27.715</energy>
+			<cost>6.547</cost>
+			<benefit>0.482</benefit>
+			<reliability>0.767</reliability>
+			<response_time>213.559</response_time>
+			<security>0.801</security>
+			<trust>0.637</trust>
+			<bandwidth>103.264</bandwidth>
+			<mobility>0.085</mobility>
+			<battery>0.46</battery>
+		</service>
+		<service id="32">
+			<energy>3.36</energy>
+			<cost>0.524</cost>
+			<benefit>0.076</benefit>
+			<reliability>0.107</reliability>
+			<response_time>142.25</response_time>
+			<security>0.647</security>
+			<trust>0.404</trust>
+			<bandwidth>8.509</bandwidth>
+			<mobility>0.115</mobility>
+			<battery>0.677</battery>
+		</service>
+		<service id="75">
+			<energy>12.421</energy>
+			<cost>1.262</cost>
+			<benefit>0.2</benefit>
+			<reliability>0.303</reliability>
+			<response_time>45.154</response_time>
+			<security>0.831</security>
+			<trust>0.435</trust>
+			<bandwidth>41.994</bandwidth>
+			<mobility>0.967</mobility>
+			<battery>0.352</battery>
+		</service>
+		<service id="8">
+			<energy>2.802</energy>
+			<cost>0.831</cost>
+			<benefit>0.024</benefit>
+			<reliability>0.43</reliability>
+			<response_time>151.751</response_time>
+			<security>0.843</security>
+			<trust>0.902</trust>
+			<bandwidth>16.235</bandwidth>
+			<mobility>0.492</mobility>
+			<battery>0.21</battery>
+		</service>
+		<service id="278">
+			<energy>30.643</energy>
+			<cost>4.709</cost>
+			<benefit>1.174</benefit>
+			<reliability>0.971</reliability>
+			<response_time>248.525</response_time>
+			<security>0.502</security>
+			<trust>0.643</trust>
+			<bandwidth>92.027</bandwidth>
+			<mobility>0.441</mobility>
+			<battery>0.488</battery>
+		</service>
+		<service id="176">
+			<energy>21.296</energy>
+			<cost>2.717</cost>
+			<benefit>0.723</benefit>
+			<reliability>0.86</reliability>
+			<response_time>169.296</response_time>
+			<security>0.602</security>
+			<trust>0.944</trust>
+			<bandwidth>42.273</bandwidth>
+			<mobility>0.945</mobility>
+			<battery>0.874</battery>
+		</service>
+		<service id="282">
+			<energy>23.08</energy>
+			<cost>5.315</cost>
+			<benefit>1.049</benefit>
+			<reliability>0.873</reliability>
+			<response_time>326.259</response_time>
+			<security>0.834</security>
+			<trust>0.517</trust>
+			<bandwidth>80.947</bandwidth>
+			<mobility>0.892</mobility>
+			<battery>0.214</battery>
+		</service>
+		<service id="280">
+			<energy>23.197</energy>
+			<cost>6.587</cost>
+			<benefit>0.561</benefit>
+			<reliability>0.771</reliability>
+			<response_time>283.841</response_time>
+			<security>0.503</security>
+			<trust>0.493</trust>
+			<bandwidth>180.444</bandwidth>
+			<mobility>0.056</mobility>
+			<battery>0.662</battery>
+		</service>
+		<service id="25">
+			<energy>2.842</energy>
+			<cost>0.401</cost>
+			<benefit>0.091</benefit>
+			<reliability>0.776</reliability>
+			<response_time>195.987</response_time>
+			<security>0.516</security>
+			<trust>0.218</trust>
+			<bandwidth>65.347</bandwidth>
+			<mobility>0.637</mobility>
+			<battery>0.691</battery>
+		</service>
+		<service id="47">
+			<energy>5.605</energy>
+			<cost>1.454</cost>
+			<benefit>0.164</benefit>
+			<reliability>0.773</reliability>
+			<response_time>66.405</response_time>
+			<security>0.639</security>
+			<trust>0.12</trust>
+			<bandwidth>66.328</bandwidth>
+			<mobility>0.207</mobility>
+			<battery>0.247</battery>
+		</service>
+		<service id="124">
+			<energy>16.146</energy>
+			<cost>4.834</cost>
+			<benefit>0.261</benefit>
+			<reliability>0.914</reliability>
+			<response_time>281.588</response_time>
+			<security>0.904</security>
+			<trust>0.401</trust>
+			<bandwidth>128.439</bandwidth>
+			<mobility>0.506</mobility>
+			<battery>0.956</battery>
+		</service>
+		<service id="167">
+			<energy>12.882</energy>
+			<cost>5.393</cost>
+			<benefit>0.802</benefit>
+			<reliability>0.978</reliability>
+			<response_time>288.922</response_time>
+			<security>0.682</security>
+			<trust>0.788</trust>
+			<bandwidth>68.635</bandwidth>
+			<mobility>0.261</mobility>
+			<battery>0.814</battery>
+		</service>
+		<service id="71">
+			<energy>6.335</energy>
+			<cost>2.545</cost>
+			<benefit>0.34</benefit>
+			<reliability>0.961</reliability>
+			<response_time>130.807</response_time>
+			<security>0.824</security>
+			<trust>0.177</trust>
+			<bandwidth>54.696</bandwidth>
+			<mobility>0.452</mobility>
+			<battery>0.277</battery>
+		</service>
+		<service id="54">
+			<energy>9.664</energy>
+			<cost>2.63</cost>
+			<benefit>0.197</benefit>
+			<reliability>0.851</reliability>
+			<response_time>85.019</response_time>
+			<security>0.515</security>
+			<trust>0.5</trust>
+			<bandwidth>60.114</bandwidth>
+			<mobility>0.652</mobility>
+			<battery>0.68</battery>
+		</service>
+		<service id="276">
+			<energy>30.284</energy>
+			<cost>0.603</cost>
+			<benefit>0.731</benefit>
+			<reliability>0.876</reliability>
+			<response_time>50.164</response_time>
+			<security>0.795</security>
+			<trust>0.904</trust>
+			<bandwidth>164.85</bandwidth>
+			<mobility>0.945</mobility>
+			<battery>0.17</battery>
+		</service>
+		<service id="247">
+			<energy>20.525</energy>
+			<cost>6.42</cost>
+			<benefit>0.81</benefit>
+			<reliability>0.988</reliability>
+			<response_time>308.958</response_time>
+			<security>0.737</security>
+			<trust>0.454</trust>
+			<bandwidth>175.366</bandwidth>
+			<mobility>0.805</mobility>
+			<battery>0.292</battery>
+		</service>
+		<service id="165">
+			<energy>13.567</energy>
+			<cost>5.33</cost>
+			<benefit>0.348</benefit>
+			<reliability>0.477</reliability>
+			<response_time>49.023</response_time>
+			<security>0.657</security>
+			<trust>0.588</trust>
+			<bandwidth>155.74</bandwidth>
+			<mobility>0.529</mobility>
+			<battery>0.198</battery>
+		</service>
+		<service id="112">
+			<energy>11.594</energy>
+			<cost>3.91</cost>
+			<benefit>0.545</benefit>
+			<reliability>0.411</reliability>
+			<response_time>116.808</response_time>
+			<security>0.994</security>
+			<trust>0.366</trust>
+			<bandwidth>67.26</bandwidth>
+			<mobility>0.707</mobility>
+			<battery>0.324</battery>
+		</service>
+		<service id="58">
+			<energy>5.3</energy>
+			<cost>0.588</cost>
+			<benefit>0.204</benefit>
+			<reliability>0.262</reliability>
+			<response_time>217.291</response_time>
+			<security>0.705</security>
+			<trust>0.667</trust>
+			<bandwidth>15.911</bandwidth>
+			<mobility>0.967</mobility>
+			<battery>0.274</battery>
+		</service>
+		<service id="211">
+			<energy>18.782</energy>
+			<cost>7.081</cost>
+			<benefit>0.389</benefit>
+			<reliability>0.793</reliability>
+			<response_time>244.315</response_time>
+			<security>0.847</security>
+			<trust>0.634</trust>
+			<bandwidth>50.024</bandwidth>
+			<mobility>0.706</mobility>
+			<battery>0.964</battery>
+		</service>
+		<service id="9">
+			<energy>5.244</energy>
+			<cost>1.124</cost>
+			<benefit>0.032</benefit>
+			<reliability>0.104</reliability>
+			<response_time>27.669</response_time>
+			<security>0.626</security>
+			<trust>0.512</trust>
+			<bandwidth>9.985</bandwidth>
+			<mobility>0.664</mobility>
+			<battery>0.731</battery>
+		</service>
+		<service id="233">
+			<energy>19.056</energy>
+			<cost>6.75</cost>
+			<benefit>0.595</benefit>
+			<reliability>0.677</reliability>
+			<response_time>51.171</response_time>
+			<security>0.526</security>
+			<trust>0.604</trust>
+			<bandwidth>191.01</bandwidth>
+			<mobility>0.408</mobility>
+			<battery>0.134</battery>
+		</service>
+		<service id="287">
+			<energy>28.928</energy>
+			<cost>3.678</cost>
+			<benefit>1.027</benefit>
+			<reliability>0.823</reliability>
+			<response_time>200.262</response_time>
+			<security>1.0</security>
+			<trust>0.68</trust>
+			<bandwidth>119.323</bandwidth>
+			<mobility>0.793</mobility>
+			<battery>0.84</battery>
+		</service>
+		<service id="114">
+			<energy>11.046</energy>
+			<cost>0.824</cost>
+			<benefit>0.285</benefit>
+			<reliability>0.831</reliability>
+			<response_time>159.715</response_time>
+			<security>0.678</security>
+			<trust>0.532</trust>
+			<bandwidth>88.652</bandwidth>
+			<mobility>0.885</mobility>
+			<battery>0.408</battery>
+		</service>
+		<service id="82">
+			<energy>10.676</energy>
+			<cost>1.043</cost>
+			<benefit>0.298</benefit>
+			<reliability>0.582</reliability>
+			<response_time>83.086</response_time>
+			<security>0.648</security>
+			<trust>0.643</trust>
+			<bandwidth>67.931</bandwidth>
+			<mobility>0.856</mobility>
+			<battery>0.65</battery>
+		</service>
+		<service id="272">
+			<energy>26.856</energy>
+			<cost>1.469</cost>
+			<benefit>0.677</benefit>
+			<reliability>0.82</reliability>
+			<response_time>244.508</response_time>
+			<security>0.851</security>
+			<trust>0.476</trust>
+			<bandwidth>146.143</bandwidth>
+			<mobility>0.198</mobility>
+			<battery>0.223</battery>
+		</service>
+		<service id="6">
+			<energy>2.368</energy>
+			<cost>0.499</cost>
+			<benefit>0.021</benefit>
+			<reliability>0.081</reliability>
+			<response_time>82.9</response_time>
+			<security>0.925</security>
+			<trust>0.055</trust>
+			<bandwidth>19.102</bandwidth>
+			<mobility>0.485</mobility>
+			<battery>0.322</battery>
+		</service>
+		<service id="21">
+			<energy>4.931</energy>
+			<cost>1.3</cost>
+			<benefit>0.05</benefit>
+			<reliability>0.892</reliability>
+			<response_time>150.709</response_time>
+			<security>0.916</security>
+			<trust>0.791</trust>
+			<bandwidth>29.935</bandwidth>
+			<mobility>0.848</mobility>
+			<battery>0.13</battery>
+		</service>
+		<service id="59">
+			<energy>7.382</energy>
+			<cost>0.46</cost>
+			<benefit>0.208</benefit>
+			<reliability>0.715</reliability>
+			<response_time>83.511</response_time>
+			<security>0.637</security>
+			<trust>0.343</trust>
+			<bandwidth>23.806</bandwidth>
+			<mobility>0.541</mobility>
+			<battery>0.704</battery>
+		</service>
+		<service id="226">
+			<energy>16.16</energy>
+			<cost>5.345</cost>
+			<benefit>0.674</benefit>
+			<reliability>0.993</reliability>
+			<response_time>146.177</response_time>
+			<security>0.82</security>
+			<trust>0.978</trust>
+			<bandwidth>200.052</bandwidth>
+			<mobility>0.484</mobility>
+			<battery>0.127</battery>
+		</service>
+		<service id="55">
+			<energy>6.289</energy>
+			<cost>0.379</cost>
+			<benefit>0.249</benefit>
+			<reliability>0.934</reliability>
+			<response_time>162.61</response_time>
+			<security>0.739</security>
+			<trust>0.841</trust>
+			<bandwidth>70.786</bandwidth>
+			<mobility>0.453</mobility>
+			<battery>0.58</battery>
+		</service>
+		<service id="120">
+			<energy>9.326</energy>
+			<cost>3.859</cost>
+			<benefit>0.484</benefit>
+			<reliability>0.456</reliability>
+			<response_time>86.761</response_time>
+			<security>0.876</security>
+			<trust>0.58</trust>
+			<bandwidth>44.616</bandwidth>
+			<mobility>0.036</mobility>
+			<battery>0.777</battery>
+		</service>
+		<service id="10">
+			<energy>4.82</energy>
+			<cost>0.161</cost>
+			<benefit>0.027</benefit>
+			<reliability>0.133</reliability>
+			<response_time>120.743</response_time>
+			<security>0.842</security>
+			<trust>0.677</trust>
+			<bandwidth>19.245</bandwidth>
+			<mobility>0.476</mobility>
+			<battery>0.3</battery>
+		</service>
+		<service id="219">
+			<energy>18.863</energy>
+			<cost>6.141</cost>
+			<benefit>0.531</benefit>
+			<reliability>0.694</reliability>
+			<response_time>242.836</response_time>
+			<security>0.585</security>
+			<trust>0.641</trust>
+			<bandwidth>72.818</bandwidth>
+			<mobility>0.303</mobility>
+			<battery>0.982</battery>
+		</service>
+		<service id="241">
+			<energy>22.393</energy>
+			<cost>6.987</cost>
+			<benefit>1.111</benefit>
+			<reliability>0.945</reliability>
+			<response_time>338.537</response_time>
+			<security>0.985</security>
+			<trust>0.734</trust>
+			<bandwidth>43.97</bandwidth>
+			<mobility>0.637</mobility>
+			<battery>0.478</battery>
+		</service>
+		<service id="107">
+			<energy>10.987</energy>
+			<cost>2.678</cost>
+			<benefit>0.424</benefit>
+			<reliability>0.623</reliability>
+			<response_time>238.036</response_time>
+			<security>0.825</security>
+			<trust>0.834</trust>
+			<bandwidth>70.345</bandwidth>
+			<mobility>0.827</mobility>
+			<battery>0.255</battery>
+		</service>
+		<service id="281">
+			<energy>25.54</energy>
+			<cost>4.33</cost>
+			<benefit>1.398</benefit>
+			<reliability>0.876</reliability>
+			<response_time>238.105</response_time>
+			<security>0.933</security>
+			<trust>0.993</trust>
+			<bandwidth>67.356</bandwidth>
+			<mobility>0.479</mobility>
+			<battery>0.937</battery>
+		</service>
+		<service id="203">
+			<energy>18.169</energy>
+			<cost>1.554</cost>
+			<benefit>0.827</benefit>
+			<reliability>0.7</reliability>
+			<response_time>325.827</response_time>
+			<security>0.855</security>
+			<trust>0.823</trust>
+			<bandwidth>92.771</bandwidth>
+			<mobility>0.123</mobility>
+			<battery>0.655</battery>
+		</service>
+		<service id="229">
+			<energy>20.245</energy>
+			<cost>3.974</cost>
+			<benefit>0.534</benefit>
+			<reliability>0.64</reliability>
+			<response_time>194.181</response_time>
+			<security>0.758</security>
+			<trust>0.736</trust>
+			<bandwidth>41.117</bandwidth>
+			<mobility>0.118</mobility>
+			<battery>0.375</battery>
+		</service>
+		<service id="30">
+			<energy>7.889</energy>
+			<cost>0.517</cost>
+			<benefit>0.07</benefit>
+			<reliability>0.532</reliability>
+			<response_time>169.027</response_time>
+			<security>0.89</security>
+			<trust>0.128</trust>
+			<bandwidth>66.08</bandwidth>
+			<mobility>0.576</mobility>
+			<battery>0.319</battery>
+		</service>
+		<service id="196">
+			<energy>19.573</energy>
+			<cost>7.509</cost>
+			<benefit>0.638</benefit>
+			<reliability>0.698</reliability>
+			<response_time>226.778</response_time>
+			<security>0.628</security>
+			<trust>0.362</trust>
+			<bandwidth>85.073</bandwidth>
+			<mobility>0.41</mobility>
+			<battery>0.946</battery>
+		</service>
+		<service id="77">
+			<energy>10.123</energy>
+			<cost>2.445</cost>
+			<benefit>0.358</benefit>
+			<reliability>0.401</reliability>
+			<response_time>61.389</response_time>
+			<security>0.812</security>
+			<trust>0.771</trust>
+			<bandwidth>14.131</bandwidth>
+			<mobility>0.517</mobility>
+			<battery>0.838</battery>
+		</service>
+		<service id="244">
+			<energy>28.562</energy>
+			<cost>0.587</cost>
+			<benefit>0.823</benefit>
+			<reliability>0.793</reliability>
+			<response_time>26.884</response_time>
+			<security>0.76</security>
+			<trust>0.572</trust>
+			<bandwidth>43.027</bandwidth>
+			<mobility>0.171</mobility>
+			<battery>0.187</battery>
+		</service>
+		<service id="66">
+			<energy>10.843</energy>
+			<cost>2.484</cost>
+			<benefit>0.155</benefit>
+			<reliability>0.837</reliability>
+			<response_time>100.611</response_time>
+			<security>0.82</security>
+			<trust>0.37</trust>
+			<bandwidth>58.033</bandwidth>
+			<mobility>0.645</mobility>
+			<battery>0.632</battery>
+		</service>
+		<service id="228">
+			<energy>17.286</energy>
+			<cost>2.538</cost>
+			<benefit>0.513</benefit>
+			<reliability>0.656</reliability>
+			<response_time>69.042</response_time>
+			<security>0.51</security>
+			<trust>0.6</trust>
+			<bandwidth>93.047</bandwidth>
+			<mobility>0.455</mobility>
+			<battery>0.751</battery>
+		</service>
+		<service id="235">
+			<energy>23.726</energy>
+			<cost>4.029</cost>
+			<benefit>0.556</benefit>
+			<reliability>0.982</reliability>
+			<response_time>208.148</response_time>
+			<security>0.556</security>
+			<trust>0.566</trust>
+			<bandwidth>83.033</bandwidth>
+			<mobility>0.579</mobility>
+			<battery>0.956</battery>
+		</service>
+		<service id="65">
+			<energy>11.068</energy>
+			<cost>1.765</cost>
+			<benefit>0.277</benefit>
+			<reliability>0.373</reliability>
+			<response_time>118.091</response_time>
+			<security>0.672</security>
+			<trust>0.887</trust>
+			<bandwidth>34.412</bandwidth>
+			<mobility>0.069</mobility>
+			<battery>0.363</battery>
+		</service>
+		<service id="291">
+			<energy>24.544</energy>
+			<cost>2.305</cost>
+			<benefit>0.643</benefit>
+			<reliability>0.958</reliability>
+			<response_time>25.094</response_time>
+			<security>0.925</security>
+			<trust>0.828</trust>
+			<bandwidth>70.028</bandwidth>
+			<mobility>0.846</mobility>
+			<battery>0.931</battery>
+		</service>
+		<service id="225">
+			<energy>20.304</energy>
+			<cost>6.009</cost>
+			<benefit>0.808</benefit>
+			<reliability>0.701</reliability>
+			<response_time>208.13</response_time>
+			<security>0.937</security>
+			<trust>0.479</trust>
+			<bandwidth>184.877</bandwidth>
+			<mobility>0.187</mobility>
+			<battery>0.153</battery>
+		</service>
+		<service id="208">
+			<energy>24.241</energy>
+			<cost>3.502</cost>
+			<benefit>0.614</benefit>
+			<reliability>0.678</reliability>
+			<response_time>176.771</response_time>
+			<security>0.944</security>
+			<trust>0.377</trust>
+			<bandwidth>72.715</bandwidth>
+			<mobility>0.445</mobility>
+			<battery>0.891</battery>
+		</service>
+		<service id="262">
+			<energy>28.265</energy>
+			<cost>6.631</cost>
+			<benefit>1.181</benefit>
+			<reliability>0.878</reliability>
+			<response_time>51.596</response_time>
+			<security>0.802</security>
+			<trust>0.724</trust>
+			<bandwidth>218.957</bandwidth>
+			<mobility>0.796</mobility>
+			<battery>0.499</battery>
+		</service>
+		<service id="50">
+			<energy>5.261</energy>
+			<cost>2.064</cost>
+			<benefit>0.239</benefit>
+			<reliability>0.794</reliability>
+			<response_time>46.596</response_time>
+			<security>0.975</security>
+			<trust>0.861</trust>
+			<bandwidth>29.805</bandwidth>
+			<mobility>0.077</mobility>
+			<battery>0.462</battery>
+		</service>
+		<service id="38">
+			<energy>8.711</energy>
+			<cost>0.603</cost>
+			<benefit>0.146</benefit>
+			<reliability>0.519</reliability>
+			<response_time>23.194</response_time>
+			<security>0.666</security>
+			<trust>0.791</trust>
+			<bandwidth>20.773</bandwidth>
+			<mobility>0.561</mobility>
+			<battery>0.49</battery>
+		</service>
+		<service id="108">
+			<energy>10.465</energy>
+			<cost>1.133</cost>
+			<benefit>0.271</benefit>
+			<reliability>0.35</reliability>
+			<response_time>175.481</response_time>
+			<security>0.646</security>
+			<trust>0.758</trust>
+			<bandwidth>80.806</bandwidth>
+			<mobility>0.139</mobility>
+			<battery>0.361</battery>
+		</service>
+		<service id="64">
+			<energy>9.698</energy>
+			<cost>1.462</cost>
+			<benefit>0.186</benefit>
+			<reliability>0.862</reliability>
+			<response_time>113.849</response_time>
+			<security>0.501</security>
+			<trust>0.152</trust>
+			<bandwidth>18.105</bandwidth>
+			<mobility>0.85</mobility>
+			<battery>0.624</battery>
+		</service>
+		<service id="15">
+			<energy>3.741</energy>
+			<cost>1.442</cost>
+			<benefit>0.036</benefit>
+			<reliability>0.401</reliability>
+			<response_time>26.414</response_time>
+			<security>0.633</security>
+			<trust>0.759</trust>
+			<bandwidth>20.917</bandwidth>
+			<mobility>0.462</mobility>
+			<battery>0.214</battery>
+		</service>
+		<service id="29">
+			<energy>3.91</energy>
+			<cost>0.547</cost>
+			<benefit>0.071</benefit>
+			<reliability>0.211</reliability>
+			<response_time>93.582</response_time>
+			<security>0.931</security>
+			<trust>0.83</trust>
+			<bandwidth>12.44</bandwidth>
+			<mobility>0.625</mobility>
+			<battery>0.902</battery>
+		</service>
+		<service id="184">
+			<energy>15.154</energy>
+			<cost>0.233</cost>
+			<benefit>0.529</benefit>
+			<reliability>0.806</reliability>
+			<response_time>245.359</response_time>
+			<security>0.799</security>
+			<trust>0.846</trust>
+			<bandwidth>141.103</bandwidth>
+			<mobility>0.789</mobility>
+			<battery>0.874</battery>
+		</service>
+		<service id="251">
+			<energy>19.168</energy>
+			<cost>6.022</cost>
+			<benefit>0.715</benefit>
+			<reliability>0.69</reliability>
+			<response_time>217.973</response_time>
+			<security>0.529</security>
+			<trust>0.462</trust>
+			<bandwidth>130.262</bandwidth>
+			<mobility>0.21</mobility>
+			<battery>0.193</battery>
+		</service>
+		<service id="252">
+			<energy>23.729</energy>
+			<cost>1.617</cost>
+			<benefit>0.927</benefit>
+			<reliability>0.9</reliability>
+			<response_time>177.002</response_time>
+			<security>0.966</security>
+			<trust>0.855</trust>
+			<bandwidth>172.58</bandwidth>
+			<mobility>0.704</mobility>
+			<battery>0.631</battery>
+		</service>
+		<service id="150">
+			<energy>11.71</energy>
+			<cost>5.857</cost>
+			<benefit>0.402</benefit>
+			<reliability>0.637</reliability>
+			<response_time>170.65</response_time>
+			<security>0.826</security>
+			<trust>0.523</trust>
+			<bandwidth>89.528</bandwidth>
+			<mobility>0.623</mobility>
+			<battery>0.448</battery>
+		</service>
+		<service id="44">
+			<energy>5.235</energy>
+			<cost>1.552</cost>
+			<benefit>0.075</benefit>
+			<reliability>0.186</reliability>
+			<response_time>145.384</response_time>
+			<security>0.917</security>
+			<trust>0.23</trust>
+			<bandwidth>40.655</bandwidth>
+			<mobility>0.325</mobility>
+			<battery>0.832</battery>
+		</service>
+		<service id="181">
+			<energy>18.479</energy>
+			<cost>3.254</cost>
+			<benefit>0.61</benefit>
+			<reliability>0.976</reliability>
+			<response_time>240.227</response_time>
+			<security>0.96</security>
+			<trust>0.735</trust>
+			<bandwidth>66.975</bandwidth>
+			<mobility>0.369</mobility>
+			<battery>0.325</battery>
+		</service>
+		<service id="286">
+			<energy>26.753</energy>
+			<cost>5.666</cost>
+			<benefit>1.163</benefit>
+			<reliability>0.836</reliability>
+			<response_time>29.508</response_time>
+			<security>0.515</security>
+			<trust>0.517</trust>
+			<bandwidth>203.706</bandwidth>
+			<mobility>0.736</mobility>
+			<battery>0.442</battery>
+		</service>
+		<service id="78">
+			<energy>10.708</energy>
+			<cost>0.189</cost>
+			<benefit>0.242</benefit>
+			<reliability>0.28</reliability>
+			<response_time>69.57</response_time>
+			<security>0.665</security>
+			<trust>0.842</trust>
+			<bandwidth>76.673</bandwidth>
+			<mobility>0.359</mobility>
+			<battery>0.641</battery>
+		</service>
+		<service id="202">
+			<energy>23.032</energy>
+			<cost>6.995</cost>
+			<benefit>0.436</benefit>
+			<reliability>0.626</reliability>
+			<response_time>25.899</response_time>
+			<security>0.808</security>
+			<trust>0.479</trust>
+			<bandwidth>139.562</bandwidth>
+			<mobility>0.56</mobility>
+			<battery>0.845</battery>
+		</service>
+		<service id="293">
+			<energy>34.05</energy>
+			<cost>1.775</cost>
+			<benefit>1.111</benefit>
+			<reliability>0.865</reliability>
+			<response_time>379.454</response_time>
+			<security>0.613</security>
+			<trust>0.616</trust>
+			<bandwidth>69.753</bandwidth>
+			<mobility>0.878</mobility>
+			<battery>0.198</battery>
+		</service>
+		<service id="89">
+			<energy>12.744</energy>
+			<cost>0.63</cost>
+			<benefit>0.198</benefit>
+			<reliability>0.713</reliability>
+			<response_time>148.336</response_time>
+			<security>0.864</security>
+			<trust>0.376</trust>
+			<bandwidth>30.328</bandwidth>
+			<mobility>0.045</mobility>
+			<battery>0.166</battery>
+		</service>
+		<service id="7">
+			<energy>2.568</energy>
+			<cost>0.793</cost>
+			<benefit>0.016</benefit>
+			<reliability>0.294</reliability>
+			<response_time>61.186</response_time>
+			<security>0.849</security>
+			<trust>0.058</trust>
+			<bandwidth>29.118</bandwidth>
+			<mobility>0.797</mobility>
+			<battery>0.785</battery>
+		</service>
+		<service id="137">
+			<energy>15.371</energy>
+			<cost>3.864</cost>
+			<benefit>0.234</benefit>
+			<reliability>0.933</reliability>
+			<response_time>73.479</response_time>
+			<security>0.98</security>
+			<trust>0.84</trust>
+			<bandwidth>37.124</bandwidth>
+			<mobility>0.87</mobility>
+			<battery>0.86</battery>
+		</service>
+		<service id="156">
+			<energy>14.45</energy>
+			<cost>3.175</cost>
+			<benefit>0.514</benefit>
+			<reliability>0.741</reliability>
+			<response_time>36.053</response_time>
+			<security>0.794</security>
+			<trust>0.963</trust>
+			<bandwidth>73.356</bandwidth>
+			<mobility>0.9</mobility>
+			<battery>0.26</battery>
+		</service>
+		<service id="180">
+			<energy>19.535</energy>
+			<cost>1.386</cost>
+			<benefit>0.757</benefit>
+			<reliability>0.517</reliability>
+			<response_time>182.467</response_time>
+			<security>0.648</security>
+			<trust>0.495</trust>
+			<bandwidth>155.449</bandwidth>
+			<mobility>0.019</mobility>
+			<battery>0.203</battery>
+		</service>
+		<service id="154">
+			<energy>20.177</energy>
+			<cost>2.916</cost>
+			<benefit>0.505</benefit>
+			<reliability>0.903</reliability>
+			<response_time>6.008</response_time>
+			<security>0.812</security>
+			<trust>0.317</trust>
+			<bandwidth>104.917</bandwidth>
+			<mobility>0.259</mobility>
+			<battery>0.908</battery>
+		</service>
+		<service id="173">
+			<energy>20.515</energy>
+			<cost>0.444</cost>
+			<benefit>0.39</benefit>
+			<reliability>0.686</reliability>
+			<response_time>209.42</response_time>
+			<security>0.616</security>
+			<trust>0.303</trust>
+			<bandwidth>49.355</bandwidth>
+			<mobility>0.058</mobility>
+			<battery>0.572</battery>
+		</service>
+		<service id="234">
+			<energy>18.685</energy>
+			<cost>7.098</cost>
+			<benefit>1.155</benefit>
+			<reliability>0.912</reliability>
+			<response_time>36.551</response_time>
+			<security>0.716</security>
+			<trust>0.9</trust>
+			<bandwidth>150.738</bandwidth>
+			<mobility>0.78</mobility>
+			<battery>0.539</battery>
+		</service>
+		<service id="98">
+			<energy>12.642</energy>
+			<cost>1.927</cost>
+			<benefit>0.307</benefit>
+			<reliability>0.942</reliability>
+			<response_time>218.01</response_time>
+			<security>0.525</security>
+			<trust>0.381</trust>
+			<bandwidth>97.481</bandwidth>
+			<mobility>0.62</mobility>
+			<battery>0.582</battery>
+		</service>
+		<service id="2">
+			<energy>2.906</energy>
+			<cost>0.159</cost>
+			<benefit>0.007</benefit>
+			<reliability>0.521</reliability>
+			<response_time>117.549</response_time>
+			<security>0.564</security>
+			<trust>0.769</trust>
+			<bandwidth>28.972</bandwidth>
+			<mobility>0.158</mobility>
+			<battery>0.823</battery>
+		</service>
+		<service id="132">
+			<energy>15.547</energy>
+			<cost>0.326</cost>
+			<benefit>0.507</benefit>
+			<reliability>0.404</reliability>
+			<response_time>248.284</response_time>
+			<security>0.688</security>
+			<trust>0.758</trust>
+			<bandwidth>85.808</bandwidth>
+			<mobility>0.88</mobility>
+			<battery>0.838</battery>
+		</service>
+		<service id="130">
+			<energy>13.633</energy>
+			<cost>1.494</cost>
+			<benefit>0.347</benefit>
+			<reliability>0.583</reliability>
+			<response_time>174.885</response_time>
+			<security>0.507</security>
+			<trust>0.732</trust>
+			<bandwidth>104.644</bandwidth>
+			<mobility>0.002</mobility>
+			<battery>0.522</battery>
+		</service>
+		<service id="51">
+			<energy>8.759</energy>
+			<cost>1.738</cost>
+			<benefit>0.195</benefit>
+			<reliability>0.763</reliability>
+			<response_time>230.183</response_time>
+			<security>0.824</security>
+			<trust>0.689</trust>
+			<bandwidth>59.796</bandwidth>
+			<mobility>0.178</mobility>
+			<battery>0.538</battery>
+		</service>
+		<service id="147">
+			<energy>18.813</energy>
+			<cost>4.976</cost>
+			<benefit>0.486</benefit>
+			<reliability>0.422</reliability>
+			<response_time>98.949</response_time>
+			<security>0.61</security>
+			<trust>0.386</trust>
+			<bandwidth>130.617</bandwidth>
+			<mobility>0.41</mobility>
+			<battery>0.201</battery>
+		</service>
+		<service id="122">
+			<energy>11.818</energy>
+			<cost>0.806</cost>
+			<benefit>0.235</benefit>
+			<reliability>0.989</reliability>
+			<response_time>28.084</response_time>
+			<security>0.926</security>
+			<trust>0.778</trust>
+			<bandwidth>124.583</bandwidth>
+			<mobility>0.962</mobility>
+			<battery>0.142</battery>
+		</service>
+		<service id="179">
+			<energy>18.937</energy>
+			<cost>0.317</cost>
+			<benefit>0.435</benefit>
+			<reliability>0.858</reliability>
+			<response_time>317.1</response_time>
+			<security>0.975</security>
+			<trust>0.556</trust>
+			<bandwidth>124.59</bandwidth>
+			<mobility>0.286</mobility>
+			<battery>0.927</battery>
+		</service>
+		<service id="271">
+			<energy>30.429</energy>
+			<cost>1.961</cost>
+			<benefit>0.737</benefit>
+			<reliability>0.958</reliability>
+			<response_time>163.124</response_time>
+			<security>0.927</security>
+			<trust>0.816</trust>
+			<bandwidth>138.256</bandwidth>
+			<mobility>0.336</mobility>
+			<battery>0.832</battery>
+		</service>
+		<service id="242">
+			<energy>17.3</energy>
+			<cost>5.997</cost>
+			<benefit>0.997</benefit>
+			<reliability>0.97</reliability>
+			<response_time>180.695</response_time>
+			<security>0.803</security>
+			<trust>0.491</trust>
+			<bandwidth>130.416</bandwidth>
+			<mobility>0.208</mobility>
+			<battery>0.959</battery>
+		</service>
+		<service id="292">
+			<energy>29.528</energy>
+			<cost>5.779</cost>
+			<benefit>0.534</benefit>
+			<reliability>0.919</reliability>
+			<response_time>330.212</response_time>
+			<security>0.904</security>
+			<trust>0.566</trust>
+			<bandwidth>91.207</bandwidth>
+			<mobility>0.138</mobility>
+			<battery>0.132</battery>
+		</service>
+		<service id="141">
+			<energy>10.545</energy>
+			<cost>3.585</cost>
+			<benefit>0.316</benefit>
+			<reliability>0.438</reliability>
+			<response_time>126.09</response_time>
+			<security>0.811</security>
+			<trust>0.712</trust>
+			<bandwidth>47.501</bandwidth>
+			<mobility>0.139</mobility>
+			<battery>0.777</battery>
+		</service>
+		<service id="220">
+			<energy>19.774</energy>
+			<cost>8.298</cost>
+			<benefit>0.787</benefit>
+			<reliability>0.984</reliability>
+			<response_time>292.823</response_time>
+			<security>0.811</security>
+			<trust>0.512</trust>
+			<bandwidth>105.109</bandwidth>
+			<mobility>0.919</mobility>
+			<battery>0.366</battery>
+		</service>
+		<service id="213">
+			<energy>16.927</energy>
+			<cost>6.943</cost>
+			<benefit>0.674</benefit>
+			<reliability>0.892</reliability>
+			<response_time>51.161</response_time>
+			<security>0.604</security>
+			<trust>0.644</trust>
+			<bandwidth>172.999</bandwidth>
+			<mobility>0.946</mobility>
+			<battery>0.885</battery>
+		</service>
+		<service id="134">
+			<energy>11.459</energy>
+			<cost>4.389</cost>
+			<benefit>0.287</benefit>
+			<reliability>0.368</reliability>
+			<response_time>156.744</response_time>
+			<security>0.502</security>
+			<trust>0.823</trust>
+			<bandwidth>45.463</bandwidth>
+			<mobility>0.554</mobility>
+			<battery>0.949</battery>
+		</service>
+		<service id="139">
+			<energy>16.966</energy>
+			<cost>5.518</cost>
+			<benefit>0.284</benefit>
+			<reliability>0.831</reliability>
+			<response_time>180.022</response_time>
+			<security>0.589</security>
+			<trust>0.96</trust>
+			<bandwidth>127.36</bandwidth>
+			<mobility>0.675</mobility>
+			<battery>0.958</battery>
+		</service>
+		<service id="0">
+			<energy>3.187</energy>
+			<cost>0.815</cost>
+			<benefit>0.0</benefit>
+			<reliability>0.099</reliability>
+			<response_time>123.509</response_time>
+			<security>0.728</security>
+			<trust>0.11</trust>
+			<bandwidth>10.385</bandwidth>
+			<mobility>0.239</mobility>
+			<battery>0.83</battery>
+		</service>
+		<service id="106">
+			<energy>11.925</energy>
+			<cost>2.947</cost>
+			<benefit>0.278</benefit>
+			<reliability>0.372</reliability>
+			<response_time>45.342</response_time>
+			<security>0.659</security>
+			<trust>0.357</trust>
+			<bandwidth>20.893</bandwidth>
+			<mobility>0.098</mobility>
+			<battery>0.635</battery>
+		</service>
+		<service id="178">
+			<energy>15.387</energy>
+			<cost>5.705</cost>
+			<benefit>0.599</benefit>
+			<reliability>0.592</reliability>
+			<response_time>224.046</response_time>
+			<security>0.501</security>
+			<trust>0.889</trust>
+			<bandwidth>82.964</bandwidth>
+			<mobility>0.35</mobility>
+			<battery>0.139</battery>
+		</service>
+		<service id="91">
+			<energy>7.948</energy>
+			<cost>1.485</cost>
+			<benefit>0.161</benefit>
+			<reliability>0.33</reliability>
+			<response_time>38.478</response_time>
+			<security>0.597</security>
+			<trust>0.323</trust>
+			<bandwidth>74.368</bandwidth>
+			<mobility>0.378</mobility>
+			<battery>0.867</battery>
+		</service>
+		<service id="222">
+			<energy>16.363</energy>
+			<cost>8.358</cost>
+			<benefit>0.745</benefit>
+			<reliability>0.684</reliability>
+			<response_time>75.1</response_time>
+			<security>0.996</security>
+			<trust>0.639</trust>
+			<bandwidth>96.255</bandwidth>
+			<mobility>0.572</mobility>
+			<battery>0.281</battery>
+		</service>
+		<service id="274">
+			<energy>24.766</energy>
+			<cost>6.485</cost>
+			<benefit>0.968</benefit>
+			<reliability>0.822</reliability>
+			<response_time>356.0</response_time>
+			<security>0.754</security>
+			<trust>0.804</trust>
+			<bandwidth>154.096</bandwidth>
+			<mobility>0.397</mobility>
+			<battery>0.15</battery>
+		</service>
+		<service id="81">
+			<energy>12.146</energy>
+			<cost>2.153</cost>
+			<benefit>0.297</benefit>
+			<reliability>0.958</reliability>
+			<response_time>186.331</response_time>
+			<security>0.998</security>
+			<trust>0.436</trust>
+			<bandwidth>17.649</bandwidth>
+			<mobility>0.347</mobility>
+			<battery>0.599</battery>
+		</service>
+		<service id="151">
+			<energy>14.436</energy>
+			<cost>0.827</cost>
+			<benefit>0.708</benefit>
+			<reliability>0.604</reliability>
+			<response_time>166.951</response_time>
+			<security>0.725</security>
+			<trust>0.731</trust>
+			<bandwidth>47.784</bandwidth>
+			<mobility>0.012</mobility>
+			<battery>0.572</battery>
+		</service>
+		<service id="160">
+			<energy>14.503</energy>
+			<cost>0.641</cost>
+			<benefit>0.479</benefit>
+			<reliability>0.882</reliability>
+			<response_time>188.507</response_time>
+			<security>0.526</security>
+			<trust>0.708</trust>
+			<bandwidth>152.071</bandwidth>
+			<mobility>0.782</mobility>
+			<battery>0.104</battery>
+		</service>
+		<service id="20">
+			<energy>4.451</energy>
+			<cost>0.537</cost>
+			<benefit>0.055</benefit>
+			<reliability>0.935</reliability>
+			<response_time>13.091</response_time>
+			<security>0.573</security>
+			<trust>0.423</trust>
+			<bandwidth>36.885</bandwidth>
+			<mobility>0.754</mobility>
+			<battery>0.911</battery>
+		</service>
+		<service id="285">
+			<energy>21.171</energy>
+			<cost>1.445</cost>
+			<benefit>0.52</benefit>
+			<reliability>0.845</reliability>
+			<response_time>59.812</response_time>
+			<security>0.758</security>
+			<trust>0.923</trust>
+			<bandwidth>178.338</bandwidth>
+			<mobility>0.615</mobility>
+			<battery>0.509</battery>
+		</service>
+		<service id="189">
+			<energy>22.338</energy>
+			<cost>1.017</cost>
+			<benefit>0.418</benefit>
+			<reliability>0.628</reliability>
+			<response_time>23.544</response_time>
+			<security>0.902</security>
+			<trust>0.363</trust>
+			<bandwidth>101.917</bandwidth>
+			<mobility>0.09</mobility>
+			<battery>0.401</battery>
+		</service>
+		<service id="164">
+			<energy>13.336</energy>
+			<cost>6.207</cost>
+			<benefit>0.714</benefit>
+			<reliability>0.833</reliability>
+			<response_time>21.483</response_time>
+			<security>0.703</security>
+			<trust>0.514</trust>
+			<bandwidth>95.986</bandwidth>
+			<mobility>0.61</mobility>
+			<battery>0.29</battery>
+		</service>
+		<service id="96">
+			<energy>12.747</energy>
+			<cost>0.962</cost>
+			<benefit>0.375</benefit>
+			<reliability>0.545</reliability>
+			<response_time>148.577</response_time>
+			<security>0.56</security>
+			<trust>0.895</trust>
+			<bandwidth>70.309</bandwidth>
+			<mobility>0.755</mobility>
+			<battery>0.63</battery>
+		</service>
+		<service id="188">
+			<energy>20.486</energy>
+			<cost>5.994</cost>
+			<benefit>0.35</benefit>
+			<reliability>0.884</reliability>
+			<response_time>65.862</response_time>
+			<security>0.524</security>
+			<trust>0.518</trust>
+			<bandwidth>118.001</bandwidth>
+			<mobility>0.086</mobility>
+			<battery>0.264</battery>
+		</service>
+		<service id="133">
+			<energy>14.819</energy>
+			<cost>5.253</cost>
+			<benefit>0.396</benefit>
+			<reliability>0.846</reliability>
+			<response_time>63.706</response_time>
+			<security>0.942</security>
+			<trust>0.443</trust>
+			<bandwidth>85.205</bandwidth>
+			<mobility>0.922</mobility>
+			<battery>0.876</battery>
+		</service>
+		<service id="45">
+			<energy>9.102</energy>
+			<cost>0.228</cost>
+			<benefit>0.174</benefit>
+			<reliability>0.662</reliability>
+			<response_time>173.021</response_time>
+			<security>0.701</security>
+			<trust>0.587</trust>
+			<bandwidth>38.994</bandwidth>
+			<mobility>0.357</mobility>
+			<battery>0.585</battery>
+		</service>
+		<service id="217">
+			<energy>18.099</energy>
+			<cost>0.572</cost>
+			<benefit>0.589</benefit>
+			<reliability>0.743</reliability>
+			<response_time>133.9</response_time>
+			<security>0.599</security>
+			<trust>0.837</trust>
+			<bandwidth>177.097</bandwidth>
+			<mobility>0.579</mobility>
+			<battery>0.916</battery>
+		</service>
+		<service id="3">
+			<energy>3.245</energy>
+			<cost>0.808</cost>
+			<benefit>0.008</benefit>
+			<reliability>0.911</reliability>
+			<response_time>67.05</response_time>
+			<security>0.759</security>
+			<trust>0.755</trust>
+			<bandwidth>41.08</bandwidth>
+			<mobility>0.882</mobility>
+			<battery>0.279</battery>
+		</service>
+		<service id="170">
+			<energy>21.543</energy>
+			<cost>3.296</cost>
+			<benefit>0.751</benefit>
+			<reliability>0.516</reliability>
+			<response_time>13.342</response_time>
+			<security>0.567</security>
+			<trust>0.633</trust>
+			<bandwidth>49.481</bandwidth>
+			<mobility>0.188</mobility>
+			<battery>0.674</battery>
+		</service>
+		<service id="200">
+			<energy>18.765</energy>
+			<cost>7.431</cost>
+			<benefit>0.591</benefit>
+			<reliability>0.864</reliability>
+			<response_time>68.283</response_time>
+			<security>0.766</security>
+			<trust>0.53</trust>
+			<bandwidth>89.076</bandwidth>
+			<mobility>0.269</mobility>
+			<battery>0.696</battery>
+		</service>
+		<service id="11">
+			<energy>2.129</energy>
+			<cost>1.106</cost>
+			<benefit>0.054</benefit>
+			<reliability>0.037</reliability>
+			<response_time>46.087</response_time>
+			<security>0.833</security>
+			<trust>0.495</trust>
+			<bandwidth>45.739</bandwidth>
+			<mobility>0.894</mobility>
+			<battery>0.673</battery>
+		</service>
+		<service id="67">
+			<energy>6.627</energy>
+			<cost>2.567</cost>
+			<benefit>0.231</benefit>
+			<reliability>0.309</reliability>
+			<response_time>58.777</response_time>
+			<security>0.63</security>
+			<trust>0.339</trust>
+			<bandwidth>92.07</bandwidth>
+			<mobility>0.286</mobility>
+			<battery>0.982</battery>
+		</service>
+		<service id="296">
+			<energy>28.233</energy>
+			<cost>7.232</cost>
+			<benefit>0.5</benefit>
+			<reliability>0.985</reliability>
+			<response_time>63.643</response_time>
+			<security>0.645</security>
+			<trust>0.693</trust>
+			<bandwidth>90.291</bandwidth>
+			<mobility>0.061</mobility>
+			<battery>0.446</battery>
+		</service>
+		<service id="17">
+			<energy>6.416</energy>
+			<cost>0.251</cost>
+			<benefit>0.079</benefit>
+			<reliability>0.74</reliability>
+			<response_time>186.599</response_time>
+			<security>0.716</security>
+			<trust>0.301</trust>
+			<bandwidth>16.112</bandwidth>
+			<mobility>0.271</mobility>
+			<battery>0.5</battery>
+		</service>
+		<service id="294">
+			<energy>34.39</energy>
+			<cost>6.058</cost>
+			<benefit>0.907</benefit>
+			<reliability>0.876</reliability>
+			<response_time>35.507</response_time>
+			<security>0.804</security>
+			<trust>0.512</trust>
+			<bandwidth>111.649</bandwidth>
+			<mobility>0.855</mobility>
+			<battery>0.9</battery>
+		</service>
+		<service id="192">
+			<energy>14.779</energy>
+			<cost>0.288</cost>
+			<benefit>0.481</benefit>
+			<reliability>0.96</reliability>
+			<response_time>150.191</response_time>
+			<security>0.957</security>
+			<trust>0.816</trust>
+			<bandwidth>103.256</bandwidth>
+			<mobility>0.051</mobility>
+			<battery>0.713</battery>
+		</service>
+		<service id="297">
+			<energy>27.132</energy>
+			<cost>1.546</cost>
+			<benefit>1.065</benefit>
+			<reliability>0.962</reliability>
+			<response_time>232.208</response_time>
+			<security>0.852</security>
+			<trust>0.624</trust>
+			<bandwidth>188.339</bandwidth>
+			<mobility>0.169</mobility>
+			<battery>0.154</battery>
+		</service>
+		<service id="166">
+			<energy>12.191</energy>
+			<cost>3.189</cost>
+			<benefit>0.578</benefit>
+			<reliability>0.763</reliability>
+			<response_time>153.699</response_time>
+			<security>0.605</security>
+			<trust>0.494</trust>
+			<bandwidth>91.53</bandwidth>
+			<mobility>0.769</mobility>
+			<battery>0.572</battery>
+		</service>
+		<service id="101">
+			<energy>9.352</energy>
+			<cost>1.5</cost>
+			<benefit>0.392</benefit>
+			<reliability>0.768</reliability>
+			<response_time>31.657</response_time>
+			<security>0.851</security>
+			<trust>0.745</trust>
+			<bandwidth>91.824</bandwidth>
+			<mobility>0.791</mobility>
+			<battery>0.738</battery>
+		</service>
+		<service id="194">
+			<energy>15.555</energy>
+			<cost>7.045</cost>
+			<benefit>0.465</benefit>
+			<reliability>0.745</reliability>
+			<response_time>159.033</response_time>
+			<security>0.642</security>
+			<trust>0.651</trust>
+			<bandwidth>132.753</bandwidth>
+			<mobility>0.277</mobility>
+			<battery>0.976</battery>
+		</service>
+		<service id="240">
+			<energy>21.281</energy>
+			<cost>0.743</cost>
+			<benefit>1.179</benefit>
+			<reliability>0.684</reliability>
+			<response_time>349.241</response_time>
+			<security>0.952</security>
+			<trust>0.97</trust>
+			<bandwidth>134.24</bandwidth>
+			<mobility>0.579</mobility>
+			<battery>0.563</battery>
+		</service>
+		<service id="102">
+			<energy>14.111</energy>
+			<cost>3.554</cost>
+			<benefit>0.33</benefit>
+			<reliability>0.933</reliability>
+			<response_time>227.609</response_time>
+			<security>0.81</security>
+			<trust>0.217</trust>
+			<bandwidth>105.642</bandwidth>
+			<mobility>0.804</mobility>
+			<battery>0.752</battery>
+		</service>
+		<service id="121">
+			<energy>9.701</energy>
+			<cost>3.93</cost>
+			<benefit>0.24</benefit>
+			<reliability>0.609</reliability>
+			<response_time>174.622</response_time>
+			<security>0.55</security>
+			<trust>0.942</trust>
+			<bandwidth>119.622</bandwidth>
+			<mobility>0.909</mobility>
+			<battery>0.554</battery>
+		</service>
+		<service id="267">
+			<energy>19.9</energy>
+			<cost>0.993</cost>
+			<benefit>0.984</benefit>
+			<reliability>0.857</reliability>
+			<response_time>50.991</response_time>
+			<security>0.7</security>
+			<trust>0.915</trust>
+			<bandwidth>47.86</bandwidth>
+			<mobility>0.487</mobility>
+			<battery>0.324</battery>
+		</service>
+		<service id="103">
+			<energy>9.626</energy>
+			<cost>2.351</cost>
+			<benefit>0.406</benefit>
+			<reliability>0.947</reliability>
+			<response_time>104.787</response_time>
+			<security>0.823</security>
+			<trust>0.384</trust>
+			<bandwidth>40.292</bandwidth>
+			<mobility>0.3</mobility>
+			<battery>0.983</battery>
+		</service>
+		<service id="259">
+			<energy>27.631</energy>
+			<cost>9.427</cost>
+			<benefit>1.042</benefit>
+			<reliability>0.853</reliability>
+			<response_time>125.354</response_time>
+			<security>0.748</security>
+			<trust>0.705</trust>
+			<bandwidth>136.588</bandwidth>
+			<mobility>0.842</mobility>
+			<battery>0.87</battery>
+		</service>
+		<service id="62">
+			<energy>7.83</energy>
+			<cost>2.052</cost>
+			<benefit>0.216</benefit>
+			<reliability>0.632</reliability>
+			<response_time>190.129</response_time>
+			<security>0.707</security>
+			<trust>0.666</trust>
+			<bandwidth>17.912</bandwidth>
+			<mobility>0.295</mobility>
+			<battery>0.748</battery>
+		</service>
+		<service id="33">
+			<energy>8.133</energy>
+			<cost>1.243</cost>
+			<benefit>0.076</benefit>
+			<reliability>0.622</reliability>
+			<response_time>11.865</response_time>
+			<security>0.671</security>
+			<trust>0.626</trust>
+			<bandwidth>60.647</bandwidth>
+			<mobility>0.366</mobility>
+			<battery>0.448</battery>
+		</service>
+		<service id="263">
+			<energy>29.06</energy>
+			<cost>9.247</cost>
+			<benefit>0.834</benefit>
+			<reliability>0.808</reliability>
+			<response_time>224.855</response_time>
+			<security>0.88</security>
+			<trust>0.71</trust>
+			<bandwidth>163.775</bandwidth>
+			<mobility>0.089</mobility>
+			<battery>0.964</battery>
+		</service>
+		<service id="207">
+			<energy>15.011</energy>
+			<cost>3.243</cost>
+			<benefit>0.988</benefit>
+			<reliability>0.874</reliability>
+			<response_time>197.228</response_time>
+			<security>0.78</security>
+			<trust>0.44</trust>
+			<bandwidth>64.076</bandwidth>
+			<mobility>0.765</mobility>
+			<battery>0.83</battery>
+		</service>
+		<service id="223">
+			<energy>22.506</energy>
+			<cost>5.54</cost>
+			<benefit>0.864</benefit>
+			<reliability>0.839</reliability>
+			<response_time>319.839</response_time>
+			<security>0.979</security>
+			<trust>0.509</trust>
+			<bandwidth>138.799</bandwidth>
+			<mobility>0.121</mobility>
+			<battery>0.546</battery>
+		</service>
+		<service id="135">
+			<energy>17.788</energy>
+			<cost>4.363</cost>
+			<benefit>0.574</benefit>
+			<reliability>0.518</reliability>
+			<response_time>226.719</response_time>
+			<security>0.973</security>
+			<trust>0.782</trust>
+			<bandwidth>87.319</bandwidth>
+			<mobility>0.963</mobility>
+			<battery>0.853</battery>
+		</service>
+		<service id="94">
+			<energy>11.206</energy>
+			<cost>2.506</cost>
+			<benefit>0.259</benefit>
+			<reliability>0.58</reliability>
+			<response_time>257.244</response_time>
+			<security>0.77</security>
+			<trust>0.746</trust>
+			<bandwidth>56.293</bandwidth>
+			<mobility>0.702</mobility>
+			<battery>0.375</battery>
+		</service>
+		<service id="273">
+			<energy>30.429</energy>
+			<cost>2.39</cost>
+			<benefit>0.895</benefit>
+			<reliability>0.938</reliability>
+			<response_time>324.193</response_time>
+			<security>0.835</security>
+			<trust>0.957</trust>
+			<bandwidth>87.877</bandwidth>
+			<mobility>0.367</mobility>
+			<battery>0.99</battery>
+		</service>
+		<service id="73">
+			<energy>7.461</energy>
+			<cost>0.578</cost>
+			<benefit>0.312</benefit>
+			<reliability>0.557</reliability>
+			<response_time>75.421</response_time>
+			<security>0.776</security>
+			<trust>0.53</trust>
+			<bandwidth>55.867</bandwidth>
+			<mobility>0.746</mobility>
+			<battery>0.229</battery>
+		</service>
+		<service id="123">
+			<energy>16.635</energy>
+			<cost>1.369</cost>
+			<benefit>0.292</benefit>
+			<reliability>0.452</reliability>
+			<response_time>124.962</response_time>
+			<security>0.885</security>
+			<trust>0.843</trust>
+			<bandwidth>21.751</bandwidth>
+			<mobility>0.226</mobility>
+			<battery>0.789</battery>
+		</service>
+		<service id="163">
+			<energy>15.984</energy>
+			<cost>3.13</cost>
+			<benefit>0.596</benefit>
+			<reliability>0.879</reliability>
+			<response_time>223.537</response_time>
+			<security>0.601</security>
+			<trust>0.565</trust>
+			<bandwidth>118.269</bandwidth>
+			<mobility>0.168</mobility>
+			<battery>0.404</battery>
+		</service>
+		<service id="144">
+			<energy>12.629</energy>
+			<cost>1.742</cost>
+			<benefit>0.59</benefit>
+			<reliability>0.498</reliability>
+			<response_time>105.811</response_time>
+			<security>0.546</security>
+			<trust>0.496</trust>
+			<bandwidth>125.816</bandwidth>
+			<mobility>0.734</mobility>
+			<battery>0.648</battery>
+		</service>
+		<service id="86">
+			<energy>12.57</energy>
+			<cost>3.834</cost>
+			<benefit>0.175</benefit>
+			<reliability>0.471</reliability>
+			<response_time>185.593</response_time>
+			<security>0.658</security>
+			<trust>0.851</trust>
+			<bandwidth>21.229</bandwidth>
+			<mobility>0.227</mobility>
+			<battery>0.494</battery>
+		</service>
+		<service id="48">
+			<energy>8.614</energy>
+			<cost>1.587</cost>
+			<benefit>0.091</benefit>
+			<reliability>0.582</reliability>
+			<response_time>56.755</response_time>
+			<security>0.822</security>
+			<trust>0.886</trust>
+			<bandwidth>15.178</bandwidth>
+			<mobility>0.554</mobility>
+			<battery>0.618</battery>
+		</service>
+		<service id="5">
+			<energy>4.235</energy>
+			<cost>0.947</cost>
+			<benefit>0.011</benefit>
+			<reliability>0.174</reliability>
+			<response_time>165.365</response_time>
+			<security>0.865</security>
+			<trust>0.062</trust>
+			<bandwidth>36.42</bandwidth>
+			<mobility>0.658</mobility>
+			<battery>0.361</battery>
+		</service>
+		<service id="41">
+			<energy>7.449</energy>
+			<cost>1.591</cost>
+			<benefit>0.105</benefit>
+			<reliability>0.783</reliability>
+			<response_time>18.08</response_time>
+			<security>0.902</security>
+			<trust>0.849</trust>
+			<bandwidth>14.02</bandwidth>
+			<mobility>0.674</mobility>
+			<battery>0.459</battery>
+		</service>
+		<service id="168">
+			<energy>19.489</energy>
+			<cost>4.526</cost>
+			<benefit>0.804</benefit>
+			<reliability>0.861</reliability>
+			<response_time>169.856</response_time>
+			<security>0.879</security>
+			<trust>0.842</trust>
+			<bandwidth>134.552</bandwidth>
+			<mobility>0.512</mobility>
+			<battery>0.784</battery>
+		</service>
+		<service id="22">
+			<energy>2.832</energy>
+			<cost>0.928</cost>
+			<benefit>0.047</benefit>
+			<reliability>0.135</reliability>
+			<response_time>166.482</response_time>
+			<security>0.747</security>
+			<trust>0.539</trust>
+			<bandwidth>51.933</bandwidth>
+			<mobility>0.85</mobility>
+			<battery>0.158</battery>
+		</service>
+		<service id="126">
+			<energy>13.049</energy>
+			<cost>5.057</cost>
+			<benefit>0.487</benefit>
+			<reliability>0.526</reliability>
+			<response_time>125.323</response_time>
+			<security>0.56</security>
+			<trust>0.644</trust>
+			<bandwidth>87.298</bandwidth>
+			<mobility>0.143</mobility>
+			<battery>0.203</battery>
+		</service>
+		<service id="52">
+			<energy>6.861</energy>
+			<cost>1.892</cost>
+			<benefit>0.197</benefit>
+			<reliability>0.961</reliability>
+			<response_time>127.989</response_time>
+			<security>0.795</security>
+			<trust>0.343</trust>
+			<bandwidth>49.349</bandwidth>
+			<mobility>0.888</mobility>
+			<battery>0.73</battery>
+		</service>
+		<service id="269">
+			<energy>21.926</energy>
+			<cost>4.827</cost>
+			<benefit>0.591</benefit>
+			<reliability>0.981</reliability>
+			<response_time>179.798</response_time>
+			<security>0.871</security>
+			<trust>0.484</trust>
+			<bandwidth>163.653</bandwidth>
+			<mobility>0.535</mobility>
+			<battery>0.448</battery>
+		</service>
+		<service id="84">
+			<energy>10.106</energy>
+			<cost>1.988</cost>
+			<benefit>0.265</benefit>
+			<reliability>0.544</reliability>
+			<response_time>145.365</response_time>
+			<security>0.935</security>
+			<trust>0.556</trust>
+			<bandwidth>34.175</bandwidth>
+			<mobility>0.302</mobility>
+			<battery>0.535</battery>
+		</service>
+		<service id="111">
+			<energy>12.201</energy>
+			<cost>4.033</cost>
+			<benefit>0.435</benefit>
+			<reliability>0.342</reliability>
+			<response_time>112.729</response_time>
+			<security>0.858</security>
+			<trust>0.669</trust>
+			<bandwidth>122.934</bandwidth>
+			<mobility>0.366</mobility>
+			<battery>0.45</battery>
+		</service>
+		<service id="245">
+			<energy>21.851</energy>
+			<cost>2.754</cost>
+			<benefit>0.669</benefit>
+			<reliability>0.811</reliability>
+			<response_time>352.866</response_time>
+			<security>0.669</security>
+			<trust>0.712</trust>
+			<bandwidth>60.124</bandwidth>
+			<mobility>0.274</mobility>
+			<battery>0.737</battery>
+		</service>
+		<service id="85">
+			<energy>10.933</energy>
+			<cost>1.904</cost>
+			<benefit>0.39</benefit>
+			<reliability>0.344</reliability>
+			<response_time>99.881</response_time>
+			<security>0.538</security>
+			<trust>0.405</trust>
+			<bandwidth>25.495</bandwidth>
+			<mobility>0.394</mobility>
+			<battery>0.229</battery>
+		</service>
+		<service id="256">
+			<energy>19.494</energy>
+			<cost>2.666</cost>
+			<benefit>0.485</benefit>
+			<reliability>0.876</reliability>
+			<response_time>58.139</response_time>
+			<security>0.675</security>
+			<trust>0.492</trust>
+			<bandwidth>70.012</bandwidth>
+			<mobility>0.898</mobility>
+			<battery>0.188</battery>
+		</service>
+		<service id="99">
+			<energy>9.512</energy>
+			<cost>1.254</cost>
+			<benefit>0.303</benefit>
+			<reliability>0.289</reliability>
+			<response_time>103.336</response_time>
+			<security>0.737</security>
+			<trust>0.978</trust>
+			<bandwidth>90.669</bandwidth>
+			<mobility>0.453</mobility>
+			<battery>0.143</battery>
+		</service>
+		<service id="145">
+			<energy>19.498</energy>
+			<cost>3.25</cost>
+			<benefit>0.597</benefit>
+			<reliability>0.561</reliability>
+			<response_time>291.081</response_time>
+			<security>0.976</security>
+			<trust>0.645</trust>
+			<bandwidth>84.311</bandwidth>
+			<mobility>0.15</mobility>
+			<battery>0.868</battery>
+		</service>
+		<service id="100">
+			<energy>14.102</energy>
+			<cost>2.125</cost>
+			<benefit>0.259</benefit>
+			<reliability>0.532</reliability>
+			<response_time>86.229</response_time>
+			<security>0.642</security>
+			<trust>0.468</trust>
+			<bandwidth>41.524</bandwidth>
+			<mobility>0.085</mobility>
+			<battery>0.795</battery>
+		</service>
+		<service id="190">
+			<energy>18.793</energy>
+			<cost>3.369</cost>
+			<benefit>0.809</benefit>
+			<reliability>0.978</reliability>
+			<response_time>286.236</response_time>
+			<security>0.777</security>
+			<trust>0.612</trust>
+			<bandwidth>105.343</bandwidth>
+			<mobility>0.103</mobility>
+			<battery>0.868</battery>
+		</service>
+		<service id="68">
+			<energy>10.655</energy>
+			<cost>1.227</cost>
+			<benefit>0.13</benefit>
+			<reliability>0.352</reliability>
+			<response_time>136.325</response_time>
+			<security>0.53</security>
+			<trust>0.536</trust>
+			<bandwidth>22.538</bandwidth>
+			<mobility>0.512</mobility>
+			<battery>0.657</battery>
+		</service>
+		<service id="127">
+			<energy>14.1</energy>
+			<cost>0.407</cost>
+			<benefit>0.227</benefit>
+			<reliability>0.395</reliability>
+			<response_time>204.506</response_time>
+			<security>0.663</security>
+			<trust>0.652</trust>
+			<bandwidth>48.67</bandwidth>
+			<mobility>0.234</mobility>
+			<battery>0.489</battery>
+		</service>
+		<service id="95">
+			<energy>11.087</energy>
+			<cost>0.508</cost>
+			<benefit>0.177</benefit>
+			<reliability>0.851</reliability>
+			<response_time>188.407</response_time>
+			<security>0.899</security>
+			<trust>0.76</trust>
+			<bandwidth>23.16</bandwidth>
+			<mobility>0.93</mobility>
+			<battery>0.124</battery>
+		</service>
+		<service id="118">
+			<energy>11.911</energy>
+			<cost>3.827</cost>
+			<benefit>0.409</benefit>
+			<reliability>0.54</reliability>
+			<response_time>96.36</response_time>
+			<security>0.626</security>
+			<trust>0.889</trust>
+			<bandwidth>80.118</bandwidth>
+			<mobility>0.124</mobility>
+			<battery>0.579</battery>
+		</service>
+		<service id="172">
+			<energy>16.707</energy>
+			<cost>5.025</cost>
+			<benefit>0.398</benefit>
+			<reliability>0.561</reliability>
+			<response_time>43.74</response_time>
+			<security>0.9</security>
+			<trust>0.477</trust>
+			<bandwidth>100.616</bandwidth>
+			<mobility>0.356</mobility>
+			<battery>0.93</battery>
+		</service>
+		<service id="115">
+			<energy>14.887</energy>
+			<cost>0.965</cost>
+			<benefit>0.365</benefit>
+			<reliability>0.565</reliability>
+			<response_time>119.792</response_time>
+			<security>0.828</security>
+			<trust>0.291</trust>
+			<bandwidth>29.129</bandwidth>
+			<mobility>0.036</mobility>
+			<battery>0.101</battery>
+		</service>
+		<service id="215">
+			<energy>21.508</energy>
+			<cost>1.904</cost>
+			<benefit>0.793</benefit>
+			<reliability>0.905</reliability>
+			<response_time>43.739</response_time>
+			<security>0.896</security>
+			<trust>0.579</trust>
+			<bandwidth>159.247</bandwidth>
+			<mobility>0.636</mobility>
+			<battery>0.296</battery>
+		</service>
+		<service id="195">
+			<energy>18.188</energy>
+			<cost>2.291</cost>
+			<benefit>0.393</benefit>
+			<reliability>0.685</reliability>
+			<response_time>196.602</response_time>
+			<security>0.86</security>
+			<trust>0.531</trust>
+			<bandwidth>160.071</bandwidth>
+			<mobility>0.697</mobility>
+			<battery>0.759</battery>
+		</service>
+		<service id="199">
+			<energy>20.668</energy>
+			<cost>6.922</cost>
+			<benefit>0.681</benefit>
+			<reliability>0.775</reliability>
+			<response_time>49.972</response_time>
+			<security>0.983</security>
+			<trust>0.996</trust>
+			<bandwidth>182.533</bandwidth>
+			<mobility>0.095</mobility>
+			<battery>0.327</battery>
+		</service>
+		<service id="224">
+			<energy>24.493</energy>
+			<cost>3.732</cost>
+			<benefit>0.855</benefit>
+			<reliability>0.718</reliability>
+			<response_time>157.565</response_time>
+			<security>0.522</security>
+			<trust>0.423</trust>
+			<bandwidth>99.007</bandwidth>
+			<mobility>0.469</mobility>
+			<battery>0.47</battery>
+		</service>
+		<service id="56">
+			<energy>8.948</energy>
+			<cost>1.801</cost>
+			<benefit>0.132</benefit>
+			<reliability>0.817</reliability>
+			<response_time>94.682</response_time>
+			<security>0.958</security>
+			<trust>0.885</trust>
+			<bandwidth>40.448</bandwidth>
+			<mobility>0.62</mobility>
+			<battery>0.606</battery>
+		</service>
+		<service id="72">
+			<energy>11.897</energy>
+			<cost>1.053</cost>
+			<benefit>0.243</benefit>
+			<reliability>0.675</reliability>
+			<response_time>29.911</response_time>
+			<security>0.985</security>
+			<trust>0.836</trust>
+			<bandwidth>13.598</bandwidth>
+			<mobility>0.281</mobility>
+			<battery>0.782</battery>
+		</service>
+		<service id="264">
+			<energy>23.965</energy>
+			<cost>2.3</cost>
+			<benefit>1.27</benefit>
+			<reliability>0.899</reliability>
+			<response_time>50.353</response_time>
+			<security>0.766</security>
+			<trust>0.802</trust>
+			<bandwidth>179.197</bandwidth>
+			<mobility>0.799</mobility>
+			<battery>0.296</battery>
+		</service>
+		<service id="13">
+			<energy>4.463</energy>
+			<cost>0.473</cost>
+			<benefit>0.043</benefit>
+			<reliability>0.3</reliability>
+			<response_time>205.453</response_time>
+			<security>0.707</security>
+			<trust>0.712</trust>
+			<bandwidth>9.111</bandwidth>
+			<mobility>0.114</mobility>
+			<battery>0.405</battery>
+		</service>
+		<service id="191">
+			<energy>14.966</energy>
+			<cost>5.683</cost>
+			<benefit>0.327</benefit>
+			<reliability>0.854</reliability>
+			<response_time>275.553</response_time>
+			<security>0.776</security>
+			<trust>0.411</trust>
+			<bandwidth>129.689</bandwidth>
+			<mobility>0.177</mobility>
+			<battery>0.743</battery>
+		</service>
+		<service id="28">
+			<energy>7.255</energy>
+			<cost>0.571</cost>
+			<benefit>0.071</benefit>
+			<reliability>0.714</reliability>
+			<response_time>171.22</response_time>
+			<security>0.775</security>
+			<trust>0.157</trust>
+			<bandwidth>33.105</bandwidth>
+			<mobility>0.986</mobility>
+			<battery>0.388</battery>
+		</service>
+		<service id="142">
+			<energy>10.834</energy>
+			<cost>4.225</cost>
+			<benefit>0.431</benefit>
+			<reliability>0.525</reliability>
+			<response_time>193.181</response_time>
+			<security>0.51</security>
+			<trust>0.815</trust>
+			<bandwidth>46.951</bandwidth>
+			<mobility>0.652</mobility>
+			<battery>0.806</battery>
+		</service>
+		<service id="230">
+			<energy>25.553</energy>
+			<cost>7.483</cost>
+			<benefit>0.721</benefit>
+			<reliability>0.662</reliability>
+			<response_time>173.739</response_time>
+			<security>0.929</security>
+			<trust>0.941</trust>
+			<bandwidth>195.595</bandwidth>
+			<mobility>0.069</mobility>
+			<battery>0.724</battery>
+		</service>
+		<service id="246">
+			<energy>17.931</energy>
+			<cost>8.991</cost>
+			<benefit>0.43</benefit>
+			<reliability>0.883</reliability>
+			<response_time>306.749</response_time>
+			<security>0.745</security>
+			<trust>0.719</trust>
+			<bandwidth>135.582</bandwidth>
+			<mobility>0.728</mobility>
+			<battery>0.738</battery>
+		</service>
+		<service id="254">
+			<energy>27.554</energy>
+			<cost>7.215</cost>
+			<benefit>0.733</benefit>
+			<reliability>0.69</reliability>
+			<response_time>16.472</response_time>
+			<security>0.797</security>
+			<trust>0.657</trust>
+			<bandwidth>214.713</bandwidth>
+			<mobility>0.419</mobility>
+			<battery>0.426</battery>
+		</service>
+		<service id="153">
+			<energy>11.852</energy>
+			<cost>2.497</cost>
+			<benefit>0.391</benefit>
+			<reliability>0.613</reliability>
+			<response_time>142.611</response_time>
+			<security>0.717</security>
+			<trust>0.684</trust>
+			<bandwidth>136.044</bandwidth>
+			<mobility>0.058</mobility>
+			<battery>0.783</battery>
+		</service>
+		<service id="238">
+			<energy>28.326</energy>
+			<cost>7.356</cost>
+			<benefit>0.932</benefit>
+			<reliability>0.659</reliability>
+			<response_time>29.988</response_time>
+			<security>0.664</security>
+			<trust>0.621</trust>
+			<bandwidth>137.114</bandwidth>
+			<mobility>0.428</mobility>
+			<battery>0.627</battery>
+		</service>
+		<service id="42">
+			<energy>7.28</energy>
+			<cost>1.217</cost>
+			<benefit>0.071</benefit>
+			<reliability>0.658</reliability>
+			<response_time>186.602</response_time>
+			<security>0.943</security>
+			<trust>0.97</trust>
+			<bandwidth>60.864</bandwidth>
+			<mobility>0.81</mobility>
+			<battery>0.885</battery>
+		</service>
+		<service id="61">
+			<energy>5.374</energy>
+			<cost>0.787</cost>
+			<benefit>0.223</benefit>
+			<reliability>0.808</reliability>
+			<response_time>24.29</response_time>
+			<security>0.54</security>
+			<trust>0.626</trust>
+			<bandwidth>68.9</bandwidth>
+			<mobility>0.654</mobility>
+			<battery>0.724</battery>
+		</service>
+		<service id="177">
+			<energy>16.529</energy>
+			<cost>2.918</cost>
+			<benefit>0.784</benefit>
+			<reliability>0.818</reliability>
+			<response_time>135.64</response_time>
+			<security>0.581</security>
+			<trust>0.964</trust>
+			<bandwidth>77.666</bandwidth>
+			<mobility>0.797</mobility>
+			<battery>0.93</battery>
+		</service>
+		<service id="258">
+			<energy>21.79</energy>
+			<cost>1.183</cost>
+			<benefit>0.981</benefit>
+			<reliability>0.757</reliability>
+			<response_time>128.058</response_time>
+			<security>0.933</security>
+			<trust>0.496</trust>
+			<bandwidth>178.284</bandwidth>
+			<mobility>0.394</mobility>
+			<battery>0.835</battery>
+		</service>
+		<service id="210">
+			<energy>16.472</energy>
+			<cost>3.458</cost>
+			<benefit>0.997</benefit>
+			<reliability>0.738</reliability>
+			<response_time>19.858</response_time>
+			<security>0.537</security>
+			<trust>0.912</trust>
+			<bandwidth>164.827</bandwidth>
+			<mobility>0.942</mobility>
+			<battery>0.491</battery>
+		</service>
+		<service id="231">
+			<energy>24.655</energy>
+			<cost>1.966</cost>
+			<benefit>0.574</benefit>
+			<reliability>0.828</reliability>
+			<response_time>93.207</response_time>
+			<security>0.603</security>
+			<trust>0.599</trust>
+			<bandwidth>68.351</bandwidth>
+			<mobility>0.518</mobility>
+			<battery>0.722</battery>
+		</service>
+		<service id="104">
+			<energy>11.666</energy>
+			<cost>1.62</cost>
+			<benefit>0.318</benefit>
+			<reliability>0.578</reliability>
+			<response_time>230.785</response_time>
+			<security>0.601</security>
+			<trust>0.666</trust>
+			<bandwidth>85.821</bandwidth>
+			<mobility>0.933</mobility>
+			<battery>0.486</battery>
+		</service>
+		<service id="57">
+			<energy>9.19</energy>
+			<cost>0.195</cost>
+			<benefit>0.113</benefit>
+			<reliability>0.779</reliability>
+			<response_time>84.135</response_time>
+			<security>0.735</security>
+			<trust>0.108</trust>
+			<bandwidth>50.539</bandwidth>
+			<mobility>0.817</mobility>
+			<battery>0.39</battery>
+		</service>
+		<service id="248">
+			<energy>25.953</energy>
+			<cost>2.827</cost>
+			<benefit>0.637</benefit>
+			<reliability>0.707</reliability>
+			<response_time>54.257</response_time>
+			<security>0.788</security>
+			<trust>0.771</trust>
+			<bandwidth>198.551</bandwidth>
+			<mobility>0.445</mobility>
+			<battery>0.72</battery>
+		</service>
+		<service id="128">
+			<energy>16.487</energy>
+			<cost>1.752</cost>
+			<benefit>0.226</benefit>
+			<reliability>0.815</reliability>
+			<response_time>69.994</response_time>
+			<security>0.702</security>
+			<trust>0.42</trust>
+			<bandwidth>69.872</bandwidth>
+			<mobility>0.443</mobility>
+			<battery>0.408</battery>
+		</service>
+		<service id="27">
+			<energy>6.09</energy>
+			<cost>0.953</cost>
+			<benefit>0.094</benefit>
+			<reliability>0.264</reliability>
+			<response_time>41.835</response_time>
+			<security>0.626</security>
+			<trust>0.164</trust>
+			<bandwidth>35.393</bandwidth>
+			<mobility>0.191</mobility>
+			<battery>0.844</battery>
+		</service>
+		<service id="24">
+			<energy>4.024</energy>
+			<cost>1.577</cost>
+			<benefit>0.096</benefit>
+			<reliability>0.234</reliability>
+			<response_time>201.97</response_time>
+			<security>0.996</security>
+			<trust>0.926</trust>
+			<bandwidth>38.518</bandwidth>
+			<mobility>0.686</mobility>
+			<battery>0.515</battery>
+		</service>
+		<service id="157">
+			<energy>14.083</energy>
+			<cost>5.781</cost>
+			<benefit>0.551</benefit>
+			<reliability>0.644</reliability>
+			<response_time>120.122</response_time>
+			<security>0.93</security>
+			<trust>0.462</trust>
+			<bandwidth>152.321</bandwidth>
+			<mobility>0.847</mobility>
+			<battery>0.591</battery>
+		</service>
+		<service id="158">
+			<energy>11.616</energy>
+			<cost>2.818</cost>
+			<benefit>0.615</benefit>
+			<reliability>0.738</reliability>
+			<response_time>31.616</response_time>
+			<security>0.85</security>
+			<trust>0.705</trust>
+			<bandwidth>94.701</bandwidth>
+			<mobility>0.251</mobility>
+			<battery>0.132</battery>
+		</service>
+		<service id="277">
+			<energy>25.137</energy>
+			<cost>2.07</cost>
+			<benefit>0.822</benefit>
+			<reliability>0.902</reliability>
+			<response_time>17.993</response_time>
+			<security>0.6</security>
+			<trust>0.475</trust>
+			<bandwidth>182.912</bandwidth>
+			<mobility>0.824</mobility>
+			<battery>0.586</battery>
+		</service>
+		<service id="87">
+			<energy>13.583</energy>
+			<cost>0.81</cost>
+			<benefit>0.357</benefit>
+			<reliability>0.774</reliability>
+			<response_time>51.644</response_time>
+			<security>0.525</security>
+			<trust>0.6</trust>
+			<bandwidth>107.387</bandwidth>
+			<mobility>0.853</mobility>
+			<battery>0.765</battery>
+		</service>
+		<service id="110">
+			<energy>10.126</energy>
+			<cost>0.155</cost>
+			<benefit>0.504</benefit>
+			<reliability>0.532</reliability>
+			<response_time>204.326</response_time>
+			<security>0.922</security>
+			<trust>0.299</trust>
+			<bandwidth>61.717</bandwidth>
+			<mobility>0.473</mobility>
+			<battery>0.845</battery>
+		</service>
+		<service id="198">
+			<energy>14.952</energy>
+			<cost>0.749</cost>
+			<benefit>0.645</benefit>
+			<reliability>0.599</reliability>
+			<response_time>16.819</response_time>
+			<security>0.57</security>
+			<trust>0.956</trust>
+			<bandwidth>132.215</bandwidth>
+			<mobility>0.441</mobility>
+			<battery>0.848</battery>
+		</service>
+		<service id="125">
+			<energy>15.544</energy>
+			<cost>3.227</cost>
+			<benefit>0.384</benefit>
+			<reliability>0.986</reliability>
+			<response_time>268.927</response_time>
+			<security>0.528</security>
+			<trust>0.748</trust>
+			<bandwidth>71.694</bandwidth>
+			<mobility>0.933</mobility>
+			<battery>0.819</battery>
+		</service>
+		<service id="69">
+			<energy>8.84</energy>
+			<cost>0.279</cost>
+			<benefit>0.29</benefit>
+			<reliability>0.329</reliability>
+			<response_time>205.122</response_time>
+			<security>0.64</security>
+			<trust>0.295</trust>
+			<bandwidth>29.477</bandwidth>
+			<mobility>0.848</mobility>
+			<battery>0.952</battery>
+		</service>
+		<service id="169">
+			<energy>13.925</energy>
+			<cost>4.976</cost>
+			<benefit>0.442</benefit>
+			<reliability>0.548</reliability>
+			<response_time>309.739</response_time>
+			<security>0.829</security>
+			<trust>0.615</trust>
+			<bandwidth>47.946</bandwidth>
+			<mobility>0.101</mobility>
+			<battery>0.771</battery>
+		</service>
+		<service id="116">
+			<energy>9.181</energy>
+			<cost>3.19</cost>
+			<benefit>0.425</benefit>
+			<reliability>0.861</reliability>
+			<response_time>179.925</response_time>
+			<security>0.8</security>
+			<trust>0.605</trust>
+			<bandwidth>20.624</bandwidth>
+			<mobility>0.347</mobility>
+			<battery>0.597</battery>
+		</service>
+		<service id="205">
+			<energy>16.726</energy>
+			<cost>6.172</cost>
+			<benefit>0.5</benefit>
+			<reliability>0.763</reliability>
+			<response_time>57.508</response_time>
+			<security>0.737</security>
+			<trust>0.941</trust>
+			<bandwidth>121.455</bandwidth>
+			<mobility>0.346</mobility>
+			<battery>0.916</battery>
+		</service>
+		<service id="37">
+			<energy>4.807</energy>
+			<cost>0.422</cost>
+			<benefit>0.064</benefit>
+			<reliability>0.777</reliability>
+			<response_time>119.649</response_time>
+			<security>0.507</security>
+			<trust>0.308</trust>
+			<bandwidth>41.444</bandwidth>
+			<mobility>0.05</mobility>
+			<battery>0.277</battery>
+		</service>
+		<service id="295">
+			<energy>21.436</energy>
+			<cost>4.687</cost>
+			<benefit>1.137</benefit>
+			<reliability>0.835</reliability>
+			<response_time>28.404</response_time>
+			<security>0.956</security>
+			<trust>0.949</trust>
+			<bandwidth>169.893</bandwidth>
+			<mobility>0.464</mobility>
+			<battery>0.598</battery>
+		</service>
+		<service id="218">
+			<energy>24.981</energy>
+			<cost>5.788</cost>
+			<benefit>0.909</benefit>
+			<reliability>0.904</reliability>
+			<response_time>307.436</response_time>
+			<security>0.912</security>
+			<trust>0.709</trust>
+			<bandwidth>143.718</bandwidth>
+			<mobility>0.5</mobility>
+			<battery>0.673</battery>
+		</service>
+		<service id="239">
+			<energy>19.494</energy>
+			<cost>5.558</cost>
+			<benefit>1.078</benefit>
+			<reliability>0.847</reliability>
+			<response_time>158.861</response_time>
+			<security>0.858</security>
+			<trust>0.545</trust>
+			<bandwidth>161.786</bandwidth>
+			<mobility>0.472</mobility>
+			<battery>0.505</battery>
+		</service>
+		<service id="92">
+			<energy>10.682</energy>
+			<cost>0.713</cost>
+			<benefit>0.245</benefit>
+			<reliability>0.975</reliability>
+			<response_time>98.108</response_time>
+			<security>0.807</security>
+			<trust>0.381</trust>
+			<bandwidth>87.122</bandwidth>
+			<mobility>0.883</mobility>
+			<battery>0.29</battery>
+		</service>
+		<service id="209">
+			<energy>21.298</energy>
+			<cost>3.953</cost>
+			<benefit>0.933</benefit>
+			<reliability>0.813</reliability>
+			<response_time>234.45</response_time>
+			<security>0.83</security>
+			<trust>0.83</trust>
+			<bandwidth>145.328</bandwidth>
+			<mobility>0.995</mobility>
+			<battery>0.964</battery>
+		</service>
+		<service id="12">
+			<energy>3.052</energy>
+			<cost>1.166</cost>
+			<benefit>0.034</benefit>
+			<reliability>0.745</reliability>
+			<response_time>54.252</response_time>
+			<security>0.845</security>
+			<trust>0.611</trust>
+			<bandwidth>38.729</bandwidth>
+			<mobility>0.629</mobility>
+			<battery>0.56</battery>
+		</service>
+		<service id="63">
+			<energy>6.763</energy>
+			<cost>0.305</cost>
+			<benefit>0.204</benefit>
+			<reliability>0.341</reliability>
+			<response_time>151.519</response_time>
+			<security>0.521</security>
+			<trust>0.716</trust>
+			<bandwidth>23.528</bandwidth>
+			<mobility>0.562</mobility>
+			<battery>0.88</battery>
+		</service>
+		<service id="261">
+			<energy>22.998</energy>
+			<cost>9.491</cost>
+			<benefit>1.084</benefit>
+			<reliability>0.935</reliability>
+			<response_time>347.915</response_time>
+			<security>0.584</security>
+			<trust>0.778</trust>
+			<bandwidth>75.917</bandwidth>
+			<mobility>0.656</mobility>
+			<battery>0.8</battery>
+		</service>
+		<service id="298">
+			<energy>34.443</energy>
+			<cost>1.058</cost>
+			<benefit>0.978</benefit>
+			<reliability>0.835</reliability>
+			<response_time>383.732</response_time>
+			<security>0.618</security>
+			<trust>0.752</trust>
+			<bandwidth>121.052</bandwidth>
+			<mobility>0.13</mobility>
+			<battery>0.875</battery>
+		</service>
+		<service id="18">
+			<energy>4.734</energy>
+			<cost>0.954</cost>
+			<benefit>0.051</benefit>
+			<reliability>0.171</reliability>
+			<response_time>117.105</response_time>
+			<security>0.601</security>
+			<trust>0.143</trust>
+			<bandwidth>51.076</bandwidth>
+			<mobility>0.112</mobility>
+			<battery>0.31</battery>
+		</service>
+		<service id="227">
+			<energy>25.401</energy>
+			<cost>2.787</cost>
+			<benefit>0.714</benefit>
+			<reliability>0.657</reliability>
+			<response_time>111.483</response_time>
+			<security>0.715</security>
+			<trust>0.864</trust>
+			<bandwidth>53.482</bandwidth>
+			<mobility>0.591</mobility>
+			<battery>0.166</battery>
+		</service>
+		<service id="201">
+			<energy>19.818</energy>
+			<cost>2.746</cost>
+			<benefit>0.975</benefit>
+			<reliability>0.952</reliability>
+			<response_time>194.602</response_time>
+			<security>0.989</security>
+			<trust>0.939</trust>
+			<bandwidth>71.535</bandwidth>
+			<mobility>0.592</mobility>
+			<battery>0.798</battery>
+		</service>
+		<service id="113">
+			<energy>12.649</energy>
+			<cost>1.326</cost>
+			<benefit>0.347</benefit>
+			<reliability>0.332</reliability>
+			<response_time>33.088</response_time>
+			<security>0.877</security>
+			<trust>0.569</trust>
+			<bandwidth>103.641</bandwidth>
+			<mobility>0.389</mobility>
+			<battery>0.914</battery>
+		</service>
+		<service id="283">
+			<energy>28.904</energy>
+			<cost>2.212</cost>
+			<benefit>1.03</benefit>
+			<reliability>0.852</reliability>
+			<response_time>195.228</response_time>
+			<security>0.776</security>
+			<trust>0.547</trust>
+			<bandwidth>233.33</bandwidth>
+			<mobility>0.748</mobility>
+			<battery>0.135</battery>
+		</service>
+		<service id="257">
+			<energy>18.535</energy>
+			<cost>2.306</cost>
+			<benefit>0.884</benefit>
+			<reliability>0.751</reliability>
+			<response_time>108.144</response_time>
+			<security>0.779</security>
+			<trust>0.974</trust>
+			<bandwidth>211.736</bandwidth>
+			<mobility>0.882</mobility>
+			<battery>0.128</battery>
+		</service>
+		<service id="43">
+			<energy>4.277</energy>
+			<cost>1.932</cost>
+			<benefit>0.133</benefit>
+			<reliability>0.799</reliability>
+			<response_time>150.209</response_time>
+			<security>0.628</security>
+			<trust>0.222</trust>
+			<bandwidth>37.874</bandwidth>
+			<mobility>0.647</mobility>
+			<battery>0.718</battery>
+		</service>
+		<service id="46">
+			<energy>5.533</energy>
+			<cost>0.325</cost>
+			<benefit>0.171</benefit>
+			<reliability>0.452</reliability>
+			<response_time>36.556</response_time>
+			<security>0.876</security>
+			<trust>0.837</trust>
+			<bandwidth>34.395</bandwidth>
+			<mobility>0.16</mobility>
+			<battery>0.446</battery>
+		</service>
+		<service id="74">
+			<energy>6.59</energy>
+			<cost>0.145</cost>
+			<benefit>0.182</benefit>
+			<reliability>0.25</reliability>
+			<response_time>146.709</response_time>
+			<security>0.698</security>
+			<trust>0.432</trust>
+			<bandwidth>59.318</bandwidth>
+			<mobility>0.508</mobility>
+			<battery>0.57</battery>
+		</service>
+		<service id="175">
+			<energy>20.161</energy>
+			<cost>4.421</cost>
+			<benefit>0.695</benefit>
+			<reliability>0.483</reliability>
+			<response_time>92.346</response_time>
+			<security>0.605</security>
+			<trust>0.617</trust>
+			<bandwidth>122.763</bandwidth>
+			<mobility>0.303</mobility>
+			<battery>0.897</battery>
+		</service>
+		<service id="187">
+			<energy>23.18</energy>
+			<cost>2.875</cost>
+			<benefit>0.719</benefit>
+			<reliability>0.771</reliability>
+			<response_time>25.737</response_time>
+			<security>0.94</security>
+			<trust>0.769</trust>
+			<bandwidth>161.241</bandwidth>
+			<mobility>0.593</mobility>
+			<battery>0.59</battery>
+		</service>
+		<service id="268">
+			<energy>25.596</energy>
+			<cost>0.725</cost>
+			<benefit>0.861</benefit>
+			<reliability>0.757</reliability>
+			<response_time>6.612</response_time>
+			<security>0.517</security>
+			<trust>0.658</trust>
+			<bandwidth>227.356</bandwidth>
+			<mobility>0.505</mobility>
+			<battery>0.414</battery>
+		</service>
+		<service id="279">
+			<energy>23.355</energy>
+			<cost>4.491</cost>
+			<benefit>0.886</benefit>
+			<reliability>0.774</reliability>
+			<response_time>62.482</response_time>
+			<security>0.726</security>
+			<trust>0.568</trust>
+			<bandwidth>87.376</bandwidth>
+			<mobility>0.069</mobility>
+			<battery>0.393</battery>
+		</service>
+		<service id="35">
+			<energy>8.277</energy>
+			<cost>2.089</cost>
+			<benefit>0.095</benefit>
+			<reliability>0.329</reliability>
+			<response_time>203.239</response_time>
+			<security>0.531</security>
+			<trust>0.203</trust>
+			<bandwidth>63.255</bandwidth>
+			<mobility>0.831</mobility>
+			<battery>0.549</battery>
+		</service>
+		<service id="275">
+			<energy>31.057</energy>
+			<cost>9.169</cost>
+			<benefit>1.299</benefit>
+			<reliability>0.777</reliability>
+			<response_time>231.971</response_time>
+			<security>0.87</security>
+			<trust>0.979</trust>
+			<bandwidth>47.857</bandwidth>
+			<mobility>0.754</mobility>
+			<battery>0.618</battery>
+		</service>
+		<service id="79">
+			<energy>8.044</energy>
+			<cost>1.637</cost>
+			<benefit>0.351</benefit>
+			<reliability>0.318</reliability>
+			<response_time>89.406</response_time>
+			<security>0.655</security>
+			<trust>0.335</trust>
+			<bandwidth>29.164</bandwidth>
+			<mobility>0.417</mobility>
+			<battery>0.253</battery>
+		</service>
+		<service id="162">
+			<energy>17.788</energy>
+			<cost>2.923</cost>
+			<benefit>0.36</benefit>
+			<reliability>0.787</reliability>
+			<response_time>263.293</response_time>
+			<security>0.931</security>
+			<trust>0.407</trust>
+			<bandwidth>31.843</bandwidth>
+			<mobility>0.91</mobility>
+			<battery>0.936</battery>
+		</service>
+		<service id="250">
+			<energy>24.538</energy>
+			<cost>2.989</cost>
+			<benefit>0.791</benefit>
+			<reliability>0.748</reliability>
+			<response_time>88.311</response_time>
+			<security>0.751</security>
+			<trust>0.531</trust>
+			<bandwidth>74.414</bandwidth>
+			<mobility>0.575</mobility>
+			<battery>0.612</battery>
+		</service>
+		<service id="152">
+			<energy>13.326</energy>
+			<cost>1.509</cost>
+			<benefit>0.705</benefit>
+			<reliability>0.845</reliability>
+			<response_time>224.54</response_time>
+			<security>0.68</security>
+			<trust>0.757</trust>
+			<bandwidth>69.27</bandwidth>
+			<mobility>0.739</mobility>
+			<battery>0.794</battery>
+		</service>
+		<service id="119">
+			<energy>11.58</energy>
+			<cost>4.949</cost>
+			<benefit>0.575</benefit>
+			<reliability>0.655</reliability>
+			<response_time>32.761</response_time>
+			<security>0.609</security>
+			<trust>0.646</trust>
+			<bandwidth>127.106</bandwidth>
+			<mobility>0.144</mobility>
+			<battery>0.416</battery>
+		</service>
+		<service id="284">
+			<energy>25.909</energy>
+			<cost>9.167</cost>
+			<benefit>0.616</benefit>
+			<reliability>0.811</reliability>
+			<response_time>150.044</response_time>
+			<security>0.756</security>
+			<trust>0.805</trust>
+			<bandwidth>61.582</bandwidth>
+			<mobility>0.117</mobility>
+			<battery>0.867</battery>
+		</service>
+		<service id="19">
+			<energy>4.174</energy>
+			<cost>0.496</cost>
+			<benefit>0.086</benefit>
+			<reliability>0.454</reliability>
+			<response_time>146.091</response_time>
+			<security>0.869</security>
+			<trust>0.472</trust>
+			<bandwidth>30.418</bandwidth>
+			<mobility>0.888</mobility>
+			<battery>0.679</battery>
+		</service>
+		<service id="36">
+			<energy>4.393</energy>
+			<cost>0.521</cost>
+			<benefit>0.074</benefit>
+			<reliability>0.593</reliability>
+			<response_time>99.589</response_time>
+			<security>0.891</security>
+			<trust>0.434</trust>
+			<bandwidth>28.225</bandwidth>
+			<mobility>0.483</mobility>
+			<battery>0.527</battery>
+		</service>
+		<service id="146">
+			<energy>12.781</energy>
+			<cost>4.472</cost>
+			<benefit>0.702</benefit>
+			<reliability>0.866</reliability>
+			<response_time>51.577</response_time>
+			<security>0.761</security>
+			<trust>0.431</trust>
+			<bandwidth>77.119</bandwidth>
+			<mobility>0.149</mobility>
+			<battery>0.475</battery>
+		</service>
+		<service id="138">
+			<energy>17.145</energy>
+			<cost>0.954</cost>
+			<benefit>0.548</benefit>
+			<reliability>0.499</reliability>
+			<response_time>251.194</response_time>
+			<security>0.596</security>
+			<trust>0.974</trust>
+			<bandwidth>110.663</bandwidth>
+			<mobility>0.257</mobility>
+			<battery>0.292</battery>
+		</service>
+		<service id="197">
+			<energy>21.672</energy>
+			<cost>6.635</cost>
+			<benefit>0.514</benefit>
+			<reliability>0.752</reliability>
+			<response_time>289.841</response_time>
+			<security>0.912</security>
+			<trust>0.868</trust>
+			<bandwidth>160.003</bandwidth>
+			<mobility>0.001</mobility>
+			<battery>0.767</battery>
+		</service>
+		<service id="97">
+			<energy>9.596</energy>
+			<cost>2.049</cost>
+			<benefit>0.458</benefit>
+			<reliability>0.396</reliability>
+			<response_time>164.922</response_time>
+			<security>0.645</security>
+			<trust>0.761</trust>
+			<bandwidth>107.46</bandwidth>
+			<mobility>0.609</mobility>
+			<battery>0.867</battery>
+		</service>
+		<service id="174">
+			<energy>22.144</energy>
+			<cost>0.717</cost>
+			<benefit>0.697</benefit>
+			<reliability>0.703</reliability>
+			<response_time>60.44</response_time>
+			<security>0.975</security>
+			<trust>0.34</trust>
+			<bandwidth>139.233</bandwidth>
+			<mobility>0.84</mobility>
+			<battery>0.509</battery>
+		</service>
+		<service id="14">
+			<energy>5.992</energy>
+			<cost>0.19</cost>
+			<benefit>0.035</benefit>
+			<reliability>0.251</reliability>
+			<response_time>32.532</response_time>
+			<security>0.788</security>
+			<trust>0.5</trust>
+			<bandwidth>5.908</bandwidth>
+			<mobility>0.948</mobility>
+			<battery>0.394</battery>
+		</service>
+		<service id="265">
+			<energy>26.635</energy>
+			<cost>3.681</cost>
+			<benefit>1.318</benefit>
+			<reliability>0.973</reliability>
+			<response_time>4.427</response_time>
+			<security>0.639</security>
+			<trust>0.762</trust>
+			<bandwidth>199.67</bandwidth>
+			<mobility>0.029</mobility>
+			<battery>0.456</battery>
+		</service>
+		<service id="93">
+			<energy>13.096</energy>
+			<cost>3.745</cost>
+			<benefit>0.326</benefit>
+			<reliability>0.766</reliability>
+			<response_time>60.426</response_time>
+			<security>0.699</security>
+			<trust>0.753</trust>
+			<bandwidth>26.125</bandwidth>
+			<mobility>0.192</mobility>
+			<battery>0.193</battery>
+		</service>
+		<service id="182">
+			<energy>16.929</energy>
+			<cost>0.843</cost>
+			<benefit>0.658</benefit>
+			<reliability>0.655</reliability>
+			<response_time>264.981</response_time>
+			<security>0.76</security>
+			<trust>0.385</trust>
+			<bandwidth>124.624</bandwidth>
+			<mobility>0.127</mobility>
+			<battery>0.686</battery>
+		</service>
+		<service id="143">
+			<energy>19.053</energy>
+			<cost>3.065</cost>
+			<benefit>0.267</benefit>
+			<reliability>0.971</reliability>
+			<response_time>8.997</response_time>
+			<security>0.679</security>
+			<trust>0.359</trust>
+			<bandwidth>125.427</bandwidth>
+			<mobility>0.382</mobility>
+			<battery>0.844</battery>
+		</service>
+		<service id="149">
+			<energy>10.975</energy>
+			<cost>4.917</cost>
+			<benefit>0.5</benefit>
+			<reliability>0.602</reliability>
+			<response_time>260.549</response_time>
+			<security>0.932</security>
+			<trust>0.498</trust>
+			<bandwidth>141.026</bandwidth>
+			<mobility>0.727</mobility>
+			<battery>0.277</battery>
+		</service>
+		<service id="131">
+			<energy>12.953</energy>
+			<cost>4.751</cost>
+			<benefit>0.648</benefit>
+			<reliability>0.515</reliability>
+			<response_time>162.785</response_time>
+			<security>0.808</security>
+			<trust>0.375</trust>
+			<bandwidth>63.486</bandwidth>
+			<mobility>0.03</mobility>
+			<battery>0.478</battery>
+		</service>
+		<service id="39">
+			<energy>6.663</energy>
+			<cost>1.109</cost>
+			<benefit>0.119</benefit>
+			<reliability>0.241</reliability>
+			<response_time>160.539</response_time>
+			<security>0.865</security>
+			<trust>0.328</trust>
+			<bandwidth>13.991</bandwidth>
+			<mobility>0.206</mobility>
+			<battery>0.344</battery>
+		</service>
+		<service id="171">
+			<energy>19.166</energy>
+			<cost>3.079</cost>
+			<benefit>0.37</benefit>
+			<reliability>0.522</reliability>
+			<response_time>85.702</response_time>
+			<security>0.576</security>
+			<trust>0.834</trust>
+			<bandwidth>85.677</bandwidth>
+			<mobility>0.808</mobility>
+			<battery>0.4</battery>
+		</service>
+		<service id="53">
+			<energy>9.421</energy>
+			<cost>0.218</cost>
+			<benefit>0.245</benefit>
+			<reliability>0.652</reliability>
+			<response_time>85.565</response_time>
+			<security>0.918</security>
+			<trust>0.964</trust>
+			<bandwidth>34.209</bandwidth>
+			<mobility>0.008</mobility>
+			<battery>0.136</battery>
+		</service>
+		<service id="299">
+			<energy>33.85</energy>
+			<cost>9.041</cost>
+			<benefit>0.555</benefit>
+			<reliability>0.93</reliability>
+			<response_time>112.417</response_time>
+			<security>0.878</security>
+			<trust>0.846</trust>
+			<bandwidth>226.371</bandwidth>
+			<mobility>0.863</mobility>
+			<battery>0.864</battery>
+		</service>
+		<service id="83">
+			<energy>7.923</energy>
+			<cost>2.391</cost>
+			<benefit>0.36</benefit>
+			<reliability>0.325</reliability>
+			<response_time>159.126</response_time>
+			<security>0.939</security>
+			<trust>0.378</trust>
+			<bandwidth>54.654</bandwidth>
+			<mobility>0.923</mobility>
+			<battery>0.231</battery>
+		</service>
+	</services>
+	<composition_plans>
+		<composition id="1">
+			<service id="113"/>
+			<service id="172"/>
+		</composition>
+		<composition id="2">
+			<service id="125"/>
+			<service id="283"/>
+			<service id="225"/>
+			<service id="276"/>
+		</composition>
+		<composition id="3">
+			<service id="170"/>
+			<service id="160"/>
+			<service id="223"/>
+			<service id="132"/>
+			<service id="18"/>
+		</composition>
+		<composition id="4">
+			<service id="214"/>
+			<service id="233"/>
+		</composition>
+		<composition id="5">
+			<service id="129"/>
+			<service id="213"/>
+			<service id="144"/>
+			<service id="149"/>
+			<service id="137"/>
+			<service id="270"/>
+			<service id="15"/>
+			<service id="102"/>
+			<service id="172"/>
+			<service id="260"/>
+		</composition>
+		<composition id="6">
+			<service id="13"/>
+			<service id="153"/>
+		</composition>
+		<composition id="7">
+			<service id="15"/>
+			<service id="111"/>
+			<service id="158"/>
+			<service id="229"/>
+			<service id="216"/>
+			<service id="297"/>
+			<service id="200"/>
+		</composition>
+		<composition id="8">
+			<service id="184"/>
+			<service id="10"/>
+			<service id="140"/>
+			<service id="74"/>
+		</composition>
+		<composition id="9">
+			<service id="172"/>
+			<service id="25"/>
+			<service id="14"/>
+			<service id="171"/>
+			<service id="69"/>
+			<service id="105"/>
+			<service id="278"/>
+		</composition>
+		<composition id="10">
+			<service id="44"/>
+			<service id="238"/>
+			<service id="206"/>
+			<service id="135"/>
+			<service id="232"/>
+			<service id="110"/>
+			<service id="236"/>
+			<service id="13"/>
+			<service id="243"/>
+		</composition>
+		<composition id="11">
+			<service id="199"/>
+			<service id="60"/>
+			<service id="5"/>
+			<service id="277"/>
+			<service id="267"/>
+		</composition>
+		<composition id="12">
+			<service id="245"/>
+			<service id="275"/>
+		</composition>
+		<composition id="13">
+			<service id="209"/>
+			<service id="121"/>
+		</composition>
+		<composition id="14">
+			<service id="265"/>
+			<service id="163"/>
+			<service id="106"/>
+			<service id="116"/>
+		</composition>
+		<composition id="15">
+			<service id="184"/>
+			<service id="118"/>
+			<service id="258"/>
+			<service id="202"/>
+			<service id="88"/>
+			<service id="147"/>
+			<service id="206"/>
+		</composition>
+		<composition id="16">
+			<service id="89"/>
+			<service id="12"/>
+		</composition>
+		<composition id="17">
+			<service id="136"/>
+			<service id="78"/>
+			<service id="132"/>
+			<service id="51"/>
+			<service id="186"/>
+			<service id="193"/>
+			<service id="206"/>
+			<service id="236"/>
+		</composition>
+	</composition_plans>
+</cloud>
